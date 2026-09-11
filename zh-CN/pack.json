@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
   "language": "zh-CN",
-  "generatedAt": "2026-09-11T19:58:09+08:00",
+  "generatedAt": "2026-09-11T20:01:59+08:00",
   "names": {
     "schemaVersion": 1,
     "language": "zh-CN",
-    "generatedAt": "2026-09-11T19:58:09+08:00",
+    "generatedAt": "2026-09-11T20:01:59+08:00",
     "entries": [
       {
         "Ja": "主人公",
@@ -3982,13 +3982,27 @@
         "Alias": "",
         "Status": "pack",
         "Note": "unit 80 新角色。**按你的要求：Ｇｅｎ．Ｃ． 保留不译，只译后面的日文部分**。依据：カナ「じぇんしーばーみりおん」+ 档案原文『ジェネラル．クリスティ．バーミリオン』，可知 Ｇｅｎ．Ｃ．＝ジェネラル．クリスティ（General＋Christy）的缩写，故保留拉丁字母原样；バーミリオン（Vermillion）音译为“巴米利恩”；全角点号「．」照原文保留。**代称列（alias）留空，由你填写**（游戏内显示为“Ｇｅｎ．Ｃ．巴米利恩（代称）”）。"
+      },
+      {
+        "Ja": "ルゥ=ルルサ",
+        "Zh": "露＝露露莎",
+        "Alias": "蓝偶像",
+        "Status": "pack",
+        "Note": "由 alias_fill.csv 补充的写法变体"
+      },
+      {
+        "Ja": "ルセ=ルルカ",
+        "Zh": "露瑟＝露露卡",
+        "Alias": "粉偶像",
+        "Status": "pack",
+        "Note": "由 alias_fill.csv 补充的写法变体"
       }
     ]
   },
   "profiles": {
     "schemaVersion": 1,
     "language": "zh-CN",
-    "generatedAt": "2026-09-11T19:58:09+08:00",
+    "generatedAt": "2026-09-11T20:01:59+08:00",
     "entries": [
       {
         "groupId": 1,
