@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
   "language": "zh-CN",
-  "generatedAt": "2026-09-11T21:11:09+08:00",
+  "generatedAt": "2026-09-12T00:41:15+08:00",
   "names": {
     "schemaVersion": 1,
     "language": "zh-CN",
-    "generatedAt": "2026-09-11T21:11:09+08:00",
+    "generatedAt": "2026-09-12T00:41:15+08:00",
     "entries": [
       {
         "Ja": "主人公",
@@ -171,7 +171,7 @@
       {
         "Ja": "ディシア",
         "Zh": "迪希娅",
-        "Alias": "暂无",
+        "Alias": "最好看的那个",
         "Status": "pack",
         "Note": "出现 222 次, 场景数 12 / roster:id=78"
       },
