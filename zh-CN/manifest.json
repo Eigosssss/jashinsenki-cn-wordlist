@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
   "language": "zh-CN",
-  "generatedAt": "2026-09-11T17:53:45+08:00",
+  "generatedAt": "2026-09-11T17:58:39+08:00",
   "packFile": "pack.json",
-  "packSha256": "a198a35f05d3d7a49a011fc2bfb45efbc1f5c59abf3d1d3fbe3135356d62aa4c",
+  "packSha256": "e6431b9abe40e6560489ef827e027205f61631c50fab50e965db21499c348111",
   "counts": {
-    "namesEntries": 578,
+    "namesEntries": 579,
     "profilesEntries": 324
   },
   "game": "rlyehshoujotaix_cl"
