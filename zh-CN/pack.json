@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
   "language": "zh-CN",
-  "generatedAt": "2026-09-11T17:52:10+08:00",
+  "generatedAt": "2026-09-11T17:53:45+08:00",
   "names": {
     "schemaVersion": 1,
     "language": "zh-CN",
-    "generatedAt": "2026-09-11T17:52:10+08:00",
+    "generatedAt": "2026-09-11T17:53:45+08:00",
     "entries": [
       {
         "Ja": "主人公",
@@ -4058,7 +4058,7 @@
   "profiles": {
     "schemaVersion": 1,
     "language": "zh-CN",
-    "generatedAt": "2026-09-11T17:52:10+08:00",
+    "generatedAt": "2026-09-11T17:53:45+08:00",
     "audit": {
       "batch": "full-324",
       "entriesTotal": 324,
