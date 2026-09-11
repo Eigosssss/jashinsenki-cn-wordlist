@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
   "language": "zh-CN",
-  "generatedAt": "2026-09-12T00:41:15+08:00",
+  "generatedAt": "2026-09-12T00:47:51+08:00",
   "names": {
     "schemaVersion": 1,
     "language": "zh-CN",
-    "generatedAt": "2026-09-12T00:41:15+08:00",
+    "generatedAt": "2026-09-12T00:47:51+08:00",
     "entries": [
       {
         "Ja": "主人公",
@@ -283,7 +283,7 @@
       {
         "Ja": "ララヴァ",
         "Zh": "拉拉瓦",
-        "Alias": "暂无",
+        "Alias": "测试",
         "Status": "pack",
         "Note": "出现 175 次, 场景数 10 / roster:id=3"
       },
