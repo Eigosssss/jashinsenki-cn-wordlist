@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
   "language": "zh-CN",
-  "generatedAt": "2026-09-11T20:01:59+08:00",
+  "generatedAt": "2026-09-11T21:11:09+08:00",
   "names": {
     "schemaVersion": 1,
     "language": "zh-CN",
-    "generatedAt": "2026-09-11T20:01:59+08:00",
+    "generatedAt": "2026-09-11T21:11:09+08:00",
     "entries": [
       {
         "Ja": "主人公",
@@ -87,7 +87,7 @@
       {
         "Ja": "トレイラ",
         "Zh": "特蕾拉",
-        "Alias": "",
+        "Alias": "暂无",
         "Status": "pack",
         "Note": "出现 286 次, 场景数 21 / roster:id=20"
       },
@@ -129,7 +129,7 @@
       {
         "Ja": "イヴ・メサイア",
         "Zh": "伊芙·弥赛亚",
-        "Alias": "",
+        "Alias": "暂无",
         "Status": "pack",
         "Note": "出现 240 次, 场景数 12 / roster:id=48"
       },
@@ -164,14 +164,14 @@
       {
         "Ja": "クアローラ",
         "Zh": "库娅萝拉",
-        "Alias": "",
+        "Alias": "暂无",
         "Status": "pack",
         "Note": "出现 224 次, 场景数 16 / roster:id=38"
       },
       {
         "Ja": "ディシア",
         "Zh": "迪希娅",
-        "Alias": "",
+        "Alias": "暂无",
         "Status": "pack",
         "Note": "出现 222 次, 场景数 12 / roster:id=78"
       },
@@ -248,14 +248,14 @@
       {
         "Ja": "サイオン",
         "Zh": "赛昂",
-        "Alias": "",
+        "Alias": "暂无",
         "Status": "pack",
         "Note": "出现 183 次, 场景数 9 / roster:id=21"
       },
       {
         "Ja": "プリゾナ",
         "Zh": "普莉佐娜",
-        "Alias": "",
+        "Alias": "暂无",
         "Status": "pack",
         "Note": "出现 183 次, 场景数 11 / roster:id=67 / roster:id=280021"
       },
@@ -283,7 +283,7 @@
       {
         "Ja": "ララヴァ",
         "Zh": "拉拉瓦",
-        "Alias": "",
+        "Alias": "暂无",
         "Status": "pack",
         "Note": "出现 175 次, 场景数 10 / roster:id=3"
       },
@@ -325,7 +325,7 @@
       {
         "Ja": "ラツィーネ",
         "Zh": "拉齐妮",
-        "Alias": "",
+        "Alias": "蜘蛛",
         "Status": "pack",
         "Note": "出现 165 次, 场景数 6 / roster:id=22"
       },
@@ -367,7 +367,7 @@
       {
         "Ja": "ガーネシオン",
         "Zh": "加涅西翁",
-        "Alias": "",
+        "Alias": "暂无",
         "Status": "pack",
         "Note": "出现 158 次, 场景数 10 / roster:id=58 / roster:id=280008"
       },
@@ -437,7 +437,7 @@
       {
         "Ja": "ウェンディ",
         "Zh": "温蒂",
-        "Alias": "",
+        "Alias": "暂无",
         "Status": "pack",
         "Note": "出现 139 次, 场景数 5 / roster:id=6"
       },
@@ -3979,7 +3979,7 @@
       {
         "Ja": "Ｇｅｎ．Ｃ．バーミリオン",
         "Zh": "Ｇｅｎ．Ｃ．巴米利恩",
-        "Alias": "",
+        "Alias": "将军",
         "Status": "pack",
         "Note": "unit 80 新角色。**按你的要求：Ｇｅｎ．Ｃ． 保留不译，只译后面的日文部分**。依据：カナ「じぇんしーばーみりおん」+ 档案原文『ジェネラル．クリスティ．バーミリオン』，可知 Ｇｅｎ．Ｃ．＝ジェネラル．クリスティ（General＋Christy）的缩写，故保留拉丁字母原样；バーミリオン（Vermillion）音译为“巴米利恩”；全角点号「．」照原文保留。**代称列（alias）留空，由你填写**（游戏内显示为“Ｇｅｎ．Ｃ．巴米利恩（代称）”）。"
       },
