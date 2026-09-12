@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "language": "zh-CN",
-  "generatedAt": "2026-09-13T00:16:19+08:00",
+  "generatedAt": "2026-09-13T00:58:17+08:00",
   "names": {
   "schemaVersion": 1,
   "language": "zh-CN",
@@ -7249,7 +7249,7 @@
   "extras": {
     "schemaVersion":  1,
     "language":  "zh-CN",
-    "generatedAt":  "2026-09-13T00:06:47+08:00",
+    "generatedAt":  "2026-09-13T00:58:08+08:00",
     "audit":  {
                   "candidates":  1037,
                   "uniqueKeys":  970,
@@ -7259,9 +7259,9 @@
                   "enablePending":  333,
                   "uiV2Added":  783,
                   "uiV3Added":  631,
-                  "addedByHand":  6,
-                  "batchAdded":  3600,
-                  "enabled":  10928,
+                  "addedByHand":  200,
+                  "batchAdded":  188,
+                  "enabled":  11316,
                   "pending":  0
               },
     "entries":  [
@@ -105616,6 +105616,3498 @@
                         "zh":  "飞行试验遗憾地失败了。\n但赛昂说这也在预料之中。\n面对声称实验就是要反复尝试直到成功的她，夏莉也回想起自己日复一日坚持练习直到成功，重新振作起来。",
                         "status":  "draft",
                         "note":  "ui-v7"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_1",
+                        "ja":  "報酬１",
+                        "zh":  "报酬1",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_2",
+                        "ja":  "報酬１０",
+                        "zh":  "报酬10",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_3",
+                        "ja":  "報酬１００",
+                        "zh":  "报酬100",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_4",
+                        "ja":  "報酬１１",
+                        "zh":  "报酬11",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_5",
+                        "ja":  "報酬１２",
+                        "zh":  "报酬12",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_6",
+                        "ja":  "報酬１３",
+                        "zh":  "报酬13",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_7",
+                        "ja":  "報酬１４",
+                        "zh":  "报酬14",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_8",
+                        "ja":  "報酬１５",
+                        "zh":  "报酬15",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_9",
+                        "ja":  "報酬１６",
+                        "zh":  "报酬16",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_10",
+                        "ja":  "報酬１７",
+                        "zh":  "报酬17",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_11",
+                        "ja":  "報酬１８",
+                        "zh":  "报酬18",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_12",
+                        "ja":  "報酬１９",
+                        "zh":  "报酬19",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_13",
+                        "ja":  "報酬２",
+                        "zh":  "报酬2",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_14",
+                        "ja":  "報酬２０",
+                        "zh":  "报酬20",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_15",
+                        "ja":  "報酬２１",
+                        "zh":  "报酬21",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_16",
+                        "ja":  "報酬２２",
+                        "zh":  "报酬22",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_17",
+                        "ja":  "報酬２３",
+                        "zh":  "报酬23",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_18",
+                        "ja":  "報酬２４",
+                        "zh":  "报酬24",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_19",
+                        "ja":  "報酬２５",
+                        "zh":  "报酬25",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_20",
+                        "ja":  "報酬２６",
+                        "zh":  "报酬26",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_21",
+                        "ja":  "報酬２７",
+                        "zh":  "报酬27",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_22",
+                        "ja":  "報酬２８",
+                        "zh":  "报酬28",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_23",
+                        "ja":  "報酬２９",
+                        "zh":  "报酬29",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_24",
+                        "ja":  "報酬３",
+                        "zh":  "报酬3",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_25",
+                        "ja":  "報酬３０",
+                        "zh":  "报酬30",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_26",
+                        "ja":  "報酬３１",
+                        "zh":  "报酬31",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_27",
+                        "ja":  "報酬３２",
+                        "zh":  "报酬32",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_28",
+                        "ja":  "報酬３３",
+                        "zh":  "报酬33",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_29",
+                        "ja":  "報酬３４",
+                        "zh":  "报酬34",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_30",
+                        "ja":  "報酬３５",
+                        "zh":  "报酬35",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_31",
+                        "ja":  "報酬３６",
+                        "zh":  "报酬36",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_32",
+                        "ja":  "報酬３７",
+                        "zh":  "报酬37",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_33",
+                        "ja":  "報酬３８",
+                        "zh":  "报酬38",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_34",
+                        "ja":  "報酬３９",
+                        "zh":  "报酬39",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_35",
+                        "ja":  "報酬４",
+                        "zh":  "报酬4",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_36",
+                        "ja":  "報酬４０",
+                        "zh":  "报酬40",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_37",
+                        "ja":  "報酬４１",
+                        "zh":  "报酬41",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_38",
+                        "ja":  "報酬４２",
+                        "zh":  "报酬42",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_39",
+                        "ja":  "報酬４３",
+                        "zh":  "报酬43",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_40",
+                        "ja":  "報酬４４",
+                        "zh":  "报酬44",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_41",
+                        "ja":  "報酬４５",
+                        "zh":  "报酬45",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_42",
+                        "ja":  "報酬４６",
+                        "zh":  "报酬46",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_43",
+                        "ja":  "報酬４７",
+                        "zh":  "报酬47",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_44",
+                        "ja":  "報酬４８",
+                        "zh":  "报酬48",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_45",
+                        "ja":  "報酬４９",
+                        "zh":  "报酬49",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_46",
+                        "ja":  "報酬５",
+                        "zh":  "报酬5",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_47",
+                        "ja":  "報酬５０",
+                        "zh":  "报酬50",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_48",
+                        "ja":  "報酬５１",
+                        "zh":  "报酬51",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_49",
+                        "ja":  "報酬５２",
+                        "zh":  "报酬52",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_50",
+                        "ja":  "報酬５３",
+                        "zh":  "报酬53",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_51",
+                        "ja":  "報酬５４",
+                        "zh":  "报酬54",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_52",
+                        "ja":  "報酬５５",
+                        "zh":  "报酬55",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_53",
+                        "ja":  "報酬５６",
+                        "zh":  "报酬56",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_54",
+                        "ja":  "報酬５７",
+                        "zh":  "报酬57",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_55",
+                        "ja":  "報酬５８",
+                        "zh":  "报酬58",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_56",
+                        "ja":  "報酬５９",
+                        "zh":  "报酬59",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_57",
+                        "ja":  "報酬６",
+                        "zh":  "报酬6",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_58",
+                        "ja":  "報酬６０",
+                        "zh":  "报酬60",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_59",
+                        "ja":  "報酬６１",
+                        "zh":  "报酬61",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_60",
+                        "ja":  "報酬６２",
+                        "zh":  "报酬62",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_61",
+                        "ja":  "報酬６３",
+                        "zh":  "报酬63",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_62",
+                        "ja":  "報酬６４",
+                        "zh":  "报酬64",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_63",
+                        "ja":  "報酬６５",
+                        "zh":  "报酬65",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_64",
+                        "ja":  "報酬６６",
+                        "zh":  "报酬66",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_65",
+                        "ja":  "報酬６７",
+                        "zh":  "报酬67",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_66",
+                        "ja":  "報酬６８",
+                        "zh":  "报酬68",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_67",
+                        "ja":  "報酬６９",
+                        "zh":  "报酬69",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_68",
+                        "ja":  "報酬７",
+                        "zh":  "报酬7",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_69",
+                        "ja":  "報酬７０",
+                        "zh":  "报酬70",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_70",
+                        "ja":  "報酬７１",
+                        "zh":  "报酬71",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_71",
+                        "ja":  "報酬７２",
+                        "zh":  "报酬72",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_72",
+                        "ja":  "報酬７３",
+                        "zh":  "报酬73",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_73",
+                        "ja":  "報酬７４",
+                        "zh":  "报酬74",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_74",
+                        "ja":  "報酬７５",
+                        "zh":  "报酬75",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_75",
+                        "ja":  "報酬７６",
+                        "zh":  "报酬76",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_76",
+                        "ja":  "報酬７７",
+                        "zh":  "报酬77",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_77",
+                        "ja":  "報酬７８",
+                        "zh":  "报酬78",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_78",
+                        "ja":  "報酬７９",
+                        "zh":  "报酬79",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_79",
+                        "ja":  "報酬８",
+                        "zh":  "报酬8",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_80",
+                        "ja":  "報酬８０",
+                        "zh":  "报酬80",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_81",
+                        "ja":  "報酬８１",
+                        "zh":  "报酬81",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_82",
+                        "ja":  "報酬８２",
+                        "zh":  "报酬82",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_83",
+                        "ja":  "報酬８３",
+                        "zh":  "报酬83",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_84",
+                        "ja":  "報酬８４",
+                        "zh":  "报酬84",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_85",
+                        "ja":  "報酬８５",
+                        "zh":  "报酬85",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_86",
+                        "ja":  "報酬８６",
+                        "zh":  "报酬86",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_87",
+                        "ja":  "報酬８７",
+                        "zh":  "报酬87",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_88",
+                        "ja":  "報酬８８",
+                        "zh":  "报酬88",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_89",
+                        "ja":  "報酬８９",
+                        "zh":  "报酬89",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_90",
+                        "ja":  "報酬９",
+                        "zh":  "报酬9",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_91",
+                        "ja":  "報酬９０",
+                        "zh":  "报酬90",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_92",
+                        "ja":  "報酬９１",
+                        "zh":  "报酬91",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_93",
+                        "ja":  "報酬９２",
+                        "zh":  "报酬92",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_94",
+                        "ja":  "報酬９３",
+                        "zh":  "报酬93",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_95",
+                        "ja":  "報酬９４",
+                        "zh":  "报酬94",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_96",
+                        "ja":  "報酬９５",
+                        "zh":  "报酬95",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_97",
+                        "ja":  "報酬９６",
+                        "zh":  "报酬96",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_98",
+                        "ja":  "報酬９７",
+                        "zh":  "报酬97",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_99",
+                        "ja":  "報酬９８",
+                        "zh":  "报酬98",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_100",
+                        "ja":  "報酬９９",
+                        "zh":  "报酬99",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_101",
+                        "ja":  "レベル１００報酬",
+                        "zh":  "等级100奖励",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_102",
+                        "ja":  "レベル１０報酬",
+                        "zh":  "等级10奖励",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_103",
+                        "ja":  "レベル１１報酬",
+                        "zh":  "等级11奖励",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_104",
+                        "ja":  "レベル１２報酬",
+                        "zh":  "等级12奖励",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_105",
+                        "ja":  "レベル１３報酬",
+                        "zh":  "等级13奖励",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_106",
+                        "ja":  "レベル１４報酬",
+                        "zh":  "等级14奖励",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_107",
+                        "ja":  "レベル１５報酬",
+                        "zh":  "等级15奖励",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_108",
+                        "ja":  "レベル１６報酬",
+                        "zh":  "等级16奖励",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_109",
+                        "ja":  "レベル１７報酬",
+                        "zh":  "等级17奖励",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_110",
+                        "ja":  "レベル１８報酬",
+                        "zh":  "等级18奖励",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_111",
+                        "ja":  "レベル１９報酬",
+                        "zh":  "等级19奖励",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_112",
+                        "ja":  "レベル１報酬",
+                        "zh":  "等级1奖励",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_113",
+                        "ja":  "レベル２０報酬",
+                        "zh":  "等级20奖励",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_114",
+                        "ja":  "レベル２１報酬",
+                        "zh":  "等级21奖励",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_115",
+                        "ja":  "レベル２２報酬",
+                        "zh":  "等级22奖励",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_116",
+                        "ja":  "レベル２３報酬",
+                        "zh":  "等级23奖励",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_117",
+                        "ja":  "レベル２４報酬",
+                        "zh":  "等级24奖励",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_118",
+                        "ja":  "レベル２５報酬",
+                        "zh":  "等级25奖励",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_119",
+                        "ja":  "レベル２６報酬",
+                        "zh":  "等级26奖励",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_120",
+                        "ja":  "レベル２７報酬",
+                        "zh":  "等级27奖励",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_121",
+                        "ja":  "レベル２８報酬",
+                        "zh":  "等级28奖励",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_122",
+                        "ja":  "レベル２９報酬",
+                        "zh":  "等级29奖励",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_123",
+                        "ja":  "レベル２報酬",
+                        "zh":  "等级2奖励",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_124",
+                        "ja":  "レベル３０報酬",
+                        "zh":  "等级30奖励",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_125",
+                        "ja":  "レベル３１報酬",
+                        "zh":  "等级31奖励",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_126",
+                        "ja":  "レベル３２報酬",
+                        "zh":  "等级32奖励",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_127",
+                        "ja":  "レベル３３報酬",
+                        "zh":  "等级33奖励",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_128",
+                        "ja":  "レベル３４報酬",
+                        "zh":  "等级34奖励",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_129",
+                        "ja":  "レベル３５報酬",
+                        "zh":  "等级35奖励",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_130",
+                        "ja":  "レベル３６報酬",
+                        "zh":  "等级36奖励",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_131",
+                        "ja":  "レベル３７報酬",
+                        "zh":  "等级37奖励",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_132",
+                        "ja":  "レベル３８報酬",
+                        "zh":  "等级38奖励",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_133",
+                        "ja":  "レベル３９報酬",
+                        "zh":  "等级39奖励",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_134",
+                        "ja":  "レベル３報酬",
+                        "zh":  "等级3奖励",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_135",
+                        "ja":  "レベル４０報酬",
+                        "zh":  "等级40奖励",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_136",
+                        "ja":  "レベル４１報酬",
+                        "zh":  "等级41奖励",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_137",
+                        "ja":  "レベル４２報酬",
+                        "zh":  "等级42奖励",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_138",
+                        "ja":  "レベル４３報酬",
+                        "zh":  "等级43奖励",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_139",
+                        "ja":  "レベル４４報酬",
+                        "zh":  "等级44奖励",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_140",
+                        "ja":  "レベル４５報酬",
+                        "zh":  "等级45奖励",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_141",
+                        "ja":  "レベル４６報酬",
+                        "zh":  "等级46奖励",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_142",
+                        "ja":  "レベル４７報酬",
+                        "zh":  "等级47奖励",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_143",
+                        "ja":  "レベル４８報酬",
+                        "zh":  "等级48奖励",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_144",
+                        "ja":  "レベル４９報酬",
+                        "zh":  "等级49奖励",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_145",
+                        "ja":  "レベル４報酬",
+                        "zh":  "等级4奖励",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_146",
+                        "ja":  "レベル５０報酬",
+                        "zh":  "等级50奖励",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_147",
+                        "ja":  "レベル５１報酬",
+                        "zh":  "等级51奖励",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_148",
+                        "ja":  "レベル５２報酬",
+                        "zh":  "等级52奖励",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_149",
+                        "ja":  "レベル５３報酬",
+                        "zh":  "等级53奖励",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_150",
+                        "ja":  "レベル５４報酬",
+                        "zh":  "等级54奖励",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_151",
+                        "ja":  "レベル５５報酬",
+                        "zh":  "等级55奖励",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_152",
+                        "ja":  "レベル５６報酬",
+                        "zh":  "等级56奖励",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_153",
+                        "ja":  "レベル５７報酬",
+                        "zh":  "等级57奖励",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_154",
+                        "ja":  "レベル５８報酬",
+                        "zh":  "等级58奖励",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_155",
+                        "ja":  "レベル５９報酬",
+                        "zh":  "等级59奖励",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_156",
+                        "ja":  "レベル５報酬",
+                        "zh":  "等级5奖励",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_157",
+                        "ja":  "レベル６０報酬",
+                        "zh":  "等级60奖励",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_158",
+                        "ja":  "レベル６１報酬",
+                        "zh":  "等级61奖励",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_159",
+                        "ja":  "レベル６２報酬",
+                        "zh":  "等级62奖励",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_160",
+                        "ja":  "レベル６３報酬",
+                        "zh":  "等级63奖励",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_161",
+                        "ja":  "レベル６４報酬",
+                        "zh":  "等级64奖励",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_162",
+                        "ja":  "レベル６５報酬",
+                        "zh":  "等级65奖励",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_163",
+                        "ja":  "レベル６６報酬",
+                        "zh":  "等级66奖励",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_164",
+                        "ja":  "レベル６７報酬",
+                        "zh":  "等级67奖励",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_165",
+                        "ja":  "レベル６８報酬",
+                        "zh":  "等级68奖励",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_166",
+                        "ja":  "レベル６９報酬",
+                        "zh":  "等级69奖励",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_167",
+                        "ja":  "レベル６報酬",
+                        "zh":  "等级6奖励",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_168",
+                        "ja":  "レベル７０報酬",
+                        "zh":  "等级70奖励",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_169",
+                        "ja":  "レベル７１報酬",
+                        "zh":  "等级71奖励",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_170",
+                        "ja":  "レベル７２報酬",
+                        "zh":  "等级72奖励",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_171",
+                        "ja":  "レベル７３報酬",
+                        "zh":  "等级73奖励",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_172",
+                        "ja":  "レベル７４報酬",
+                        "zh":  "等级74奖励",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_173",
+                        "ja":  "レベル７５報酬",
+                        "zh":  "等级75奖励",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_174",
+                        "ja":  "レベル７６報酬",
+                        "zh":  "等级76奖励",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_175",
+                        "ja":  "レベル７７報酬",
+                        "zh":  "等级77奖励",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_176",
+                        "ja":  "レベル７８報酬",
+                        "zh":  "等级78奖励",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_177",
+                        "ja":  "レベル７９報酬",
+                        "zh":  "等级79奖励",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_178",
+                        "ja":  "レベル７報酬",
+                        "zh":  "等级7奖励",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_179",
+                        "ja":  "レベル８０報酬",
+                        "zh":  "等级80奖励",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_180",
+                        "ja":  "レベル８１報酬",
+                        "zh":  "等级81奖励",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_181",
+                        "ja":  "レベル８２報酬",
+                        "zh":  "等级82奖励",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_182",
+                        "ja":  "レベル８３報酬",
+                        "zh":  "等级83奖励",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_183",
+                        "ja":  "レベル８４報酬",
+                        "zh":  "等级84奖励",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_184",
+                        "ja":  "レベル８５報酬",
+                        "zh":  "等级85奖励",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_185",
+                        "ja":  "レベル８６報酬",
+                        "zh":  "等级86奖励",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_186",
+                        "ja":  "レベル８７報酬",
+                        "zh":  "等级87奖励",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_187",
+                        "ja":  "レベル８８報酬",
+                        "zh":  "等级88奖励",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_188",
+                        "ja":  "レベル８９報酬",
+                        "zh":  "等级89奖励",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_189",
+                        "ja":  "レベル８報酬",
+                        "zh":  "等级8奖励",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_190",
+                        "ja":  "レベル９０報酬",
+                        "zh":  "等级90奖励",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_191",
+                        "ja":  "レベル９１報酬",
+                        "zh":  "等级91奖励",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_192",
+                        "ja":  "レベル９２報酬",
+                        "zh":  "等级92奖励",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_193",
+                        "ja":  "レベル９３報酬",
+                        "zh":  "等级93奖励",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_194",
+                        "ja":  "レベル９４報酬",
+                        "zh":  "等级94奖励",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_195",
+                        "ja":  "レベル９５報酬",
+                        "zh":  "等级95奖励",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_196",
+                        "ja":  "レベル９６報酬",
+                        "zh":  "等级96奖励",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_197",
+                        "ja":  "レベル９７報酬",
+                        "zh":  "等级97奖励",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_198",
+                        "ja":  "レベル９８報酬",
+                        "zh":  "等级98奖励",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_199",
+                        "ja":  "レベル９９報酬",
+                        "zh":  "等级99奖励",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "TMPL_REWARD_200",
+                        "ja":  "レベル９報酬",
+                        "zh":  "等级9奖励",
+                        "status":  "draft",
+                        "note":  "肉鸽总奖励进度标签（脚本生成，数字保留）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_1",
+                        "ja":  "通常",
+                        "zh":  "通常",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_2",
+                        "ja":  "ミッションパス",
+                        "zh":  "任务通行证",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_3",
+                        "ja":  "ミッションpt",
+                        "zh":  "任务pt",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_4",
+                        "ja":  "パスミッションが進捗します",
+                        "zh":  "通行证任务进度提升",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_5",
+                        "ja":  "パスミッション内の上級報酬枠が開放されます。",
+                        "zh":  "通行证任务内的高级奖励栏位将解锁。",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_6",
+                        "ja":  "パスミッション",
+                        "zh":  "通行证任务",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_7",
+                        "ja":  "腐朽の城壁",
+                        "zh":  "腐朽城墙",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_8",
+                        "ja":  "ステータス減少",
+                        "zh":  "属性下降",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_9",
+                        "ja":  "デフォルト",
+                        "zh":  "默认",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_10",
+                        "ja":  "アーティファクト研究を行う",
+                        "zh":  "进行神器研究",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_11",
+                        "ja":  "より強力な投薬実験を行う",
+                        "zh":  "进行更强力的投药实验",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_12",
+                        "ja":  "崇高な儀式の準備を行う",
+                        "zh":  "进行崇高仪式的准备",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_13",
+                        "ja":  "神殿を清める",
+                        "zh":  "净化神殿",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_14",
+                        "ja":  "投薬実験を行う",
+                        "zh":  "进行投药实验",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_15",
+                        "ja":  "邪神様に供物を献上する",
+                        "zh":  "向邪神大人献上供品",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_16",
+                        "ja":  "邪神様の怒りを鎮める",
+                        "zh":  "平息邪神大人的怒火",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_17",
+                        "ja":  "儀式の準備を行う",
+                        "zh":  "进行仪式准备",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_18",
+                        "ja":  "戦闘訓練を実施する",
+                        "zh":  "实施战斗训练",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_19",
+                        "ja":  "継承者メダル獲得特典",
+                        "zh":  "继承者奖章获得特典",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_20",
+                        "ja":  "50万人突破記念ログインボーナス",
+                        "zh":  "50万人突破纪念登录奖励",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_21",
+                        "ja":  "あ～、待ちくたびれたよご主人くん。\nねぇ今日は何から始める？",
+                        "zh":  "啊～，我等得都不耐烦了哦，主人君。\n呐，今天要从什么开始？",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_22",
+                        "ja":  "さすがご主人くん♪\nお姉ちゃんがご褒美をあげますよぉ。",
+                        "zh":  "不愧是主人君♪\n姐姐就给你奖励吧。",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_23",
+                        "ja":  "さすがだな、ご主人。\n私の目に狂いはなかったぜ。",
+                        "zh":  "不愧是您，主人。\n我的眼光果然没错。",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_24",
+                        "ja":  "プレゼント？　アンタもやるじゃーん。",
+                        "zh":  "礼物？　你还挺行的嘛～。",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_25",
+                        "ja":  "もしかして、お疲れかな？たまには、\nお空をのんびり散歩でもしようよ。",
+                        "zh":  "难道说，你累了？偶尔也\n到天上悠闲地散散步吧。",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_26",
+                        "ja":  "待ってたよぉ。そろそろ駆け落ちしちゃう？",
+                        "zh":  "我一直在等你哦。差不多该私奔了吧？",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_27",
+                        "ja":  "待ってましたよ、ご主人くん。\nお姉ちゃんと一緒にイイことしましょ。",
+                        "zh":  "我一直在等您哦，主人君。\n和姐姐一起做点舒服的事吧。",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_28",
+                        "ja":  "今度こそ駆け落ちだね！？\nキミとなら世界の果てまで\nランデブーだよぉ♪",
+                        "zh":  "这次真的要私奔了吧！？\n只要和你在一起，到世界的尽头\n都要约会哦♪",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_29",
+                        "ja":  "タワー",
+                        "zh":  "塔",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_30",
+                        "ja":  "討伐クエスト",
+                        "zh":  "讨伐关卡",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_31",
+                        "ja":  "特殊クエスト",
+                        "zh":  "特殊关卡",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_32",
+                        "ja":  "邪神クエスト",
+                        "zh":  "邪神关卡",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_33",
+                        "ja":  "月間ブースト",
+                        "zh":  "月度加成",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_34",
+                        "ja":  "月間ブーストパスポート",
+                        "zh":  "月度加成通行证",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_35",
+                        "ja":  "月間ブーストが解放されます",
+                        "zh":  "月度加成将解锁",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_36",
+                        "ja":  "サーバー内でダメージが初めて{0}に到達",
+                        "zh":  "服务器内伤害首次达到{0}",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_37",
+                        "ja":  "サーバー内で初めて100階をクリア",
+                        "zh":  "服务器内首次通关100层",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_38",
+                        "ja":  "サーバー内で初めて150階をクリア",
+                        "zh":  "服务器内首次通关150层",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_39",
+                        "ja":  "サーバー内で初めて200階をクリア",
+                        "zh":  "服务器内首次通关200层",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_40",
+                        "ja":  "サーバー内で初めて250階をクリア",
+                        "zh":  "服务器内首次通关250层",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_41",
+                        "ja":  "サーバー内で初めて300階をクリア",
+                        "zh":  "服务器内首次通关300层",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_42",
+                        "ja":  "サーバー内で初めて350階をクリア",
+                        "zh":  "服务器内首次通关350层",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_43",
+                        "ja":  "サーバー内で初めて400階をクリア",
+                        "zh":  "服务器内首次通关400层",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_44",
+                        "ja":  "サーバー内で初めて450階をクリア",
+                        "zh":  "服务器内首次通关450层",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_45",
+                        "ja":  "サーバー内で初めて500階をクリア",
+                        "zh":  "服务器内首次通关500层",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_46",
+                        "ja":  "サーバー内で初めて50階をクリア",
+                        "zh":  "服务器内首次通关50层",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_47",
+                        "ja":  "サーバー内で初めて550階をクリア",
+                        "zh":  "服务器内首次通关550层",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_48",
+                        "ja":  "サーバー内で初めて600階をクリア",
+                        "zh":  "服务器内首次通关600层",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_49",
+                        "ja":  "サーバー内で初めて650階をクリア",
+                        "zh":  "服务器内首次通关650层",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_50",
+                        "ja":  "サーバー内で初めて700階をクリア",
+                        "zh":  "服务器内首次通关700层",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_51",
+                        "ja":  "サーバー内で初めて750階をクリア",
+                        "zh":  "服务器内首次通关750层",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_52",
+                        "ja":  "サーバー内で初めて800階をクリア",
+                        "zh":  "服务器内首次通关800层",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_53",
+                        "ja":  "サーバー内で初めて850階をクリア",
+                        "zh":  "服务器内首次通关850层",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_54",
+                        "ja":  "サーバー内で初めて900階をクリア",
+                        "zh":  "服务器内首次通关900层",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_55",
+                        "ja":  "サーバー内で初めてメインストーリー1-15をクリア",
+                        "zh":  "服务器内首次通关主线剧情1-15",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_56",
+                        "ja":  "サーバー内で初めてメインストーリー1-30をクリア",
+                        "zh":  "服务器内首次通关主线剧情1-30",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_57",
+                        "ja":  "サーバー内で初めてメインストーリー2-15をクリア",
+                        "zh":  "服务器内首次通关主线剧情2-15",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_58",
+                        "ja":  "サーバー内で初めてメインストーリー2-30をクリア",
+                        "zh":  "服务器内首次通关主线剧情2-30",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_59",
+                        "ja":  "サーバー内で初めてメインストーリー3-15をクリア",
+                        "zh":  "服务器内首次通关主线剧情3-15",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_60",
+                        "ja":  "サーバー内で初めてメインストーリー3-30をクリア",
+                        "zh":  "服务器内首次通关主线剧情3-30",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_61",
+                        "ja":  "サーバー内で初めてメインストーリー4-15をクリア",
+                        "zh":  "服务器内首次通关主线剧情4-15",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_62",
+                        "ja":  "サーバー内で初めてメインストーリー4-30をクリア",
+                        "zh":  "服务器内首次通关主线剧情4-30",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_63",
+                        "ja":  "サーバー内で初めてメインストーリー5-15をクリア",
+                        "zh":  "服务器内首次通关主线剧情5-15",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_64",
+                        "ja":  "サーバー内で初めてメインストーリー5-30をクリア",
+                        "zh":  "服务器内首次通关主线剧情5-30",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_65",
+                        "ja":  "サーバー内で初めて総合戦力が\n{0}以上に到達",
+                        "zh":  "服务器内总战力首次\n达到{0}以上",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_66",
+                        "ja":  "アーティファクト獲得",
+                        "zh":  "获得神器",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_67",
+                        "ja":  "アポカリプスコイン獲得",
+                        "zh":  "获得天启币",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_68",
+                        "ja":  "エルダーパワー回復",
+                        "zh":  "远古之力回复",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_69",
+                        "ja":  "城壁修復",
+                        "zh":  "城墙修复",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_70",
+                        "ja":  "恩寵獲得",
+                        "zh":  "获得恩宠",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_71",
+                        "ja":  "アーティファクトを2個獲得",
+                        "zh":  "获得2个神器",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_72",
+                        "ja":  "アーティファクトを3個獲得",
+                        "zh":  "获得3个神器",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_73",
+                        "ja":  "アーティファクトを4個獲得",
+                        "zh":  "获得4个神器",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_74",
+                        "ja":  "アポカリプスコインを1000獲得",
+                        "zh":  "获得1000天启币",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_75",
+                        "ja":  "アポカリプスコインを500獲得",
+                        "zh":  "获得500天启币",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_76",
+                        "ja":  "アポカリプスコインを750獲得",
+                        "zh":  "获得750天启币",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_77",
+                        "ja":  "城壁の修復（最大耐久値の100%）",
+                        "zh":  "城墙修复（最大耐久的100%）",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_78",
+                        "ja":  "城壁の修復（最大耐久値の50%）",
+                        "zh":  "城墙修复（最大耐久的50%）",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_79",
+                        "ja":  "城壁の修復（最大耐久値の75%）",
+                        "zh":  "城墙修复（最大耐久的75%）",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_80",
+                        "ja":  "恩寵をランダムに2個入手",
+                        "zh":  "随机获得2个恩宠",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_81",
+                        "ja":  "恩寵をランダムに3個入手",
+                        "zh":  "随机获得3个恩宠",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_82",
+                        "ja":  "恩寵をランダムに4個入手",
+                        "zh":  "随机获得4个恩宠",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_83",
+                        "ja":  "邪神のエルダーパワーを2回復する",
+                        "zh":  "回复邪神的远古之力2次",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_84",
+                        "ja":  "邪神のエルダーパワーを3回復する",
+                        "zh":  "回复邪神的远古之力3次",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_85",
+                        "ja":  "敵の最大耐久、攻撃力、物理/魔法防御+50％\n獲得チャレンジPt、アポカリプスコイン+50％\n\u003ccolor=#FF4C45\u003eエクシードバトルマスの追加\u003c/color\u003e",
+                        "zh":  "敌人最大耐久、攻击力、物理/魔法防御+50％\n获得挑战pt、天启币+50％\n\u003ccolor=#FF4C45\u003e追加究极战斗格\u003c/color\u003e",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_86",
+                        "ja":  "敵の最大耐久、攻撃力、物理/魔法防御+75％\n獲得チャレンジPt、アポカリプスコイン+100％\n\u003ccolor=#FF4C45\u003eユニークアーティファクトが入手可能\u003c/color\u003e",
+                        "zh":  "敌人最大耐久、攻击力、物理/魔法防御+75％\n获得挑战pt、天启币+100％\n\u003ccolor=#FF4C45\u003e可获得独特神器\u003c/color\u003e",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_87",
+                        "ja":  "エルドリッチ",
+                        "zh":  "异界",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_88",
+                        "ja":  "ノーマル",
+                        "zh":  "普通",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_89",
+                        "ja":  "ハード",
+                        "zh":  "困难",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_90",
+                        "ja":  "アーティファクトを1つ獲得",
+                        "zh":  "获得1个神器",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_91",
+                        "ja":  "アポカリプスコインを300獲得",
+                        "zh":  "获得300天启币",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_92",
+                        "ja":  "エルダーパワーの回数を3回復",
+                        "zh":  "回复远古之力3次",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_93",
+                        "ja":  "コインを渡す\nエルダーパワーの回数を3回復",
+                        "zh":  "交出硬币\n回复远古之力3次",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_94",
+                        "ja":  "ここは逃げるべきだ",
+                        "zh":  "这里应该逃跑",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_95",
+                        "ja":  "それでも捕まえる\n50%の確率でアポカリプスコインを1000獲得",
+                        "zh":  "即便如此也要抓住\n有50%概率获得1000天启币",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_96",
+                        "ja":  "やめておく",
+                        "zh":  "还是算了",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_97",
+                        "ja":  "宝箱を開く",
+                        "zh":  "打开宝箱",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_98",
+                        "ja":  "必死に頼み込む\nアーティファクトを1つ獲得",
+                        "zh":  "拼命恳求\n获得1个神器",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_99",
+                        "ja":  "避難する",
+                        "zh":  "避难",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_100",
+                        "ja":  "編成する",
+                        "zh":  "编队",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_101",
+                        "ja":  "捕まえる\n70%の確率でアポカリプスコインを600獲得",
+                        "zh":  "抓住\n有70%概率获得600天启币",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_102",
+                        "ja":  "大量のコインを渡す\n城壁の耐久力を100%回復",
+                        "zh":  "交出大量硬币\n回复城墙耐久100%",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_103",
+                        "ja":  "賭ける\n30%の確率でアポカリプスコインを500、アーティファクトを1つ獲得",
+                        "zh":  "赌一把\n有30%概率获得500天启币及1个神器",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_104",
+                        "ja":  "賭ける\n70%の確率でアポカリプスコインを600獲得",
+                        "zh":  "赌一把\n有70%概率获得600天启币",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_105",
+                        "ja":  "賭け事は嫌いだ",
+                        "zh":  "我讨厌赌博",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_106",
+                        "ja":  "対価を支払う\nアーティファクトを2つ獲得",
+                        "zh":  "支付代价\n获得2个神器",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_107",
+                        "ja":  "恩寵を1つ獲得",
+                        "zh":  "获得1个恩宠",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_108",
+                        "ja":  "何もしない",
+                        "zh":  "什么都不做",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_109",
+                        "ja":  "見逃してやる",
+                        "zh":  "放过它",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_110",
+                        "ja":  "静観する",
+                        "zh":  "静观其变",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_111",
+                        "ja":  "掘れるだけ掘る\n城壁の耐久力を最大耐久力の50%消費、通貨を500獲得",
+                        "zh":  "能挖多少挖多少\n消耗城墙最大耐久的50%，获得500货币",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_112",
+                        "ja":  "恐ろしいが立ち向かうべきだ\nスペシャルバトルが発生",
+                        "zh":  "虽然可怕但应该迎战\n触发特殊战斗",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_113",
+                        "ja":  "買ってみる\nアーティファクトを2つ獲得",
+                        "zh":  "试着买下\n获得2个神器",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_114",
+                        "ja":  "買わない\nアーティファクトを1つ獲得",
+                        "zh":  "不买\n获得1个神器",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_115",
+                        "ja":  "強力なボスに挑戦する",
+                        "zh":  "挑战强力的BOSS",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_116",
+                        "ja":  "少しだけコインを渡す\n城壁の耐久力を50%回復",
+                        "zh":  "只交出少量硬币\n回复城墙耐久50%",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_117",
+                        "ja":  "少しなら\n城壁の耐久力を最大耐久力の25%消費、通貨を250獲得",
+                        "zh":  "只挖一点\n消耗城墙最大耐久的25%，获得250货币",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_118",
+                        "ja":  "勝つか負けるか勝負する\n50%の確率でアポカリプスコインを1000獲得",
+                        "zh":  "一决胜负\n有50%概率获得1000天启币",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_119",
+                        "ja":  "勝つか負けるか勝負する\n50%の確率でアポカリプスコインを2000獲得",
+                        "zh":  "一决胜负\n有50%概率获得2000天启币",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_120",
+                        "ja":  "拾い集める",
+                        "zh":  "拾取收集",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_121",
+                        "ja":  "手を貸す\nスペシャルバトルが発生",
+                        "zh":  "伸出援手\n将触发特殊战斗",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_122",
+                        "ja":  "受けてたつ\n50%の確率でアポカリプスコインを1000獲得",
+                        "zh":  "迎战\n有50%的概率获得1000天启币",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_123",
+                        "ja":  "受けてたつ\n70%の確率でアポカリプスコインを600獲得",
+                        "zh":  "迎战\n有70%的概率获得600天启币",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_124",
+                        "ja":  "受け取る",
+                        "zh":  "收下",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_125",
+                        "ja":  "所持している恩寵の内ランダムな2種をアップグレードさせる\n(アップグレードできる恩寵が存在しない場合効果は発生しません)",
+                        "zh":  "从所持恩宠中随机升级2种\n（若不存在可升级的恩宠，则不会产生效果）",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_126",
+                        "ja":  "特別な恩寵変異を願う",
+                        "zh":  "祈愿特别的恩宠变异",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_127",
+                        "ja":  "通常のバトルに挑戦する",
+                        "zh":  "挑战普通战斗",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_128",
+                        "ja":  "通常の恩寵変異を願う",
+                        "zh":  "祈愿普通的恩宠变异",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_129",
+                        "ja":  "下手に出てみる",
+                        "zh":  "试着放低姿态",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_130",
+                        "ja":  "邪神のエルダーパワーの使用回数を1回復",
+                        "zh":  "邪神的远古之力使用次数恢复1次",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_131",
+                        "ja":  "迎え撃つ\nスペシャルバトルが発生",
+                        "zh":  "迎击\n将触发特殊战斗",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_132",
+                        "ja":  "楽な賭けだからのる\n70%の確率でアポカリプスコインを600獲得",
+                        "zh":  "轻松的赌局，当然要参加\n有70%的概率获得600天启币",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_133",
+                        "ja":  "あなたの望みを叶えられるかもね…でも、少しだけ。",
+                        "zh":  "说不定能实现你的愿望哦……不过，只有一点点。",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_134",
+                        "ja":  "いらっしゃいませ！今日も元気に開店中です。\n気になる商品があったら、遠慮なく見ていってくださいね。\nあなたにぴったりの品、きっと見つかりますよ♪",
+                        "zh":  "欢迎光临！今天也精神满满地营业中。\n要是有中意的商品，请不用客气，尽管看看吧。\n一定能找到最适合你的东西♪",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_135",
+                        "ja":  "おっ、来てくれたんですね！嬉しいな。\n新しい品も入ってますよ、見逃し注意です！\nゆっくり選んでいってくださいね♪",
+                        "zh":  "哦，您来啦！真开心。\n新货也上架了，请千万别错过！\n慢慢挑选吧♪",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_136",
+                        "ja":  "戦闘の疲れ、ここで少し休んでいきませんか？\n必要なものはちゃんと揃ってますから。\n無理せず、ゆっくり選んでくださいね。",
+                        "zh":  "战斗的疲惫，要不要在这里稍微歇一歇？\n需要的东西都备齐了。\n不用勉强，慢慢挑选就好。",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_137",
+                        "ja":  "店の看板娘 ティティ",
+                        "zh":  "看板娘 蒂蒂",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_138",
+                        "ja":  "城壁の最大耐久上昇",
+                        "zh":  "城墙最大耐久提升",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_139",
+                        "ja":  "城壁の最大耐久上昇Ⅰ",
+                        "zh":  "城墙最大耐久提升Ⅰ",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_140",
+                        "ja":  "城壁の最大耐久上昇Ⅱ",
+                        "zh":  "城墙最大耐久提升Ⅱ",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_141",
+                        "ja":  "攻撃力上昇",
+                        "zh":  "攻击力提升",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_142",
+                        "ja":  "攻撃力上昇Ⅰ",
+                        "zh":  "攻击力提升Ⅰ",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_143",
+                        "ja":  "攻撃力上昇Ⅱ",
+                        "zh":  "攻击力提升Ⅱ",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_144",
+                        "ja":  "攻撃力上昇Ⅲ",
+                        "zh":  "攻击力提升Ⅲ",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_145",
+                        "ja":  "開始時の恩寵選択に［ウェポンマスター強化］を追加",
+                        "zh":  "在开始时的恩宠选择中追加［武器大师强化］",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_146",
+                        "ja":  "開始時の恩寵選択に［ガンナー強化］を追加",
+                        "zh":  "在开始时的恩宠选择中追加［枪手强化］",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_147",
+                        "ja":  "開始時の恩寵選択に［勝利時獲得コイン増加］を追加",
+                        "zh":  "在开始时的恩宠选择中追加［胜利时获得金币增加］",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_148",
+                        "ja":  "魔法防御上昇",
+                        "zh":  "魔法防御提升",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_149",
+                        "ja":  "魔法防御上昇Ⅰ",
+                        "zh":  "魔法防御提升Ⅰ",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_150",
+                        "ja":  "魔法防御上昇Ⅱ",
+                        "zh":  "魔法防御提升Ⅱ",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_151",
+                        "ja":  "魔法防御上昇Ⅲ",
+                        "zh":  "魔法防御提升Ⅲ",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_152",
+                        "ja":  "物理防御上昇",
+                        "zh":  "物理防御提升",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_153",
+                        "ja":  "物理防御上昇Ⅰ",
+                        "zh":  "物理防御提升Ⅰ",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_154",
+                        "ja":  "物理防御上昇Ⅱ",
+                        "zh":  "物理防御提升Ⅱ",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_155",
+                        "ja":  "物理防御上昇Ⅲ",
+                        "zh":  "物理防御提升Ⅲ",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_156",
+                        "ja":  "最大耐久上昇",
+                        "zh":  "最大耐久提升",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_157",
+                        "ja":  "最大耐久上昇Ⅰ",
+                        "zh":  "最大耐久提升Ⅰ",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_158",
+                        "ja":  "最大耐久上昇Ⅱ",
+                        "zh":  "最大耐久提升Ⅱ",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_159",
+                        "ja":  "最大耐久上昇Ⅲ",
+                        "zh":  "最大耐久提升Ⅲ",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_160",
+                        "ja":  "ステージ1/5",
+                        "zh":  "关卡1/5",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_161",
+                        "ja":  "ステージ2/5",
+                        "zh":  "关卡2/5",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_162",
+                        "ja":  "ステージ3/5",
+                        "zh":  "关卡3/5",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_163",
+                        "ja":  "ステージ4/5",
+                        "zh":  "关卡4/5",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_164",
+                        "ja":  "ステージ5/5",
+                        "zh":  "关卡5/5",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_165",
+                        "ja":  "ステージ6/6",
+                        "zh":  "关卡6/6",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_166",
+                        "ja":  "＜眠りの大帝＞と呼ばれるカミの呪縛から解き放たれるため、継承者たちはミャウラが語るアーティファクトを探し始める。\nしかし、敵がそれを許すはずはなく、大帝の魔の手が継承者に迫る。",
+                        "zh":  "为了从被称为＜沉眠大帝＞的神之咒缚中解放，继承者们开始寻找喵乌拉所提及的神器。\n然而，敌人绝不会允许，大帝的魔爪正向继承者逼近。",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_167",
+                        "ja":  "１体目、そして２体目の像の破壊にも成功した継承者たちは、残り２体の像を探し始める。\n まったく情報が無い中で闇雲に探さなければならないかと思った矢先、イヴは自らと契約をすれば像を見つけて見せると語る。",
+                        "zh":  "成功破坏了第１具与第２具雕像的继承者们，开始寻找剩余２具雕像。\n正以为在毫无情报的情况下只能盲目摸索时，伊芙表示只要与她签订契约，就能找出雕像。",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_168",
+                        "ja":  "アーカムに木を植えたいというエカの願いをよそに、\n突如として現れた森をクトゥグアが焼き払う。\n物言わぬ邪神の意図を探して、エカは思い悩む。",
+                        "zh":  "不顾艾卡想在阿卡姆种树的愿望，\n突然出现的森林被克图格亚烧为灰烬。\n为探寻沉默邪神的意图，艾卡陷入了苦恼。",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_169",
+                        "ja":  "アーカムのエカ・インティが継承者たちを街に招く。\nどうやら、街の未来を見据えた新しい取り組みのために、\n知恵を借りたいと言うが……？",
+                        "zh":  "阿卡姆的艾卡·因蒂邀请继承者们来到城中。\n似乎是想为着眼于城市未来的新举措，\n借一借智慧，可是……？",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_170",
+                        "ja":  "イヴの力で地下に打ち捨てられた騎馬像を破壊し、ルルイエのエネルギーを吸い上げ続ける最後の巨大騎馬像へと迫る。\n しかし、ここまで十分なエネルギーを蓄えたアテナは、像の破壊を阻止するため粛清の光をルルイエに放つ――。",
+                        "zh":  "借助伊芙之力破坏被弃置于地下的骑马像，逼近持续吸取拉莱耶能量的最后一具巨大骑马像。\n然而，已积攒了足够能量的雅典娜，为阻止雕像被破坏，向拉莱耶释放了肃清之光——。",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_171",
+                        "ja":  "ついに＜眠りの大帝＞の魔術で眠らされてしまった継承者たち。\nしかし継承者は、なぜか見知らぬ花畑で目を覚ます。\nそこでは、とある少女が美しい花々に囲まれて幸せそうな時を過ごしていた。",
+                        "zh":  "继承者们终究被＜沉眠大帝＞的魔术所催眠。\n然而继承者却不知为何，在一片陌生的花田中醒来。\n在那里，一名少女被美丽的花丛环绕，过着幸福的时光。",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_172",
+                        "ja":  "どうにか眠りから覚めた継承者だったが、身代わりとなってネオンが「眠り病」に侵されてしまった。\n彼女を助けて決着をつけるため、病を免れたクアローラとともに、ついに＜眠りの大帝＞へと迫る。",
+                        "zh":  "继承者总算从沉眠中醒来，但妮恩却作为替身染上了「沉眠病」。\n为了救她并做个了结，继承者与幸免于病的库娅萝拉一同，终于逼近＜沉眠大帝＞。",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_173",
+                        "ja":  "リフルの情報をもとに、運び込まれた騎馬像の１体を追ってマッドシーカーの研究所へ向かう。\n そこでは、ドクターがカミの供物である像を研究するため、様々な実験をおこなっていて――。",
+                        "zh":  "根据莉芙尔的情报，追寻其中１具被运入的骑马像，前往疯狂追寻者的研究所。\n在那里，博士正为了研究作为神之供品的雕像，进行着各种实验——。",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_174",
+                        "ja":  "ルルイエでの日常を過ごす継承者。\nしかし突如めまいに襲われ、気づくと見知らぬ街に立っていた。\n彼の近くにいたネオン、リヴァシー、テトラも、この事態に巻き込まれたようだった。",
+                        "zh":  "在拉莱耶度过日常的继承者。\n然而突然被眩晕袭击，回过神时已站在陌生的城市中。\n原本在他身旁的妮恩、莉瓦希、泰特拉似乎也被卷入了这场变故。",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_175",
+                        "ja":  "ルルイエに深紅の花びらが降り積もった日、街の人々は長い眠りについた。\n突然の「眠り病」が蔓延するルルイエで、継承者はまだ眠りについていなかったヴァイス・クアローラとともに、事件の原因と解決策を探して奔走する。",
+                        "zh":  "深红花瓣在拉莱耶堆积的那一天，城中的人们陷入了长眠。\n在突然蔓延「沉眠病」的拉莱耶，继承者与尚未入眠的维斯·库娅萝拉一同，为寻找事件的原因与解决之策四处奔走。",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_176",
+                        "ja":  "ルルイエは、謎の病に侵されたばかりではなく、見知らぬ異世界へと転移していた。\n近くの街で出会った少女・ミャウラから、ここは幻夢郷と呼ばれる場所であり、ルルイエはとあるカミによって呼び寄せられたことを告げられる。",
+                        "zh":  "拉莱耶不仅被神秘的疾病侵袭，还转移到了陌生的异世界。\n在附近城市遇到的少女喵乌拉告知他们，这里是名为幻梦乡的地方，而拉莱耶是被某位神召唤而来。",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_177",
+                        "ja":  "地下空間に墜落した継承者とテトラ。\nそこは上下が逆さまになった奇妙な街だった。\nふたりはそこでポーラシェンテと名乗るヴァイスと出会い、共に脱出を試みる。",
+                        "zh":  "坠落到地下空间的继承者与泰特拉。\n那里是一座上下颠倒的奇妙城市。\n两人在那里遇到了自称波拉谢恩特的维斯，并一同尝试逃脱。",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_178",
+                        "ja":  "激流から逃れるため、水底の月へ手を伸ばす継承者たち。\n奇跡は繋がり、無事にネオンとの合流に成功する。\nしかし、同時に、深淵の王が彼らを終わらせるべく姿を現したのだった。",
+                        "zh":  "为逃离激流，继承者们向水底之月伸出手。\n奇迹相连，他们成功与妮恩会合。\n然而与此同时，深渊之王为了终结他们而现身了。",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_179",
+                        "ja":  "継承者とテトラを探し回るネオンとリヴァシー。\nしかしリヴァシーは体力を使い果たして倒れてしまう。\n状況が行き詰まる中、ネオンは、親しんだ声が空から降り注ぐのを聞く。",
+                        "zh":  "四处寻找继承者与泰特拉的妮恩和莉瓦希。\n然而莉瓦希耗尽体力倒了下来。\n在局面陷入僵局之时，妮恩听见熟悉的声音自天而降。",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_180",
+                        "ja":  "破壊することがクトゥグアの存在意義であるならば、\nアーカムの未来を描くことなどそもそも不可能なのか。\n信じる邪神と、守るべき街との狭間で、エカが出すべき答えは――。",
+                        "zh":  "若破坏就是克图格亚的存在意义，\n那么描绘阿卡姆的未来岂非本就无从谈起。\n在信仰的邪神与应当守护的城市之间，艾卡该给出的答案是——。",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_181",
+                        "ja":  "燃え尽きたはずの森へ向かうと、なぜか再び木々が生い茂っていた。\n不可解な現象を前にして、継承者たちは、その森の主に出会う。",
+                        "zh":  "走向本应烧尽的森林，树木却不知为何再度枝繁叶茂。\n面对这不可思议的现象，继承者们遇见了那片森林之主。",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_182",
+                        "ja":  "森に住んでいたのは、アーカムのはみ出し者となったエヴァラスだった。\n生きているだけで望まない命を与えてしまう彼女の前に、\nクトゥグアが再びその業火で森を焼き払おうと現れる。",
+                        "zh":  "住在森林里的，是成了阿卡姆异类的艾瓦拉斯。\n在她仅因活着便会赋予他人非其所愿的性命之时，\n克图格亚再次带着业火现身，欲烧尽这片森林。",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_183",
+                        "ja":  "少女隊がシトとの戦いの戦利品として街に運び入れた『黄金の騎馬像』。\n 像に刻まれた魔術が発動したとき、ルルイエから結界が消え、街が無防備となった。\n 突如現れたイヴ・メサイアによると、それはカミによる一方的な契約であり、破棄するためにはすべての騎馬像を破壊しなければならないという。",
+                        "zh":  "少女队作为与使徒战斗的战利品运入城中的『黄金骑马像』。\n当刻在像上的魔术发动时，结界从拉莱耶消失，城市变得毫无防备。\n据突然现身的伊芙·弥赛亚所说，那是神单方面立下的契约，若要废弃就必须破坏所有骑马像。",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_184",
+                        "ja":  "月から舞い降りた黒翼の悪魔に、継承者とテトラが連れ去られてしまった。\nリヴァシーは精密な射撃により悪魔を撃ち落とすが、そのせいでふたりは奈落へと墜落してしまう。",
+                        "zh":  "自月而降的黑翼恶魔将继承者与泰特拉掳走了。\n莉瓦希以精准的射击将恶魔击落，却因此让两人坠入了奈落。",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_185",
+                        "ja":  "運よく３体目の像を破壊できたものの、４体目に関しては幸運に頼ることはできなかった。\n アテナ復活のタイムリミットが迫る中で継承者は意を決して、イヴに契約を求める。",
+                        "zh":  "虽然侥幸破坏了第３具雕像，但关于第４具却无法仰赖运气。\n在雅典娜复活的时限逼近之中，继承者下定决心，向伊芙寻求契约。",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_186",
+                        "ja":  "イベントポイント1",
+                        "zh":  "活动地点1",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_187",
+                        "ja":  "イベントポイント2",
+                        "zh":  "活动地点2",
+                        "status":  "draft",
+                        "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "",
+                        "key":  "UPD2_188",
+                        "ja":  "ステージ",
+                        "zh":  "关卡",
+                        "status":  "draft",
+                        "note":  "upd-v1"
                     }
                 ]
 }
