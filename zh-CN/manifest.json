@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "language": "zh-CN",
-  "generatedAt": "2026-09-12T21:03:02+08:00",
+  "generatedAt": "2026-09-12T21:04:33+08:00",
   "packFile": "pack.json",
-  "packSha256": "d4f5f46a82980dbbf0d98961c2b1f609108ae9a6f8ec12e01289dba63a342910",
+  "packSha256": "4e222d14e7c27e157e56a818f18394436d3f7d5bf01bcd70c5ab540a603bf22a",
   "counts": { "namesEntries": 570, "profilesEntries": 324, "extrasEntries": 2405 },
   "pluginVersion": "1.7.1",
   "pluginFile": "plugin/JashinsenkiNameTranslation.dll",
