@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
   "language": "zh-CN",
-  "generatedAt": "2026-09-12T20:52:47+08:00",
+  "generatedAt": "2026-09-12T20:56:55+08:00",
   "packFile": "pack.json",
-  "packSha256": "35e89717f8499b909cf2425f6ee751a182af6556f1be8245220bee48ca5f1fe4",
-  "counts": { "namesEntries": 570, "profilesEntries": 324, "extrasEntries": 2383 },
+  "packSha256": "8dbf9241afb493149547f5e42811e01184a9f7a33fa52c5b2294378e16d0fa8b",
+  "counts": { "namesEntries": 570, "profilesEntries": 324, "extrasEntries": 2405 },
   "pluginVersion": "1.7.0",
   "pluginFile": "plugin/JashinsenkiNameTranslation.dll",
   "pluginSha256": "56289c2d5fa1a3af6e709121b40116cd34fa474d4da3ba927e84ddbd25457154",
