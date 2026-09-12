@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "language": "zh-CN",
-  "generatedAt": "2026-09-12T21:03:02+08:00",
+  "generatedAt": "2026-09-12T21:04:33+08:00",
   "names": {
   "schemaVersion": 1,
   "language": "zh-CN",
@@ -7249,7 +7249,7 @@
   "extras": {
     "schemaVersion":  1,
     "language":  "zh-CN",
-    "generatedAt":  "2026-09-12T21:03:02+08:00",
+    "generatedAt":  "2026-09-12T21:04:20+08:00",
     "audit":  {
                   "candidates":  1037,
                   "uniqueKeys":  970,
@@ -24270,7 +24270,7 @@
                         "kind":  "description_text",
                         "key":  "UNLOCK_4_DESCRIPTION_TEXT",
                         "ja":  "異空間で邪神様との手合わせに挑もう！\n\u003ccolor=#66cdaa\u003e『スポット』画面から遷移できます\u003c/color\u003e",
-                        "zh":  "在异空间挑战与邪神大人的切磋吧！\n\u003ccolor=#66cdaa\u003e可从『据点』画面进入\u003c/color\u003e",
+                        "zh":  "在异空间挑战与邪神大人的切磋吧！\n\u003ccolor=#66cdaa\u003e可从『活动』画面进入\u003c/color\u003e",
                         "status":  "draft",
                         "note":  "ui-v3"
                     },
@@ -24279,7 +24279,7 @@
                         "kind":  "description_text",
                         "key":  "UNLOCK_5_DESCRIPTION_TEXT",
                         "ja":  "天使が幽閉された監獄の塔に挑戦しよう！\n\u003ccolor=#66cdaa\u003e『スポット』画面から遷移できます\u003c/color\u003e",
-                        "zh":  "挑战囚禁着天使的监狱之塔吧！\n\u003ccolor=#66cdaa\u003e可从『据点』画面进入\u003c/color\u003e",
+                        "zh":  "挑战囚禁着天使的监狱之塔吧！\n\u003ccolor=#66cdaa\u003e可从『活动』画面进入\u003c/color\u003e",
                         "status":  "draft",
                         "note":  "ui-v3"
                     },
@@ -24288,7 +24288,7 @@
                         "kind":  "description_text",
                         "key":  "UNLOCK_6_DESCRIPTION_TEXT",
                         "ja":  "本編の裏側で紡がれる、特別な物語を追体験しよう！\n\u003ccolor=#66cdaa\u003e『スポット』画面から遷移できます\u003c/color\u003e",
-                        "zh":  "重温在本篇背后编织的特别故事吧！\n\u003ccolor=#66cdaa\u003e可从『据点』画面进入\u003c/color\u003e",
+                        "zh":  "重温在本篇背后编织的特别故事吧！\n\u003ccolor=#66cdaa\u003e可从『活动』画面进入\u003c/color\u003e",
                         "status":  "draft",
                         "note":  "ui-v3"
                     },
@@ -24315,7 +24315,7 @@
                         "kind":  "description_text",
                         "key":  "UNLOCK_9_DESCRIPTION_TEXT",
                         "ja":  "アーティファクトの進化のために悪夢に挑戦しよう！\n\u003ccolor=#66cdaa\u003e『スポット』画面から遷移できます\u003c/color\u003e",
-                        "zh":  "为神器进化挑战噩梦吧！\n\u003ccolor=#66cdaa\u003e可从『据点』画面进入\u003c/color\u003e",
+                        "zh":  "为神器进化挑战噩梦吧！\n\u003ccolor=#66cdaa\u003e可从『活动』画面进入\u003c/color\u003e",
                         "status":  "draft",
                         "note":  "ui-v3"
                     },
@@ -24324,7 +24324,7 @@
                         "kind":  "description_text",
                         "key":  "UNLOCK_10_DESCRIPTION_TEXT",
                         "ja":  "他のプレイヤーの編成と対戦しよう！\n\u003ccolor=#66cdaa\u003e『スポット』画面から遷移できます\u003c/color\u003e",
-                        "zh":  "与其他玩家的编队对战吧！\n\u003ccolor=#66cdaa\u003e可从『据点』画面进入\u003c/color\u003e",
+                        "zh":  "与其他玩家的编队对战吧！\n\u003ccolor=#66cdaa\u003e可从『活动』画面进入\u003c/color\u003e",
                         "status":  "draft",
                         "note":  "ui-v3"
                     },
