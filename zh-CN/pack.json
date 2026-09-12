@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "language": "zh-CN",
-  "generatedAt": "2026-09-12T20:59:45+08:00",
+  "generatedAt": "2026-09-12T21:03:02+08:00",
   "names": {
   "schemaVersion": 1,
   "language": "zh-CN",
@@ -7249,7 +7249,7 @@
   "extras": {
     "schemaVersion":  1,
     "language":  "zh-CN",
-    "generatedAt":  "2026-09-12T20:59:37+08:00",
+    "generatedAt":  "2026-09-12T21:03:02+08:00",
     "audit":  {
                   "candidates":  1037,
                   "uniqueKeys":  970,
@@ -28879,8 +28879,8 @@
                         "key":  "CAP_HOME_BASE",
                         "ja":  "拠点",
                         "zh":  "据点",
-                        "status":  "disabled",
-                        "note":  "用户决定（2026-09-12）：主页底栏保留日文原文，不做汉化（该文案不经插件可挂钩的文本组件，整串匹配不生效）"
+                        "status":  "draft",
+                        "note":  "重新启用（v1.7.1 场景扫描上线后，用户指出底栏文字可被汉化，非图片烘焙）"
                     },
                     {
                         "domain":  "ui",
@@ -28888,8 +28888,8 @@
                         "key":  "CAP_HOME_SORTIE",
                         "ja":  "出撃",
                         "zh":  "出击",
-                        "status":  "disabled",
-                        "note":  "用户决定（2026-09-12）：主页底栏保留日文原文，不做汉化（该文案不经插件可挂钩的文本组件，整串匹配不生效）"
+                        "status":  "draft",
+                        "note":  "重新启用（v1.7.1 场景扫描上线后，用户指出底栏文字可被汉化，非图片烘焙）"
                     },
                     {
                         "domain":  "ui",
@@ -28897,8 +28897,8 @@
                         "key":  "CAP_HOME_BASE_SP",
                         "ja":  "拠 点",
                         "zh":  "据 点",
-                        "status":  "disabled",
-                        "note":  "用户决定（2026-09-12）：主页底栏保留日文原文，不做汉化（该文案不经插件可挂钩的文本组件，整串匹配不生效）"
+                        "status":  "draft",
+                        "note":  "重新启用（v1.7.1 场景扫描上线后，用户指出底栏文字可被汉化，非图片烘焙）"
                     },
                     {
                         "domain":  "ui",
@@ -28906,8 +28906,8 @@
                         "key":  "CAP_HOME_SORTIE_SP",
                         "ja":  "出 撃",
                         "zh":  "出 击",
-                        "status":  "disabled",
-                        "note":  "用户决定（2026-09-12）：主页底栏保留日文原文，不做汉化（该文案不经插件可挂钩的文本组件，整串匹配不生效）"
+                        "status":  "draft",
+                        "note":  "重新启用（v1.7.1 场景扫描上线后，用户指出底栏文字可被汉化，非图片烘焙）"
                     }
                 ]
 }
