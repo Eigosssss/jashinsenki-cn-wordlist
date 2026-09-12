@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "language": "zh-CN",
-  "generatedAt": "2026-09-12T20:01:01+08:00",
+  "generatedAt": "2026-09-12T20:05:49+08:00",
   "names": {
   "schemaVersion": 1,
   "language": "zh-CN",
@@ -7249,15 +7249,15 @@
   "extras": {
     "schemaVersion":  1,
     "language":  "zh-CN",
-    "generatedAt":  "2026-09-12T19:57:09+08:00",
+    "generatedAt":  "2026-09-12T20:05:49+08:00",
     "audit":  {
-                  "candidates":  871,
-                  "uniqueKeys":  822,
-                  "enabled":  489,
+                  "candidates":  1037,
+                  "uniqueKeys":  970,
+                  "enabled":  637,
                   "pending":  333,
                   "missing":  0,
                   "tokenMismatch":  0,
-                  "conflicts":  4
+                  "addedMsgData":  148
               },
     "entries":  [
                     {
@@ -14657,6 +14657,1338 @@
                         "zh":  "能力",
                         "status":  "draft",
                         "note":  "硬编码 UI 标签（v1.5.0 补充）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "MAX_ITEM_MESSAGE",
+                        "ja":  "所持最大数を超過したアイテムを\r\n受け取ることができませんでした。",
+                        "zh":  "超出持有上限的道具\n无法领取。",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "MAX_ITEM_MESSAGE",
+                        "ja":  "確認",
+                        "zh":  "确定",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "MAX_ITEM_REWARD",
+                        "ja":  "所持最大数を超過した報酬を\r\n受け取ることができませんでした。",
+                        "zh":  "超出持有上限的奖励\n无法领取。",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "REINFORCE_BOM_ACTIVE_SKILL_TEXT",
+                        "ja":  "エルダーショットを強化します",
+                        "zh":  "强化远古射击",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "REINFORCE_BOM_ACTIVE_SKILL_TITLE",
+                        "ja":  "エルダーショット強化",
+                        "zh":  "远古射击强化",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "REINFORCE_BOM_SPECIAL_SKILL_TEXT",
+                        "ja":  "エルダーパワーを強化します",
+                        "zh":  "强化远古之力",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "REINFORCE_BOM_SPECIAL_SKILL_TITLE",
+                        "ja":  "エルダーパワー強化",
+                        "zh":  "远古之力强化",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "REINFORCE_COST_CHECK",
+                        "ja":  "\u003ccolor=#ff0000\u003e出撃コストが下限に達しています。\u003c/color\u003e\r\n同じユニットまたはコスト減少効果のある素材が\r\n選択されています。\r\nこれ以上出撃コストは減少しませんが、\r\nこのまま強化合成を実行しますか？",
+                        "zh":  "\u003ccolor=#ff0000\u003e出击费用已达到下限。\u003c/color\u003e\n已选择相同单位或具有费用降低\n效果的素材。\n出击费用不会再降低，\n是否仍要执行强化合成？",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "REINFORCE_RESULT_1",
+                        "ja":  "スキルレベルが上昇しました。\r\n・スキルLv　{0}　→　{1}\r\n\r\n出撃コストが減少しました。\r\n・出撃コスト　{2}　→　{3}",
+                        "zh":  "技能等级提升了。\n・技能Lv　{0}　→　{1}\n\n出击费用降低了。\n・出击费用　{2}　→　{3}",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "REINFORCE_RESULT_2",
+                        "ja":  "スキルレベルが上昇しました。\r\n・スキルLv　{0}　→　{1}",
+                        "zh":  "技能等级提升了。\n・技能Lv　{0}　→　{1}",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "REINFORCE_RESULT_3",
+                        "ja":  "出撃コストが減少しました。\r\n・出撃コスト　{0}　→　{1}",
+                        "zh":  "出击费用降低了。\n・出击费用　{0}　→　{1}",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "REINFORCE_SKILL_CHECK",
+                        "ja":  "\u003ccolor=#ff0000\u003eスキルLvが上限に達しています。\u003c/color\u003e\r\n同じスキルを持ったユニットまたは\r\nスキルLv上昇効果のある素材が選択されています。\r\nこれ以上スキルLvは上昇しませんが、\r\nこのまま強化合成を実行しますか？",
+                        "zh":  "\u003ccolor=#ff0000\u003e技能Lv已达到上限。\u003c/color\u003e\n已选择拥有相同技能的\n单位或具有技能Lv提升效果的素材。\n技能Lv不会再提升，\n是否仍要执行强化合成？",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "REINFORCE_SR_CHECK",
+                        "ja":  "\u003ccolor=#ff0000\u003eSR以上のユニットが含まれています。\u003c/color\u003e\r\nこのまま強化合成を実行しますか？",
+                        "zh":  "\u003ccolor=#ff0000\u003e包含SR以上的单位。\u003c/color\u003e\n是否仍要执行强化合成？",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "UNIT_ABILITY_SKILL_BUTTON",
+                        "ja":  "\u003ccspace=-1\u003eアビリ\u003ccspace=-3\u003eティ\r\n\u003ccspace=0.5\u003eス\u003ccspace=-1\u003eキル",
+                        "zh":  "\u003ccspace=-1\u003e能\u003ccspace=-3\u003e力\n\u003ccspace=0.5\u003e技\u003ccspace=-1\u003e能",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "UNIT_ABILITY_TITLE",
+                        "ja":  "アビリティ",
+                        "zh":  "能力",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "UNIT_AFTER_CHANGE_BUTTON",
+                        "ja":  "変化後",
+                        "zh":  "变化后",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "UNIT_ALL_RELEASE",
+                        "ja":  "\u003ccspace=-1\u003eすべ\u003c/cspace\u003eて解除",
+                        "zh":  "\u003ccspace=-1\u003e全\u003c/cspace\u003e部解锁",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "UNIT_ATTACK_INTERVAL",
+                        "ja":  "攻撃硬直時間",
+                        "zh":  "攻击硬直时间",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "UNIT_ATTACK_SPEED",
+                        "ja":  "攻撃速度",
+                        "zh":  "攻击速度",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "UNIT_ATTACK_TITLE",
+                        "ja":  "攻撃力",
+                        "zh":  "攻击力",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "UNIT_AUTO_SELECT_ATTRIBUTE_1",
+                        "ja":  "同属性のみ",
+                        "zh":  "仅同属性",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "UNIT_AUTO_SELECT_ATTRIBUTE_TITLE",
+                        "ja":  "属性",
+                        "zh":  "属性",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "UNIT_AUTO_SELECT_BUTTON",
+                        "ja":  "おまかせ",
+                        "zh":  "自动选择",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "UNIT_AUTO_SELECT_DECK_NOT_POSSESS",
+                        "ja":  "選択した属性のヴァイスを所持しておりません。",
+                        "zh":  "未持有所选属性的维斯。",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "UNIT_AUTO_SELECT_RARITY_TITLE",
+                        "ja":  "レアリティ",
+                        "zh":  "稀有度",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "UNIT_AUTO_SELECT_REINFORCE_1",
+                        "ja":  "未強化のみ",
+                        "zh":  "仅未强化",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "UNIT_AUTO_SELECT_REINFORCE_TITLE",
+                        "ja":  "\u003ccspace=2\u003e強化",
+                        "zh":  "\u003ccspace=2\u003e强化",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "UNIT_AUTO_SELECT_TARGET_TITLE",
+                        "ja":  "選択対象",
+                        "zh":  "选择对象",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "UNIT_AUTO_SELECT_TEXT",
+                        "ja":  "※素材から優先的に選択されます。\r\n※素材はすべてのレアリティの中から低い順に選択されます。\r\n※SR以上のユニットは選択されません。",
+                        "zh":  "※优先从素材中选取。\n※素材将从所有稀有度中由低到高依次选取。\n※不会选取SR以上的单位。",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "UNIT_AUTO_SELECT_TITLE",
+                        "ja":  "おまかせ選択設定",
+                        "zh":  "自动选择设置",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "UNIT_AWAKE_ITEM_USE_TEXT",
+                        "ja":  "使用確認",
+                        "zh":  "使用确认",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "UNIT_AWAKING_BUTTON",
+                        "ja":  "潜在覚醒確認",
+                        "zh":  "潜能觉醒确认",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "UNIT_AWAKING_RESET",
+                        "ja":  "覚醒リセット確認",
+                        "zh":  "觉醒重置确认",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "UNIT_BEFORE_CHANGE_BUTTON",
+                        "ja":  "変化前",
+                        "zh":  "变化前",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "UNIT_BLOCK_TITLE",
+                        "ja":  "ブ\u003ccspace=-2\u003eロッ\u003ccspace=1\u003eク数",
+                        "zh":  "格\u003ccspace=-2\u003e挡\u003ccspace=1\u003e次数",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "UNIT_BULK_EQUIP_BUTTON",
+                        "ja":  "一括装備",
+                        "zh":  "一键装备",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "UNIT_CHANGE_BASE_BUTTON",
+                        "ja":  "ベ\u003ccspace=-1\u003eース変更",
+                        "zh":  "基\u003ccspace=-1\u003e础变更",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "UNIT_CLASS_CHANGE_EQUIP_EMPTY_SLOT",
+                        "ja":  "4つの装備を身に着けないとクラスチェンジはできません",
+                        "zh":  "未装备4件装备则无法进行职业转换",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "UNIT_CLASS_CHANGE_MAX",
+                        "ja":  "これ以上クラスチェンジできません",
+                        "zh":  "无法再进行职业转换",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "UNIT_CLASS_CHANGE_NEED_LEVEL",
+                        "ja":  "必要Lv.{0}",
+                        "zh":  "所需Lv.{0}",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "UNIT_CLASS_TITLE",
+                        "ja":  "クラス",
+                        "zh":  "职业",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "UNIT_CONSUME_FRIEND_PT_TITLE",
+                        "ja":  "\u003ccspace=-1\u003e消\u003ccspace=2\u003e費\u003ccspace=-2\u003eフ\u003ccspace=-2\u003eレ\u003ccspace=-3\u003eン\u003ccspace=1\u003eドPt",
+                        "zh":  "\u003ccspace=-1\u003e消\u003ccspace=2\u003e耗\u003ccspace=-2\u003e好\u003ccspace=-2\u003e友\u003ccspace=-3\u003eP\u003ccspace=1\u003et",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "UNIT_CONSUME_GOLD",
+                        "ja":  "消費ゴールド",
+                        "zh":  "消耗金币",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "UNIT_COST_LEVEL",
+                        "ja":  "コスト",
+                        "zh":  "费用",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "UNIT_COST_TITLE",
+                        "ja":  "出撃コ\u003ccspace=-2\u003eスト",
+                        "zh":  "出击费\u003ccspace=-2\u003e用",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "UNIT_CRITICAL_DAMAGE_DOWN_RATE",
+                        "ja":  "会心ダメージ抵抗率",
+                        "zh":  "会心伤害抵抗率",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "UNIT_CRITICAL_DAMAGE_RATE",
+                        "ja":  "会心ダメージ率",
+                        "zh":  "会心伤害率",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "UNIT_CRITICAL_DOWN_RATE",
+                        "ja":  "会心抵抗率",
+                        "zh":  "会心抵抗率",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "UNIT_CRITICAL_RATE",
+                        "ja":  "会心率",
+                        "zh":  "会心率",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "UNIT_CV_TITLE",
+                        "ja":  "CV.",
+                        "zh":  "CV.",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "UNIT_DEPERTMENT_TITLE",
+                        "ja":  "学科",
+                        "zh":  "学科",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "UNIT_ENABLE_TIME_TITLE",
+                        "ja":  "有効時間",
+                        "zh":  "有效时间",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "UNIT_EQUIP_EQUIPPED_ALL_SLOT",
+                        "ja":  "全て装備済です",
+                        "zh":  "所有槽位均已装备",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "UNIT_EQUIP_NO_EQUIPMENT_ALL_SLOT",
+                        "ja":  "装着可能な装備がありません",
+                        "zh":  "没有可装备的装备",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "UNIT_EQUIPMENT_BUTTON",
+                        "ja":  "装 備",
+                        "zh":  "装 备",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "UNIT_EQUIPMENT_SHORTAGE_MATERIAL",
+                        "ja":  "素材が不足しています。",
+                        "zh":  "素材不足。",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "UNIT_EVASION_RATE",
+                        "ja":  "回避率",
+                        "zh":  "回避率",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "UNIT_EVENT_TITLE",
+                        "ja":  "\u003ccspace=1\u003e交\u003ccspace=0\u003e流\u003ccspace=-2\u003eイ\u003ccspace=1\u003eベ\u003ccspace=-2\u003eント",
+                        "zh":  "\u003ccspace=1\u003e交\u003ccspace=0\u003e流\u003ccspace=-2\u003e活\u003ccspace=1\u003e动\u003ccspace=-2\u003e",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "UNIT_FORMATION_BUTTON",
+                        "ja":  "編 成",
+                        "zh":  "编 队",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "UNIT_FRIEND_PT_TITLE",
+                        "ja":  "\u003ccspace=-2\u003eフ\u003ccspace=-2\u003eレ\u003ccspace=-3\u003eン\u003ccspace=1\u003eドPt",
+                        "zh":  "\u003ccspace=-2\u003e好\u003ccspace=-2\u003e友\u003ccspace=-3\u003eP\u003ccspace=1\u003et",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "UNIT_GENERATE_CHECK_TEXT",
+                        "ja":  "上記の装備を錬成して装備します。\r\nよろしいですか？",
+                        "zh":  "将炼成上述装备并装备。\n确定吗？",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "UNIT_GENERATE_CHECK_TITLE",
+                        "ja":  "錬成確認",
+                        "zh":  "炼成确认",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "UNIT_GENERATE_TITLE",
+                        "ja":  "練成",
+                        "zh":  "炼成",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "UNIT_GET_AWAKE_POINT",
+                        "ja":  "潜在覚醒ポイントを獲得しました",
+                        "zh":  "获得了潜能觉醒点数",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "UNIT_GET_COST_EXP",
+                        "ja":  "獲得コストEXP",
+                        "zh":  "获得费用EXP",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "UNIT_GET_EXP_E",
+                        "ja":  "獲得EXP",
+                        "zh":  "获得EXP",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "UNIT_GET_EXP_J",
+                        "ja":  "獲得経験値",
+                        "zh":  "获得经验值",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "UNIT_GET_GOLD",
+                        "ja":  "獲得ゴールド",
+                        "zh":  "获得金币",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "UNIT_GET_POINT_TITLE",
+                        "ja":  "獲得\u003ccspace=0\u003eポ\u003ccspace=-1\u003eイ\u003ccspace=-2\u003eント",
+                        "zh":  "获\u003ccspace=0\u003e得\u003ccspace=-1\u003e点\u003ccspace=-2\u003e数",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "UNIT_GET_SKILL_EXP",
+                        "ja":  "獲得スキルEXP",
+                        "zh":  "获得技能EXP",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "UNIT_GET_UNIT_POINT",
+                        "ja":  "獲得ユ\u003ccspace=-2\u003eニ\u003ccspace=-5\u003eッ\u003ccspace=0\u003eトP",
+                        "zh":  "获得\u003ccspace=-2\u003e单\u003ccspace=-5\u003e位\u003ccspace=0\u003eP",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "UNIT_GOT_TITLE",
+                        "ja":  "加護",
+                        "zh":  "加护",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "UNIT_HEALING_RATE",
+                        "ja":  "回復率",
+                        "zh":  "回复率",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "UNIT_ICON_TITLE",
+                        "ja":  "アイコン",
+                        "zh":  "图标",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "UNIT_ILLUST_CATEGORY_ARMED",
+                        "ja":  "武装",
+                        "zh":  "武装",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "UNIT_ILLUST_CATEGORY_CASUAL",
+                        "ja":  "制服",
+                        "zh":  "制服",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "UNIT_ILLUST_SETTING_TEXT",
+                        "ja":  "マイページに表示するイラストを選択してください。",
+                        "zh":  "请选择要在个人主页显示的插画。",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "UNIT_ILLUST_SETTING_TITLE",
+                        "ja":  "イラスト設定",
+                        "zh":  "插画设置",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "UNIT_ILLUST_TITLE",
+                        "ja":  "ｲﾗｽﾄ",
+                        "zh":  "插画",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "UNIT_ILLUST_TITLE_FULL",
+                        "ja":  "イラスト",
+                        "zh":  "插画",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "UNIT_LEVEL",
+                        "ja":  "\u003ccspace=-2\u003eLv.",
+                        "zh":  "\u003ccspace=-2\u003eLv.",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "UNIT_MAX_AWAKE_POINT",
+                        "ja":  "これ以上潜在覚醒ポイントを増やすことはできません",
+                        "zh":  "无法继续增加潜能觉醒点数",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "UNIT_MAX_STATUS_TAB",
+                        "ja":  "最大ステータス",
+                        "zh":  "最大属性",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "UNIT_NEED_FIRST_TIME",
+                        "ja":  "初回\u003ccspace=-1\u003eまで",
+                        "zh":  "首次\u003ccspace=-1\u003e为止",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "UNIT_NEED_RECAST_TIME",
+                        "ja":  "再使\u003ccspace=-1.8\u003e用\u003ccspace=-1.6\u003eまで",
+                        "zh":  "再次\u003ccspace=-1.8\u003e使用\u003ccspace=-1.6\u003e为止",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "UNIT_NEXT_EXP_TITLE",
+                        "ja":  "あと",
+                        "zh":  "还需",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "UNIT_NOT_OPEN_EX_SKILL_DETAIL",
+                        "ja":  "この画面では、EXスキルの強化ができません",
+                        "zh":  "在此画面无法强化EX技能",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "UNIT_NOT_OPEN_SKILL_DETAIL",
+                        "ja":  "この画面では、EXスキルの強化・変更することができません",
+                        "zh":  "在此画面无法强化或变更EX技能",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "UNIT_NOT_OPEN_SKILL_DETAIL_GACHA",
+                        "ja":  "この画面では操作を受け付けません",
+                        "zh":  "在此画面无法进行操作",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "UNIT_OBTAINING_METHOD",
+                        "ja":  "入手方法",
+                        "zh":  "获取方法",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "UNIT_PARAM_ADD_TITLE",
+                        "ja":  "追加",
+                        "zh":  "追加",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "UNIT_PARAM_SIGNED_VALUE",
+                        "ja":  "{0:+0;-0}",
+                        "zh":  "{0:+0;-0}",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "UNIT_PENETRATION_RATE",
+                        "ja":  "貫通率",
+                        "zh":  "贯通率",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "UNIT_PICTUREBOOK_TRANSITION",
+                        "ja":  "図 鑑",
+                        "zh":  "图 鉴",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "UNIT_PLAYER_NAME_TITLE",
+                        "ja":  "\u003ccspace=-2\u003eプレ\u003ccspace=-3\u003eイヤ\u003ccspace=-1\u003eー名",
+                        "zh":  "\u003ccspace=-2\u003e玩\u003ccspace=-3\u003e家\u003ccspace=-1\u003e名",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "UNIT_POSSESS_GOLD",
+                        "ja":  "所持ゴールド",
+                        "zh":  "持有金币",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "UNIT_PROFILE_BUTTON",
+                        "ja":  "プ\u003ccspace=-1\u003eロ\u003ccspace=-3.5\u003eフ\u003ccspace=-2\u003eィール",
+                        "zh":  "个\u003ccspace=-1\u003e人\u003ccspace=-3.5\u003e资\u003ccspace=-2\u003e料",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "UNIT_RANGE_TITLE",
+                        "ja":  "射程",
+                        "zh":  "射程",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "UNIT_RANKUP_BUTTON",
+                        "ja":  "\u003ccspace=-1\u003eラン\u003c/cspace\u003eク\u003ccspace=-2\u003eア\u003ccspace=-3\u003eップ",
+                        "zh":  "\u003ccspace=-1\u003e阶\u003c/cspace\u003e级\u003ccspace=-2\u003e提\u003ccspace=-3\u003e升",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "UNIT_RANKUP_CHECK_RESULT_1",
+                        "ja":  "・最大レベル上昇",
+                        "zh":  "・最大等级提升",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "UNIT_RANKUP_CHECK_RESULT_2",
+                        "ja":  "・基礎ステータス上昇",
+                        "zh":  "・基础属性提升",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "UNIT_RANKUP_CHECK_RESULT_3",
+                        "ja":  "・交流イベント追加",
+                        "zh":  "・追加交流活动",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "UNIT_RANKUP_CHECK_RESULT_4",
+                        "ja":  "・武装イラスト変化",
+                        "zh":  "・武装插画变化",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "UNIT_RANKUP_CHECK_RESULT_5",
+                        "ja":  "・SDキャラ変化",
+                        "zh":  "・SD角色变化",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "UNIT_RANKUP_CHECK_TEXT",
+                        "ja":  "以下の内容でランクアップします。",
+                        "zh":  "将按以下内容进行阶级提升。",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "UNIT_RANKUP_CHECK_TITLE",
+                        "ja":  "ランクアップ確認",
+                        "zh":  "阶级提升确认",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "UNIT_REINFORCE_AFTER_LEVEL",
+                        "ja":  "強化後Lv",
+                        "zh":  "强化后Lv",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "UNIT_REINFORCE_BUTTON",
+                        "ja":  "強 化",
+                        "zh":  "强 化",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "UNIT_REINFORCE_EXECUTION_BUTTON",
+                        "ja":  "強化実行",
+                        "zh":  "执行强化",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "UNIT_REINFORCE_MATERIAL_TITLE",
+                        "ja":  "合成素材",
+                        "zh":  "合成素材",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "UNIT_REINFORCE_TRANSITION",
+                        "ja":  "育 成",
+                        "zh":  "培 养",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "UNIT_RENTAL_BUTTON",
+                        "ja":  "レンタル",
+                        "zh":  "租借",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "UNIT_RENTAL_CHANGE_UNIT_POPUP",
+                        "ja":  "既にユニットをレンタルしています。\r\n新たにレンタルしますか？\r\n※今までのユニットは使用できなくなります。",
+                        "zh":  "已租借了单位。\n要重新租借吗？\n※之前的单位将无法使用。",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "UNIT_RENTAL_POPUP",
+                        "ja":  "このユニットをレンタルしますか？",
+                        "zh":  "要租借该单位吗？",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "UNIT_RESET_AWAKE_POINT",
+                        "ja":  "潜在覚醒をリセットしました",
+                        "zh":  "已重置潜能觉醒",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "UNIT_RETIRE_BUTTON",
+                        "ja":  "引 退",
+                        "zh":  "退 役",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "UNIT_RETIRE_SR_WARNING_TEXT",
+                        "ja":  "SR以上のユニットが含まれています。",
+                        "zh":  "其中包含SR以上的单位。",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "UNIT_RETIRE_TEXT",
+                        "ja":  "上記のユニットを引退します。よろしいですか?",
+                        "zh":  "将退役上述单位。确定吗?",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "UNIT_RETIRE_TITLE",
+                        "ja":  "引退確認",
+                        "zh":  "退役确认",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "UNIT_SD_CHARA_TITLE",
+                        "ja":  "SDキャラ",
+                        "zh":  "SD角色",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "UNIT_SELECTED_UNIT_TITLE",
+                        "ja":  "選択中のユ\u003ccspace=-1\u003e\u003ccspace=-2\u003eニ\u003ccspace=-4\u003eット",
+                        "zh":  "选择中的\u003ccspace=-1\u003e\u003ccspace=-2\u003e单\u003ccspace=-4\u003e位",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "UNIT_SEX_TITLE",
+                        "ja":  "性別",
+                        "zh":  "性别",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "UNIT_SKILL_CHECK_LEVEL",
+                        "ja":  "Lv. {0}/{1}",
+                        "zh":  "Lv. {0}/{1}",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "UNIT_SKILL_CHECK_NAME",
+                        "ja":  "スキル:",
+                        "zh":  "技能:",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "UNIT_SKILL_CHECK_TITLE",
+                        "ja":  "スキル確認",
+                        "zh":  "技能确认",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "UNIT_SKILL_COOL_TIME_TEXT",
+                        "ja":  "準備時間 \u003ccolor=#78F9D3\u003e{0}\u003c/color\u003e秒",
+                        "zh":  "准备时间 \u003ccolor=#78F9D3\u003e{0}\u003c/color\u003e秒",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "UNIT_SKILL_FIRST_COOL_TIME_TEXT",
+                        "ja":  "初回のみ \u003ccolor=#78F9D3\u003e{0}\u003c/color\u003e秒",
+                        "zh":  "仅首次 \u003ccolor=#78F9D3\u003e{0}\u003c/color\u003e秒",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "UNIT_SKILL_LEVEL",
+                        "ja":  "スキルLv",
+                        "zh":  "技能Lv",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "UNIT_SKILL_LEVEL_DOT",
+                        "ja":  "スキルLv.",
+                        "zh":  "技能Lv.",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "UNIT_SKILL_TITLE",
+                        "ja":  "\u003ccspace=-1\u003eス\u003ccspace=-2\u003eキル",
+                        "zh":  "\u003ccspace=-1\u003e技\u003ccspace=-2\u003e能",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "UNIT_TARGET_COUNT",
+                        "ja":  "最大ターゲット数",
+                        "zh":  "最大目标数",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "UNIT_TEAM_BULK_SET",
+                        "ja":  "一括\u003ccspace=-1\u003e編成",
+                        "zh":  "一键\u003ccspace=-1\u003e编队",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "UNIT_TEAM_CANCEL_BUTTON",
+                        "ja":  "\u003ccspace=-3.5\u003eキ\u003ccspace=-6.5\u003eャ\u003ccspace=-2\u003eン\u003ccspace=-2.5\u003eセル",
+                        "zh":  "\u003ccspace=-3.5\u003e取\u003ccspace=-6.5\u003e消\u003ccspace=-2\u003e\u003ccspace=-2.5\u003e",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "UNIT_TEAM_COPY_BUTTON",
+                        "ja":  "\u003ccspace=-1\u003eチ\u003ccspace=-4\u003eー\u003ccspace=-2\u003eムを\u003ccspace=-2\u003eコピー",
+                        "zh":  "\u003ccspace=-1\u003e复\u003ccspace=-4\u003e制\u003ccspace=-2\u003e队\u003ccspace=-2\u003e伍",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "UNIT_TEAM_DISPERSION",
+                        "ja":  "解 散",
+                        "zh":  "解 散",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "UNIT_TEAM_NAME_CANCEL_BUTTON",
+                        "ja":  "\u003ccspace=-1\u003eキ\u003ccspace=-3\u003eャ\u003ccspace=0\u003eンセル",
+                        "zh":  "\u003ccspace=-1\u003e取\u003ccspace=-3\u003e消\u003ccspace=0\u003e",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "UNIT_TEAM_NAME_DECISION_BUTTON",
+                        "ja":  "決定",
+                        "zh":  "确定",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "UNIT_TEAM_NAME_INPUT_TEXT",
+                        "ja":  "Enter text...",
+                        "zh":  "请输入文字...",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "UNIT_TEAM_NAME_INPUT_TITLE",
+                        "ja":  "チーム名入力",
+                        "zh":  "队伍名输入",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "UNIT_TEAM_NAME_TITLE",
+                        "ja":  "チーム名",
+                        "zh":  "队伍名",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "UNIT_TEAM_PASTE_BUTTON",
+                        "ja":  "\u003ccspace=-1\u003eチ\u003ccspace=-4\u003eー\u003ccspace=-2\u003eムを\u003ccspace=-2\u003eペー\u003ccspace=-3\u003eスト",
+                        "zh":  "\u003ccspace=-1\u003e粘\u003ccspace=-4\u003e贴\u003ccspace=-2\u003e队\u003ccspace=-2\u003e伍\u003ccspace=-3\u003e",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "UNIT_TEAM_SELECT_TITLE",
+                        "ja":  "チーム選択",
+                        "zh":  "队伍选择",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "UNIT_TOKEN_TITLE",
+                        "ja":  "トークン",
+                        "zh":  "信物",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "UNIT_TYPE",
+                        "ja":  "種族:{0}",
+                        "zh":  "种族:{0}",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "UNIT_USE_COST_TITLE",
+                        "ja":  "使用コスト",
+                        "zh":  "使用消耗",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "UNIT_VIEW_SETTING",
+                        "ja":  "\u003cscale=0.9\u003e表示設定",
+                        "zh":  "\u003cscale=0.9\u003e显示设置",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "UNIT_VIEW_SETTING_TEXT",
+                        "ja":  "ユニットの表示を変更できます。",
+                        "zh":  "可以更改单位的显示方式。",
+                        "status":  "draft",
+                        "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "msgdata",
+                        "key":  "UNIT_VOICE_BUTTON",
+                        "ja":  "\u003ccspace=-1\u003eボイス",
+                        "zh":  "\u003ccspace=-1\u003e语音",
+                        "status":  "draft",
+                        "note":  ""
                     }
                 ]
 }
