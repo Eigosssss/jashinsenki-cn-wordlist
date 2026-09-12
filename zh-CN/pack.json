@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "language": "zh-CN",
-  "generatedAt": "2026-09-12T20:05:49+08:00",
+  "generatedAt": "2026-09-12T20:06:37+08:00",
   "names": {
   "schemaVersion": 1,
   "language": "zh-CN",
@@ -15401,7 +15401,7 @@
                         "kind":  "msgdata",
                         "key":  "UNIT_MAX_STATUS_TAB",
                         "ja":  "最大ステータス",
-                        "zh":  "最大属性",
+                        "zh":  "最大数值",
                         "status":  "draft",
                         "note":  ""
                     },
