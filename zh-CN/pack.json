@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "language": "zh-CN",
-  "generatedAt": "2026-09-12T21:08:13+08:00",
+  "generatedAt": "2026-09-12T21:10:30+08:00",
   "names": {
   "schemaVersion": 1,
   "language": "zh-CN",
@@ -7249,7 +7249,7 @@
   "extras": {
     "schemaVersion":  1,
     "language":  "zh-CN",
-    "generatedAt":  "2026-09-12T21:07:24+08:00",
+    "generatedAt":  "2026-09-12T21:10:30+08:00",
     "audit":  {
                   "candidates":  1037,
                   "uniqueKeys":  970,
@@ -7260,8 +7260,8 @@
                   "uiV2Added":  783,
                   "uiV3Added":  631,
                   "pending":  0,
-                  "addedByHand":  22,
-                  "enabled":  2405
+                  "addedByHand":  6,
+                  "enabled":  2411
               },
     "entries":  [
                     {
@@ -28908,6 +28908,60 @@
                         "zh":  "出 击",
                         "status":  "draft",
                         "note":  "重新启用（v1.7.1 场景扫描上线后，用户指出底栏文字可被汉化，非图片烘焙）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "CAP_MENU_SPOT",
+                        "ja":  "スポット",
+                        "zh":  "地点",
+                        "status":  "draft",
+                        "note":  "主页底栏入口（用户 2026-09-12 定稿：スポット→地点，与 拠点→据点 区分）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "CAP_SETTING_MENU",
+                        "ja":  "設定メニュー",
+                        "zh":  "设置菜单",
+                        "status":  "draft",
+                        "note":  "设置入口按钮"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "CAP_DMM_MIGRATION",
+                        "ja":  "DMM移行",
+                        "zh":  "DMM转移",
+                        "status":  "draft",
+                        "note":  "DMM 数据迁移按钮"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "CAP_AUDIO_NOTICE",
+                        "ja":  "このゲームでは音声が再生されます。",
+                        "zh":  "本游戏会播放声音。",
+                        "status":  "draft",
+                        "note":  "启动音量提示"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "CAP_INPUT_HINT",
+                        "ja":  "キャラクター台詞最大１行全角１８文字",
+                        "zh":  "角色台词最多1行、全角18字",
+                        "status":  "draft",
+                        "note":  "输入框字数提示（全角数字保留原样）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "CAP_SERVER_1",
+                        "ja":  "サーバー1",
+                        "zh":  "服务器1",
+                        "status":  "draft",
+                        "note":  "服务器选择标签"
                     }
                 ]
 }
