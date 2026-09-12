@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "language": "zh-CN",
-  "generatedAt": "2026-09-12T20:52:47+08:00",
+  "generatedAt": "2026-09-12T20:56:55+08:00",
   "names": {
   "schemaVersion": 1,
   "language": "zh-CN",
@@ -7249,7 +7249,7 @@
   "extras": {
     "schemaVersion":  1,
     "language":  "zh-CN",
-    "generatedAt":  "2026-09-12T20:50:04+08:00",
+    "generatedAt":  "2026-09-12T20:56:51+08:00",
     "audit":  {
                   "candidates":  1037,
                   "uniqueKeys":  970,
@@ -7259,8 +7259,9 @@
                   "enablePending":  333,
                   "uiV2Added":  783,
                   "uiV3Added":  631,
-                  "enabled":  2383,
-                  "pending":  0
+                  "pending":  0,
+                  "addedByHand":  22,
+                  "enabled":  2405
               },
     "entries":  [
                     {
@@ -23036,7 +23037,7 @@
                         "kind":  "title",
                         "key":  "HDR_4_TITLE",
                         "ja":  "チーム編成",
-                        "zh":  "队伍编队",
+                        "zh":  "编队",
                         "status":  "draft",
                         "note":  "ui-v3"
                     },
@@ -28709,6 +28710,204 @@
                         "zh":  "在Ｇｅｎ．Ｃ．巴米利恩面前，\n跪伏于地吧！",
                         "status":  "draft",
                         "note":  "ui-v3"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "CAP_TITLE_MENU",
+                        "ja":  "メニュー",
+                        "zh":  "菜单",
+                        "status":  "draft",
+                        "note":  "标题栏中央（TitleText_Center）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "CAP_OPT_BATTLE",
+                        "ja":  "バトル",
+                        "zh":  "战斗",
+                        "status":  "draft",
+                        "note":  "选项页签"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "CAP_OPT_TEXT",
+                        "ja":  "テキスト",
+                        "zh":  "文本",
+                        "status":  "draft",
+                        "note":  "选项页签"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "CAP_OPT_SOUND",
+                        "ja":  "サウンド",
+                        "zh":  "音效",
+                        "status":  "draft",
+                        "note":  "选项页签"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "CAP_OPT_BGM",
+                        "ja":  "環境音",
+                        "zh":  "环境音",
+                        "status":  "draft",
+                        "note":  "选项项"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "CAP_OPT_BGV",
+                        "ja":  "バックグラウンドボイス",
+                        "zh":  "后台语音",
+                        "status":  "draft",
+                        "note":  "选项项"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "CAP_OPT_HSE",
+                        "ja":  "Hシーン効果音",
+                        "zh":  "H场景音效",
+                        "status":  "draft",
+                        "note":  "选项项"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "CAP_OPT_VOICE_ON_TEXT",
+                        "ja":  "テキスト送り時ボイス再生",
+                        "zh":  "推进文本时播放语音",
+                        "status":  "draft",
+                        "note":  "选项项"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "CAP_OPT_STOP_YES",
+                        "ja":  "停止する",
+                        "zh":  "停止",
+                        "status":  "draft",
+                        "note":  "确认弹窗"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "CAP_OPT_STOP_NO",
+                        "ja":  "停止しない",
+                        "zh":  "不停止",
+                        "status":  "draft",
+                        "note":  "确认弹窗"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "CAP_OPT_RESET_DEFAULT",
+                        "ja":  "デフォルト設定に戻す",
+                        "zh":  "恢复默认设置",
+                        "status":  "draft",
+                        "note":  "选项按钮"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "CAP_OPT_SHOW_DAMAGE_HEAL",
+                        "ja":  "ダメージと回復の数値を表示",
+                        "zh":  "显示伤害与回复数值",
+                        "status":  "draft",
+                        "note":  "选项项"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "CAP_TITLE_GOTO_X",
+                        "ja":  "公式Xへの遷移",
+                        "zh":  "前往官方X",
+                        "status":  "draft",
+                        "note":  "标题画面"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "CAP_TITLE_GOTO_HP",
+                        "ja":  "\u003cscale=0.9\u003e公式HPへの遷移",
+                        "zh":  "\u003cscale=0.9\u003e前往官方网站",
+                        "status":  "draft",
+                        "note":  "标题画面（保留标签）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "CAP_BANNER_LULUYE_SQUAD",
+                        "ja":  "ルルイエ・スクワッド・セレクション",
+                        "zh":  "拉莱耶·小队精选",
+                        "status":  "draft",
+                        "note":  "活动/卡池名（NameText）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "CAP_BANNER_CALCOSA_WITCH",
+                        "ja":  "カルコサ・ウィッチ・パーティー",
+                        "zh":  "卡尔克萨·女巫派对",
+                        "status":  "draft",
+                        "note":  "同上"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "CAP_BANNER_ARKHAM_ADVENTURE",
+                        "ja":  "アーカム・リトル・アドベンチャー",
+                        "zh":  "阿卡姆·小小冒险",
+                        "status":  "draft",
+                        "note":  "同上"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "CAP_BANNER_CHAOS_SKYHIGH",
+                        "ja":  "ケイオス・スカイハイ",
+                        "zh":  "凯奥斯·天际高飞",
+                        "status":  "draft",
+                        "note":  "同上；スカイハイ 取「sky high=天际高飞」，若活动内有定名可覆盖"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "CAP_HOME_BASE",
+                        "ja":  "拠点",
+                        "zh":  "据点",
+                        "status":  "draft",
+                        "note":  "主页底栏（用户反馈未汉化；MasterData 无此词条，按运行期用词补）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "CAP_HOME_SORTIE",
+                        "ja":  "出撃",
+                        "zh":  "出击",
+                        "status":  "draft",
+                        "note":  "同上"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "CAP_HOME_BASE_SP",
+                        "ja":  "拠 点",
+                        "zh":  "据 点",
+                        "status":  "draft",
+                        "note":  "同上（字间空格变体）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "CAP_HOME_SORTIE_SP",
+                        "ja":  "出 撃",
+                        "zh":  "出 击",
+                        "status":  "draft",
+                        "note":  "同上（字间空格变体）"
                     }
                 ]
 }
