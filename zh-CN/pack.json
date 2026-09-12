@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "language": "zh-CN",
-  "generatedAt": "2026-09-12T19:55:27+08:00",
+  "generatedAt": "2026-09-12T19:58:20+08:00",
   "names": {
   "schemaVersion": 1,
   "language": "zh-CN",
@@ -7249,14 +7249,15 @@
   "extras": {
     "schemaVersion":  1,
     "language":  "zh-CN",
-    "generatedAt":  "2026-09-12T19:55:16+08:00",
+    "generatedAt":  "2026-09-12T19:57:09+08:00",
     "audit":  {
                   "candidates":  871,
-                  "translated":  871,
-                  "enabled":  487,
-                  "pending":  384,
+                  "uniqueKeys":  815,
+                  "enabled":  482,
+                  "pending":  333,
                   "missing":  0,
-                  "tokenMismatch":  0
+                  "tokenMismatch":  0,
+                  "conflicts":  4
               },
     "entries":  [
                     {
@@ -10035,15 +10036,6 @@
                         "domain":  "connection",
                         "kind":  "text",
                         "key":  "",
-                        "ja":  "？？？",
-                        "zh":  "？？？",
-                        "status":  "draft",
-                        "note":  ""
-                    },
-                    {
-                        "domain":  "connection",
-                        "kind":  "text",
-                        "key":  "",
                         "ja":  "王位継承順位が自分より低いのに目立っているので\r\n勝手に敵意を抱いている。\r\n目下なのに目の上のたんこぶ。",
                         "zh":  "王位继承顺序明明比自己低，却那么显眼，\n于是擅自怀有敌意。\n明明是下属，却成了眼中钉。",
                         "status":  "draft",
@@ -10979,24 +10971,6 @@
                     {
                         "domain":  "ui",
                         "kind":  "message",
-                        "key":  "ARTIFACT_MYSTERY_ABILITY",
-                        "ja":  "？？？",
-                        "zh":  "？？？",
-                        "status":  "pending",
-                        "note":  ""
-                    },
-                    {
-                        "domain":  "ui",
-                        "kind":  "message",
-                        "key":  "ARTIFACT_MYSTERY_NAME",
-                        "ja":  "？？？",
-                        "zh":  "？？？",
-                        "status":  "pending",
-                        "note":  ""
-                    },
-                    {
-                        "domain":  "ui",
-                        "kind":  "message",
                         "key":  "ARTIFACT_START_EVOLUTION",
                         "ja":  "進化開始",
                         "zh":  "开始进化",
@@ -11195,10 +11169,10 @@
                     {
                         "domain":  "ui",
                         "kind":  "message",
-                        "key":  "BATTLE_HOME_SPECIAL_QUEST_BUTTON",
+                        "key":  "TAB_LABEL_STORY_PICTURE_SPECIAL",
                         "ja":  "残響シアター",
                         "zh":  "回响剧场",
-                        "status":  "pending",
+                        "status":  "draft",
                         "note":  ""
                     },
                     {
@@ -11294,10 +11268,10 @@
                     {
                         "domain":  "ui",
                         "kind":  "message",
-                        "key":  "BOM_DETAIL_PAGE_SKIN_TAB",
+                        "key":  "COMMON_COSTUME_LABEL",
                         "ja":  "コスチューム",
                         "zh":  "服装",
-                        "status":  "pending",
+                        "status":  "draft",
                         "note":  ""
                     },
                     {
@@ -11402,10 +11376,10 @@
                     {
                         "domain":  "ui",
                         "kind":  "message",
-                        "key":  "CITADEL_LEVEL_LABEL",
+                        "key":  "COMMON_LEVEL_LABEL",
                         "ja":  "Lv",
                         "zh":  "Lv",
-                        "status":  "pending",
+                        "status":  "draft",
                         "note":  ""
                     },
                     {
@@ -11429,10 +11403,10 @@
                     {
                         "domain":  "ui",
                         "kind":  "message",
-                        "key":  "CITADEL_NOT_POSS_CITADEL_SKILL_LABEL",
+                        "key":  "COMMON_NOT_POSS_LABEL",
                         "ja":  "未所持",
                         "zh":  "未持有",
-                        "status":  "pending",
+                        "status":  "draft",
                         "note":  ""
                     },
                     {
@@ -11474,24 +11448,6 @@
                     {
                         "domain":  "ui",
                         "kind":  "message",
-                        "key":  "COMMON_COSTUME_LABEL",
-                        "ja":  "コスチューム",
-                        "zh":  "服装",
-                        "status":  "draft",
-                        "note":  ""
-                    },
-                    {
-                        "domain":  "ui",
-                        "kind":  "message",
-                        "key":  "COMMON_LEVEL_LABEL",
-                        "ja":  "Lv",
-                        "zh":  "Lv",
-                        "status":  "draft",
-                        "note":  ""
-                    },
-                    {
-                        "domain":  "ui",
-                        "kind":  "message",
                         "key":  "COMMON_LIST_EMPTY",
                         "ja":  "表示できる対象がありません",
                         "zh":  "没有可显示的对象",
@@ -11513,15 +11469,6 @@
                         "key":  "COMMON_NO_GUILD_LABEL",
                         "ja":  "未所属",
                         "zh":  "未加入",
-                        "status":  "draft",
-                        "note":  ""
-                    },
-                    {
-                        "domain":  "ui",
-                        "kind":  "message",
-                        "key":  "COMMON_NOT_POSS_LABEL",
-                        "ja":  "未所持",
-                        "zh":  "未持有",
                         "status":  "draft",
                         "note":  ""
                     },
@@ -11684,15 +11631,6 @@
                         "key":  "DECK_MENU_PASTE_BUTTON",
                         "ja":  "編成ペースト",
                         "zh":  "粘贴编队",
-                        "status":  "pending",
-                        "note":  ""
-                    },
-                    {
-                        "domain":  "ui",
-                        "kind":  "message",
-                        "key":  "DECK_MENU_TITLE",
-                        "ja":  "編成メニュー",
-                        "zh":  "编队菜单",
                         "status":  "pending",
                         "note":  ""
                     },
@@ -11879,15 +11817,6 @@
                     {
                         "domain":  "ui",
                         "kind":  "message",
-                        "key":  "ENGRAVING_REINFORCE_LEVEL_LABEL",
-                        "ja":  "Lv",
-                        "zh":  "Lv",
-                        "status":  "pending",
-                        "note":  ""
-                    },
-                    {
-                        "domain":  "ui",
-                        "kind":  "message",
                         "key":  "ENGRAVING_REINFORCE_MESSAGE",
                         "ja":  "刻印の強化を行います。よろしいですか?",
                         "zh":  "将进行刻印强化。确定吗?",
@@ -11909,15 +11838,6 @@
                         "key":  "ENGRAVING_REINFORCE_MUTATE_WARNING_MESSAGE",
                         "ja":  "ロックされていない変異特性はランダムに変化します",
                         "zh":  "未锁定的变异特性将随机变化",
-                        "status":  "pending",
-                        "note":  ""
-                    },
-                    {
-                        "domain":  "ui",
-                        "kind":  "message",
-                        "key":  "ENGRAVING_REINFORCE_NEW_MUTATION_TEXT_LABEL",
-                        "ja":  "？？？",
-                        "zh":  "？？？",
                         "status":  "pending",
                         "note":  ""
                     },
@@ -12662,15 +12582,6 @@
                     {
                         "domain":  "ui",
                         "kind":  "message",
-                        "key":  "MYPAGE_GUILD_BUTTON",
-                        "ja":  "???",
-                        "zh":  "???",
-                        "status":  "pending",
-                        "note":  ""
-                    },
-                    {
-                        "domain":  "ui",
-                        "kind":  "message",
                         "key":  "MYPAGE_LEVEL_LINK_BUTTON",
                         "ja":  "レベルリンク",
                         "zh":  "等级链接",
@@ -12797,15 +12708,6 @@
                     {
                         "domain":  "ui",
                         "kind":  "message",
-                        "key":  "PVP_CHALLENGE_COUNT_RECOVERY_BUTTON",
-                        "ja":  "回 復",
-                        "zh":  "回 复",
-                        "status":  "pending",
-                        "note":  ""
-                    },
-                    {
-                        "domain":  "ui",
-                        "kind":  "message",
                         "key":  "PVP_DAILY_RANKING_REWARD_LABEL",
                         "ja":  "デイリーランキング報酬",
                         "zh":  "每日排行榜奖励",
@@ -12878,45 +12780,9 @@
                     {
                         "domain":  "ui",
                         "kind":  "message",
-                        "key":  "PVP_RANKING_REWARD_POPUP_TITLE",
-                        "ja":  "報酬",
-                        "zh":  "奖励",
-                        "status":  "pending",
-                        "note":  ""
-                    },
-                    {
-                        "domain":  "ui",
-                        "kind":  "message",
-                        "key":  "PVP_RANKING_TAB_LABEL",
-                        "ja":  "ランキング",
-                        "zh":  "排行榜",
-                        "status":  "pending",
-                        "note":  ""
-                    },
-                    {
-                        "domain":  "ui",
-                        "kind":  "message",
                         "key":  "PVP_RECOVERY_CHALLENGE_COUNT_POPUP_MESSAGE",
                         "ja":  "回復する対戦回数を選択してください。",
                         "zh":  "请选择要恢复的对战次数。",
-                        "status":  "pending",
-                        "note":  ""
-                    },
-                    {
-                        "domain":  "ui",
-                        "kind":  "message",
-                        "key":  "PVP_RECOVERY_CHALLENGE_COUNT_POPUP_TITLE",
-                        "ja":  "挑戦回数回復",
-                        "zh":  "恢复挑战次数",
-                        "status":  "pending",
-                        "note":  ""
-                    },
-                    {
-                        "domain":  "ui",
-                        "kind":  "message",
-                        "key":  "PVP_RELIC_LIST_POPUP_TITLE",
-                        "ja":  "シーズン恩寵",
-                        "zh":  "赛季恩宠",
                         "status":  "pending",
                         "note":  ""
                     },
@@ -12971,24 +12837,6 @@
                         "key":  "PVP_SEASON_REWARD_TAB_LABEL",
                         "ja":  "シーズン報酬",
                         "zh":  "赛季奖励",
-                        "status":  "pending",
-                        "note":  ""
-                    },
-                    {
-                        "domain":  "ui",
-                        "kind":  "message",
-                        "key":  "PVP_SELECT_OPPONENT_MATCH_BUTTON",
-                        "ja":  "対戦",
-                        "zh":  "对战",
-                        "status":  "pending",
-                        "note":  ""
-                    },
-                    {
-                        "domain":  "ui",
-                        "kind":  "message",
-                        "key":  "PVP_SELECT_OPPONENT_TAB_LABEL",
-                        "ja":  "対戦相手選択",
-                        "zh":  "选择对手",
                         "status":  "pending",
                         "note":  ""
                     },
@@ -13058,15 +12906,6 @@
                     {
                         "domain":  "ui",
                         "kind":  "message",
-                        "key":  "QUEST_CATEGORY_3_NAME",
-                        "ja":  "デイリー",
-                        "zh":  "每日",
-                        "status":  "pending",
-                        "note":  ""
-                    },
-                    {
-                        "domain":  "ui",
-                        "kind":  "message",
                         "key":  "QUEST_CATEGORY_4_NAME",
                         "ja":  "イベント",
                         "zh":  "活动",
@@ -13121,10 +12960,10 @@
                     {
                         "domain":  "ui",
                         "kind":  "message",
-                        "key":  "QUEST_PAGE_MAIN_STORY_BUTTON",
+                        "key":  "TAB_LABEL_STORY_PICTURE_MAIN",
                         "ja":  "メインストーリー",
                         "zh":  "主线剧情",
-                        "status":  "pending",
+                        "status":  "draft",
                         "note":  ""
                     },
                     {
@@ -13184,15 +13023,6 @@
                     {
                         "domain":  "ui",
                         "kind":  "message",
-                        "key":  "QUEST_SKIP_CONFIRM_POPUP_TITLE",
-                        "ja":  "スキップ",
-                        "zh":  "跳过",
-                        "status":  "pending",
-                        "note":  ""
-                    },
-                    {
-                        "domain":  "ui",
-                        "kind":  "message",
                         "key":  "REINFORCE_BOM_ACTIVE_SKILL_BUTTON",
                         "ja":  "スキル強化",
                         "zh":  "技能强化",
@@ -13220,10 +13050,10 @@
                     {
                         "domain":  "ui",
                         "kind":  "message",
-                        "key":  "REINFORCE_CITADEL_ALREADY_MAX_LEVEL_LABEL",
+                        "key":  "UNIT_DETAIL_REINFORCE_MAX_LEVEL_LABEL",
                         "ja":  "これ以上強化できません",
-                        "zh":  "无法进一步强化",
-                        "status":  "pending",
+                        "zh":  "无法继续强化",
+                        "status":  "draft",
                         "note":  ""
                     },
                     {
@@ -13256,19 +13086,10 @@
                     {
                         "domain":  "ui",
                         "kind":  "message",
-                        "key":  "REINFORCE_CITADEL_LEVEL_UP_BUTTON",
+                        "key":  "TAB_LABEL_REINFORCE",
                         "ja":  "レベルアップ",
                         "zh":  "升级",
-                        "status":  "pending",
-                        "note":  ""
-                    },
-                    {
-                        "domain":  "ui",
-                        "kind":  "message",
-                        "key":  "REINFORCE_CITADEL_LEVEL_UP_TAB_LABEL",
-                        "ja":  "レベルアップ",
-                        "zh":  "升级",
-                        "status":  "pending",
+                        "status":  "draft",
                         "note":  ""
                     },
                     {
@@ -13293,15 +13114,6 @@
                         "domain":  "ui",
                         "kind":  "message",
                         "key":  "REINFORCE_CITADEL_UNLOCK_CONTENT_LIST_BUTTON",
-                        "ja":  "解放項目一覧",
-                        "zh":  "解锁项目一览",
-                        "status":  "pending",
-                        "note":  ""
-                    },
-                    {
-                        "domain":  "ui",
-                        "kind":  "message",
-                        "key":  "REINFORCE_CITADEL_UNLOCK_CONTENT_LIST_POPUP_TITLE",
                         "ja":  "解放項目一覧",
                         "zh":  "解锁项目一览",
                         "status":  "pending",
@@ -13409,15 +13221,6 @@
                     {
                         "domain":  "ui",
                         "kind":  "message",
-                        "key":  "ROGUE_CELL_INFO_UNKNOWN_TITLE",
-                        "ja":  "？？？",
-                        "zh":  "？？？",
-                        "status":  "pending",
-                        "note":  ""
-                    },
-                    {
-                        "domain":  "ui",
-                        "kind":  "message",
                         "key":  "ROGUE_DECK_BOM_LOCKED_COMMENT",
                         "ja":  "邪神は変更できません。プレイ開始時に選択した邪神のみ使用可能です。",
                         "zh":  "无法更改邪神。仅可使用游戏开始时选择的邪神。",
@@ -13445,15 +13248,6 @@
                     {
                         "domain":  "ui",
                         "kind":  "message",
-                        "key":  "ROGUE_DIFFICULTY_UNLOCK_CONDITION_FORMAT",
-                        "ja":  "{0}クリアで解放",
-                        "zh":  "通关{0}后解锁",
-                        "status":  "pending",
-                        "note":  ""
-                    },
-                    {
-                        "domain":  "ui",
-                        "kind":  "message",
                         "key":  "ROGUE_EVENT_NEXT_BUTTON",
                         "ja":  "次へ進む",
                         "zh":  "继续",
@@ -13466,15 +13260,6 @@
                         "key":  "ROGUE_EXPIRED_TOAST",
                         "ja":  "イベント開催期間外のため、決戦を諦めてください。",
                         "zh":  "因不在活动举办期间内，请放弃决战。",
-                        "status":  "pending",
-                        "note":  ""
-                    },
-                    {
-                        "domain":  "ui",
-                        "kind":  "message",
-                        "key":  "ROGUE_FOOTER_ARTIFACT_LABEL",
-                        "ja":  "アーティファクト",
-                        "zh":  "神器",
                         "status":  "pending",
                         "note":  ""
                     },
@@ -13616,24 +13401,6 @@
                     {
                         "domain":  "ui",
                         "kind":  "message",
-                        "key":  "ROGUE_POINT_REWARD_RECEIVE_BUTTON",
-                        "ja":  "受取可",
-                        "zh":  "可领取",
-                        "status":  "pending",
-                        "note":  ""
-                    },
-                    {
-                        "domain":  "ui",
-                        "kind":  "message",
-                        "key":  "ROGUE_POINT_REWARD_RECEIVED_LABEL",
-                        "ja":  "受取済",
-                        "zh":  "已领取",
-                        "status":  "pending",
-                        "note":  ""
-                    },
-                    {
-                        "domain":  "ui",
-                        "kind":  "message",
                         "key":  "ROGUE_RELIC_ACQUIRE_MESSAGE",
                         "ja":  "恩寵を獲得しました",
                         "zh":  "已获得恩宠",
@@ -13670,10 +13437,10 @@
                     {
                         "domain":  "ui",
                         "kind":  "message",
-                        "key":  "ROGUE_RELIC_PICTURE_BOOK_DETAIL_TAB",
+                        "key":  "UNIT_DETAIL_PARAM_OPEN_BUTTON",
                         "ja":  "詳 細",
                         "zh":  "详 情",
-                        "status":  "pending",
+                        "status":  "draft",
                         "note":  ""
                     },
                     {
@@ -13727,15 +13494,6 @@
                         "key":  "ROGUE_RESULT_ACQUIRED_POINT_LABEL",
                         "ja":  "獲得ポイント",
                         "zh":  "获得积分",
-                        "status":  "pending",
-                        "note":  ""
-                    },
-                    {
-                        "domain":  "ui",
-                        "kind":  "message",
-                        "key":  "ROGUE_RESULT_ACQUIRED_REWARDS_LABEL",
-                        "ja":  "獲得報酬",
-                        "zh":  "获得奖励",
                         "status":  "pending",
                         "note":  ""
                     },
@@ -13949,15 +13707,6 @@
                     {
                         "domain":  "ui",
                         "kind":  "message",
-                        "key":  "ROGUE_STILL_LOCKED_LABEL",
-                        "ja":  "未開放",
-                        "zh":  "未解锁",
-                        "status":  "pending",
-                        "note":  ""
-                    },
-                    {
-                        "domain":  "ui",
-                        "kind":  "message",
                         "key":  "ROGUE_THEME",
                         "ja":  "テーマ",
                         "zh":  "主题",
@@ -14102,117 +13851,9 @@
                     {
                         "domain":  "ui",
                         "kind":  "message",
-                        "key":  "SERVER_RANKING_QUEST_PROGRESS_TAB_LABEL",
-                        "ja":  "メインストーリー",
-                        "zh":  "主线剧情",
-                        "status":  "pending",
-                        "note":  ""
-                    },
-                    {
-                        "domain":  "ui",
-                        "kind":  "message",
-                        "key":  "SERVER_RANKING_TOTAL_POWER_ARKHAM_CONTENT_LABEL",
-                        "ja":  "戦力",
-                        "zh":  "战力",
-                        "status":  "pending",
-                        "note":  ""
-                    },
-                    {
-                        "domain":  "ui",
-                        "kind":  "message",
-                        "key":  "SERVER_RANKING_TOTAL_POWER_ARKHAM_TAB_LABEL",
-                        "ja":  "戦力",
-                        "zh":  "战力",
-                        "status":  "pending",
-                        "note":  ""
-                    },
-                    {
-                        "domain":  "ui",
-                        "kind":  "message",
-                        "key":  "SERVER_RANKING_TOTAL_POWER_CARCOSA_CONTENT_LABEL",
-                        "ja":  "戦力",
-                        "zh":  "战力",
-                        "status":  "pending",
-                        "note":  ""
-                    },
-                    {
-                        "domain":  "ui",
-                        "kind":  "message",
-                        "key":  "SERVER_RANKING_TOTAL_POWER_CARCOSA_TAB_LABEL",
-                        "ja":  "戦力",
-                        "zh":  "战力",
-                        "status":  "pending",
-                        "note":  ""
-                    },
-                    {
-                        "domain":  "ui",
-                        "kind":  "message",
-                        "key":  "SERVER_RANKING_TOTAL_POWER_CHAOS_CONTENT_LABEL",
-                        "ja":  "戦力",
-                        "zh":  "战力",
-                        "status":  "pending",
-                        "note":  ""
-                    },
-                    {
-                        "domain":  "ui",
-                        "kind":  "message",
-                        "key":  "SERVER_RANKING_TOTAL_POWER_CHAOS_TAB_LABEL",
-                        "ja":  "戦力",
-                        "zh":  "战力",
-                        "status":  "pending",
-                        "note":  ""
-                    },
-                    {
-                        "domain":  "ui",
-                        "kind":  "message",
                         "key":  "SERVER_RANKING_TOTAL_POWER_CONTENT_LABEL",
                         "ja":  "総合戦力",
                         "zh":  "综合战力",
-                        "status":  "pending",
-                        "note":  ""
-                    },
-                    {
-                        "domain":  "ui",
-                        "kind":  "message",
-                        "key":  "SERVER_RANKING_TOTAL_POWER_RLYEH_CONTENT_LABEL",
-                        "ja":  "戦力",
-                        "zh":  "战力",
-                        "status":  "pending",
-                        "note":  ""
-                    },
-                    {
-                        "domain":  "ui",
-                        "kind":  "message",
-                        "key":  "SERVER_RANKING_TOTAL_POWER_RLYEH_TAB_LABEL",
-                        "ja":  "戦力",
-                        "zh":  "战力",
-                        "status":  "pending",
-                        "note":  ""
-                    },
-                    {
-                        "domain":  "ui",
-                        "kind":  "message",
-                        "key":  "SERVER_RANKING_TOTAL_POWER_TAB_LABEL",
-                        "ja":  "総合戦力",
-                        "zh":  "综合战力",
-                        "status":  "pending",
-                        "note":  ""
-                    },
-                    {
-                        "domain":  "ui",
-                        "kind":  "message",
-                        "key":  "SERVER_RANKING_TOWER_QUEST_PROGRESS_CONTENT_LABEL",
-                        "ja":  "進行度",
-                        "zh":  "进度",
-                        "status":  "pending",
-                        "note":  ""
-                    },
-                    {
-                        "domain":  "ui",
-                        "kind":  "message",
-                        "key":  "SERVER_RANKING_TOWER_QUEST_PROGRESS_TAB_LABEL",
-                        "ja":  "プリズンタワー",
-                        "zh":  "监狱塔",
                         "status":  "pending",
                         "note":  ""
                     },
@@ -14228,24 +13869,6 @@
                     {
                         "domain":  "ui",
                         "kind":  "message",
-                        "key":  "SKILL_AWAKE_AFTER_LABEL",
-                        "ja":  "強化後",
-                        "zh":  "强化后",
-                        "status":  "pending",
-                        "note":  ""
-                    },
-                    {
-                        "domain":  "ui",
-                        "kind":  "message",
-                        "key":  "SKILL_AWAKE_BEFORE_LABEL",
-                        "ja":  "強化前",
-                        "zh":  "强化前",
-                        "status":  "pending",
-                        "note":  ""
-                    },
-                    {
-                        "domain":  "ui",
-                        "kind":  "message",
                         "key":  "SKILL_CATEGORY_LABEL",
                         "ja":  "種別",
                         "zh":  "类型",
@@ -14255,36 +13878,9 @@
                     {
                         "domain":  "ui",
                         "kind":  "message",
-                        "key":  "SKILL_COOL_TIME_LABEL",
-                        "ja":  "クールタイム",
-                        "zh":  "冷却时间",
-                        "status":  "pending",
-                        "note":  ""
-                    },
-                    {
-                        "domain":  "ui",
-                        "kind":  "message",
-                        "key":  "SKILL_LEVEL_LABEL",
-                        "ja":  "Lv",
-                        "zh":  "Lv",
-                        "status":  "pending",
-                        "note":  ""
-                    },
-                    {
-                        "domain":  "ui",
-                        "kind":  "message",
                         "key":  "SKILL_STOCK_LABEL",
                         "ja":  "回数",
                         "zh":  "次数",
-                        "status":  "pending",
-                        "note":  ""
-                    },
-                    {
-                        "domain":  "ui",
-                        "kind":  "message",
-                        "key":  "SKILL_TEXT_LABEL",
-                        "ja":  "説明",
-                        "zh":  "说明",
                         "status":  "pending",
                         "note":  ""
                     },
@@ -14354,15 +13950,6 @@
                     {
                         "domain":  "ui",
                         "kind":  "message",
-                        "key":  "STORY_ADV_MENU_CLOSE_BUTTON",
-                        "ja":  "UI非表示",
-                        "zh":  "隐藏UI",
-                        "status":  "pending",
-                        "note":  ""
-                    },
-                    {
-                        "domain":  "ui",
-                        "kind":  "message",
                         "key":  "STORY_ADV_MENU_FASTFORWARD_BUTTON",
                         "ja":  "早送り",
                         "zh":  "快进",
@@ -14384,15 +13971,6 @@
                         "key":  "STORY_ADV_MENU_OPTION_BUTTON",
                         "ja":  "設定",
                         "zh":  "设置",
-                        "status":  "pending",
-                        "note":  ""
-                    },
-                    {
-                        "domain":  "ui",
-                        "kind":  "message",
-                        "key":  "STORY_ADV_MENU_SKIP_BUTTON",
-                        "ja":  "スキップ",
-                        "zh":  "跳过",
                         "status":  "pending",
                         "note":  ""
                     },
@@ -14507,15 +14085,6 @@
                     {
                         "domain":  "ui",
                         "kind":  "message",
-                        "key":  "TAB_LABEL_REINFORCE",
-                        "ja":  "レベルアップ",
-                        "zh":  "升级",
-                        "status":  "draft",
-                        "note":  ""
-                    },
-                    {
-                        "domain":  "ui",
-                        "kind":  "message",
                         "key":  "TAB_LABEL_STORY_PICTURE_EVENT",
                         "ja":  "イベントストーリー",
                         "zh":  "活动剧情",
@@ -14525,27 +14094,9 @@
                     {
                         "domain":  "ui",
                         "kind":  "message",
-                        "key":  "TAB_LABEL_STORY_PICTURE_MAIN",
-                        "ja":  "メインストーリー",
-                        "zh":  "主线剧情",
-                        "status":  "draft",
-                        "note":  ""
-                    },
-                    {
-                        "domain":  "ui",
-                        "kind":  "message",
                         "key":  "TAB_LABEL_STORY_PICTURE_ROGUE",
                         "ja":  "アポカリプス",
                         "zh":  "天启",
-                        "status":  "draft",
-                        "note":  ""
-                    },
-                    {
-                        "domain":  "ui",
-                        "kind":  "message",
-                        "key":  "TAB_LABEL_STORY_PICTURE_SPECIAL",
-                        "ja":  "残響シアター",
-                        "zh":  "残响剧场",
                         "status":  "draft",
                         "note":  ""
                     },
@@ -14786,15 +14337,6 @@
                     {
                         "domain":  "ui",
                         "kind":  "message",
-                        "key":  "UNIT_DETAIL_ENGRAVING_SLOT_LEVEL_LABEL",
-                        "ja":  "Lv",
-                        "zh":  "Lv",
-                        "status":  "draft",
-                        "note":  ""
-                    },
-                    {
-                        "domain":  "ui",
-                        "kind":  "message",
                         "key":  "UNIT_DETAIL_NOT_ACQUIRE_SKIN_SKILL_LABEL",
                         "ja":  "\u003cscale=0.9\u003eコス入手\nで開放\u003c/scale\u003e",
                         "zh":  "\u003cscale=0.9\u003e获得时装\n后开放\u003c/scale\u003e",
@@ -14822,27 +14364,9 @@
                     {
                         "domain":  "ui",
                         "kind":  "message",
-                        "key":  "UNIT_DETAIL_PARAM_OPEN_BUTTON",
-                        "ja":  "詳 細",
-                        "zh":  "详 情",
-                        "status":  "draft",
-                        "note":  ""
-                    },
-                    {
-                        "domain":  "ui",
-                        "kind":  "message",
                         "key":  "UNIT_DETAIL_PROFILE_CONDITIONS",
                         "ja":  "Lv{0}",
                         "zh":  "Lv{0}",
-                        "status":  "draft",
-                        "note":  ""
-                    },
-                    {
-                        "domain":  "ui",
-                        "kind":  "message",
-                        "key":  "UNIT_DETAIL_REINFORCE_CAN_LEVELUP_BUTTON",
-                        "ja":  "レベルアップ",
-                        "zh":  "升级",
                         "status":  "draft",
                         "note":  ""
                     },
@@ -14870,24 +14394,6 @@
                         "key":  "UNIT_DETAIL_REINFORCE_MAX_LEVEL_CAN_RANKUP",
                         "ja":  "覚醒で最大レベル上昇",
                         "zh":  "觉醒可提升等级上限",
-                        "status":  "draft",
-                        "note":  ""
-                    },
-                    {
-                        "domain":  "ui",
-                        "kind":  "message",
-                        "key":  "UNIT_DETAIL_REINFORCE_MAX_LEVEL_LABEL",
-                        "ja":  "これ以上強化できません",
-                        "zh":  "无法继续强化",
-                        "status":  "draft",
-                        "note":  ""
-                    },
-                    {
-                        "domain":  "ui",
-                        "kind":  "message",
-                        "key":  "UNIT_DETAIL_REINFORCE_NOT_ENOUGH_RESOURCE_BUTTON",
-                        "ja":  "レベルアップ",
-                        "zh":  "升级",
                         "status":  "draft",
                         "note":  ""
                     },
@@ -14933,15 +14439,6 @@
                         "key":  "UNIT_ICON_EVENT_EFFECT_POINT_UP_FORMAT",
                         "ja":  "{0}%",
                         "zh":  "{0}%",
-                        "status":  "draft",
-                        "note":  ""
-                    },
-                    {
-                        "domain":  "ui",
-                        "kind":  "message",
-                        "key":  "UNIT_LEVEL_LABEL",
-                        "ja":  "Lv",
-                        "zh":  "Lv",
                         "status":  "draft",
                         "note":  ""
                     },
