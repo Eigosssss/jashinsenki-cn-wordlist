@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "language": "zh-CN",
-  "generatedAt": "2026-09-12T19:58:20+08:00",
+  "generatedAt": "2026-09-12T19:59:34+08:00",
   "names": {
   "schemaVersion": 1,
   "language": "zh-CN",
@@ -9803,7 +9803,7 @@
                         "kind":  "text",
                         "key":  "",
                         "ja":  "衣装の布面積にシンパシーを感じますわ（にっこり）",
-                        "zh":  "对这套服装的布料面积深有共鸣呢（微笑）",
+                        "zh":  "对这套时装的布料面积深有共鸣呢（微笑）",
                         "status":  "draft",
                         "note":  ""
                     },
@@ -10217,7 +10217,7 @@
                         "kind":  "text",
                         "key":  "",
                         "ja":  "衣装デザイナーの仕事仲間。\r\nファッションの話もわりとタメになる。",
-                        "zh":  "服装设计师的工作伙伴。\n聊时尚的话题也相当有收获。",
+                        "zh":  "时装设计师的工作伙伴。\n聊时尚的话题也相当有收获。",
                         "status":  "draft",
                         "note":  ""
                     },
@@ -10244,7 +10244,7 @@
                         "kind":  "text",
                         "key":  "",
                         "ja":  "タコイケな衣装を作ってくれる。\r\n言ってるコトはよく分かんないカモ？",
-                        "zh":  "会给我做很章鱼范儿的服装。\n她说的话我可能听不太懂？",
+                        "zh":  "会给我做很章鱼范儿的时装。\n她说的话我可能听不太懂？",
                         "status":  "draft",
                         "note":  ""
                     },
@@ -11270,7 +11270,7 @@
                         "kind":  "message",
                         "key":  "COMMON_COSTUME_LABEL",
                         "ja":  "コスチューム",
-                        "zh":  "服装",
+                        "zh":  "时装",
                         "status":  "draft",
                         "note":  ""
                     },
@@ -14303,7 +14303,7 @@
                         "kind":  "message",
                         "key":  "UNIT_DETAIL_AWAKEPOTENTIAL_PARAMETER_UNLOCKED_MESSAGE",
                         "ja":  "全ての潜在能力を開放したので\n追加の潜在能力が選べるようになりました",
-                        "zh":  "由于已开放所有潜在能力，\n现在可以选择追加的潜在能力了",
+                        "zh":  "由于已解锁所有潜在能力，\n现在可以选择追加的潜在能力了",
                         "status":  "draft",
                         "note":  ""
                     },
@@ -14339,7 +14339,7 @@
                         "kind":  "message",
                         "key":  "UNIT_DETAIL_NOT_ACQUIRE_SKIN_SKILL_LABEL",
                         "ja":  "\u003cscale=0.9\u003eコス入手\nで開放\u003c/scale\u003e",
-                        "zh":  "\u003cscale=0.9\u003e获得时装\n后开放\u003c/scale\u003e",
+                        "zh":  "\u003cscale=0.9\u003e获得时装\n后解锁\u003c/scale\u003e",
                         "status":  "draft",
                         "note":  ""
                     },
@@ -14348,7 +14348,7 @@
                         "kind":  "message",
                         "key":  "UNIT_DETAIL_NOT_ACQUIRED_SKILL_LABEL",
                         "ja":  "\u003cscale=0.9\u003e潜在能力\nで開放\u003c/scale\u003e",
-                        "zh":  "\u003cscale=0.9\u003e通过潜在能力\n开放\u003c/scale\u003e",
+                        "zh":  "\u003cscale=0.9\u003e通过潜在能力\n解锁\u003c/scale\u003e",
                         "status":  "draft",
                         "note":  ""
                     },
