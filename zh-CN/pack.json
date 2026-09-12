@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "language": "zh-CN",
-  "generatedAt": "2026-09-13T00:58:17+08:00",
+  "generatedAt": "2026-09-13T02:14:04+08:00",
   "names": {
   "schemaVersion": 1,
   "language": "zh-CN",
@@ -7249,7 +7249,7 @@
   "extras": {
     "schemaVersion":  1,
     "language":  "zh-CN",
-    "generatedAt":  "2026-09-13T00:58:08+08:00",
+    "generatedAt":  "2026-09-13T02:13:59+08:00",
     "audit":  {
                   "candidates":  1037,
                   "uniqueKeys":  970,
@@ -7259,10 +7259,10 @@
                   "enablePending":  333,
                   "uiV2Added":  783,
                   "uiV3Added":  631,
-                  "addedByHand":  200,
                   "batchAdded":  188,
-                  "enabled":  11316,
-                  "pending":  0
+                  "pending":  0,
+                  "addedByHand":  20,
+                  "enabled":  11336
               },
     "entries":  [
                     {
@@ -109108,6 +109108,186 @@
                         "zh":  "关卡",
                         "status":  "draft",
                         "note":  "upd-v1"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "ui.friend.title",
+                        "ja":  "フレンド一覧",
+                        "zh":  "好友列表",
+                        "status":  "draft",
+                        "note":  "ui-v8-friend-guild"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "ui.friend.count",
+                        "ja":  "フレンド数",
+                        "zh":  "好友数",
+                        "status":  "draft",
+                        "note":  "ui-v8-friend-guild"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "ui.friend.recommend",
+                        "ja":  "おすすめユーザー",
+                        "zh":  "推荐玩家",
+                        "status":  "draft",
+                        "note":  "ui-v8-friend-guild"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "ui.friend.waiting",
+                        "ja":  "承認待ち",
+                        "zh":  "待批准",
+                        "status":  "draft",
+                        "note":  "ui-v8-friend-guild"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "ui.friend.loginAt",
+                        "ja":  "ログイン日時",
+                        "zh":  "登录时间",
+                        "status":  "draft",
+                        "note":  "ui-v8-friend-guild"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "ui.friend.login",
+                        "ja":  "ログイン",
+                        "zh":  "登录",
+                        "status":  "draft",
+                        "note":  "ui-v8-friend-guild"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "ui.guild.name",
+                        "ja":  "ギルド名",
+                        "zh":  "公会名",
+                        "status":  "draft",
+                        "note":  "ui-v8-friend-guild"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "ui.guild.leader",
+                        "ja":  "リーダー名",
+                        "zh":  "会长名",
+                        "status":  "draft",
+                        "note":  "ui-v8-friend-guild"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "ui.guild.quest",
+                        "ja":  "ギルドクエスト",
+                        "zh":  "公会任务",
+                        "status":  "draft",
+                        "note":  "ui-v8-friend-guild"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "ui.guild.shop",
+                        "ja":  "ギルドショップ",
+                        "zh":  "公会商店",
+                        "status":  "draft",
+                        "note":  "ui-v8-friend-guild"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "ui.guild.ranking",
+                        "ja":  "ギルドランキング",
+                        "zh":  "公会排行",
+                        "status":  "draft",
+                        "note":  "ui-v8-friend-guild"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "ui.guild.memberList",
+                        "ja":  "メンバーリスト",
+                        "zh":  "成员列表",
+                        "status":  "draft",
+                        "note":  "ui-v8-friend-guild"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "ui.guild.memberAction",
+                        "ja":  "メンバー操作",
+                        "zh":  "成员操作",
+                        "status":  "draft",
+                        "note":  "ui-v8-friend-guild"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "ui.guild.leave",
+                        "ja":  "脱退",
+                        "zh":  "退出公会",
+                        "status":  "draft",
+                        "note":  "ui-v8-friend-guild"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "ui.guild.manageMenu",
+                        "ja":  "管理メニュー",
+                        "zh":  "管理菜单",
+                        "status":  "draft",
+                        "note":  "ui-v8-friend-guild"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "ui.guild.notice",
+                        "ja":  "告知",
+                        "zh":  "公告",
+                        "status":  "draft",
+                        "note":  "ui-v8-friend-guild"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "ui.guild.lvLimit",
+                        "ja":  "参加プレイヤーLv制限",
+                        "zh":  "参加玩家Lv限制",
+                        "status":  "draft",
+                        "note":  "ui-v8-friend-guild"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "ui.common.noData",
+                        "ja":  "データがありません",
+                        "zh":  "暂无数据",
+                        "status":  "draft",
+                        "note":  "ui-v8-friend-guild"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "ui.common.screenTitle",
+                        "ja":  "画面タイトル",
+                        "zh":  "界面标题",
+                        "status":  "draft",
+                        "note":  "ui-v8-friend-guild"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "ui",
+                        "key":  "ui.rogue.exceedCount",
+                        "ja":  "\u003cscale=0.9\u003eエクシード成功数",
+                        "zh":  "\u003cscale=0.9\u003e超越成功次数",
+                        "status":  "draft",
+                        "note":  "ui-v8-friend-guild"
                     }
                 ]
 }
