@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "language": "zh-CN",
-  "generatedAt": "2026-09-12T19:59:34+08:00",
+  "generatedAt": "2026-09-12T20:01:01+08:00",
   "names": {
   "schemaVersion": 1,
   "language": "zh-CN",
@@ -7252,8 +7252,8 @@
     "generatedAt":  "2026-09-12T19:57:09+08:00",
     "audit":  {
                   "candidates":  871,
-                  "uniqueKeys":  815,
-                  "enabled":  482,
+                  "uniqueKeys":  822,
+                  "enabled":  489,
                   "pending":  333,
                   "missing":  0,
                   "tokenMismatch":  0,
@@ -14594,6 +14594,69 @@
                         "zh":  "通关主线任务{0}后开放",
                         "status":  "pending",
                         "note":  ""
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "hardcoded",
+                        "key":  "",
+                        "ja":  "スキル",
+                        "zh":  "技能",
+                        "status":  "draft",
+                        "note":  "硬编码 UI 标签（v1.5.0 补充）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "hardcoded",
+                        "key":  "",
+                        "ja":  "ステータス",
+                        "zh":  "状态",
+                        "status":  "draft",
+                        "note":  "硬编码 UI 标签（v1.5.0 补充）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "hardcoded",
+                        "key":  "",
+                        "ja":  "状態",
+                        "zh":  "状态",
+                        "status":  "draft",
+                        "note":  "硬编码 UI 标签（v1.5.0 补充）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "hardcoded",
+                        "key":  "",
+                        "ja":  "装備",
+                        "zh":  "装备",
+                        "status":  "draft",
+                        "note":  "硬编码 UI 标签（v1.5.0 补充）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "hardcoded",
+                        "key":  "",
+                        "ja":  "スキン",
+                        "zh":  "皮肤",
+                        "status":  "draft",
+                        "note":  "硬编码 UI 标签（v1.5.0 补充）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "hardcoded",
+                        "key":  "",
+                        "ja":  "ボイス",
+                        "zh":  "语音",
+                        "status":  "draft",
+                        "note":  "硬编码 UI 标签（v1.5.0 补充）"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "hardcoded",
+                        "key":  "",
+                        "ja":  "能力",
+                        "zh":  "能力",
+                        "status":  "draft",
+                        "note":  "硬编码 UI 标签（v1.5.0 补充）"
                     }
                 ]
 }
