@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
   "language": "zh-CN",
-  "generatedAt": "2026-09-25T14:56:55+08:00",
+  "generatedAt": "2026-09-25T15:41:18+08:00",
   "names": {
     "schemaVersion": 1,
     "language": "zh-CN",
-    "generatedAt": "2026-09-25T14:56:55+08:00",
+    "generatedAt": "2026-09-25T15:41:18+08:00",
     "entries": [
       {
         "Ja": "主人公",
@@ -4045,13 +4045,20 @@
         "Alias": "",
         "Status": "pack",
         "Note": ""
+      },
+      {
+        "Ja": "シリウス３",
+        "Zh": "天狼星３",
+        "Alias": "",
+        "Status": "pack",
+        "Note": "unit.charaName（不带括号的原名，独立于图鉴显示名）"
       }
     ]
   },
   "profiles": {
     "schemaVersion": 1,
     "language": "zh-CN",
-    "generatedAt": "2026-09-25T14:56:55+08:00",
+    "generatedAt": "2026-09-25T15:41:18+08:00",
     "entries": [
       {
         "groupId": 1,
