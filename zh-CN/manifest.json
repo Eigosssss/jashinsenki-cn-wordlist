@@ -1,15 +1,19 @@
 {
   "schemaVersion": 1,
   "language": "zh-CN",
-  "generatedAt": "2026-09-18T22:50:01+08:00",
+  "generatedAt": "2026-09-25T14:56:55+08:00",
   "packFile": "pack.json",
-  "packSha256": "95f69bb341af314bddd176e0651e3623653c8b67b8f61b9d71687f6007d293c9",
-  "counts": { "namesEntries": 572, "profilesEntries": 333, "extrasEntries": 11514 },
+  "packSha256": "58cf0413f6bdedc6402286fcff64bd6f469cd9eb546780743df8c7566fbb4166",
+  "counts": {
+    "namesEntries": 577,
+    "profilesEntries": 349,
+    "extrasEntries": 11514
+  },
+  "game": "rlyehshoujotaix_cl",
   "pluginVersion": "1.9.15",
   "pluginFile": "plugin/JashinsenkiNameTranslation.dll",
   "pluginSha256": "619c58f5342fb3e7cd09a9101bfa587e086c2d2714bf3fe805e7f880f92c4b3b",
   "patcherVersion": "1.0.0",
   "patcherFile": "patchers/JashinsenkiNameTranslation.Updater.dll",
-  "patcherSha256": "2017a17339b7a92f6c3df8ca49c6eca2f8773f3b986f208d98e0e1e605d2d70f",
-  "game": "rlyehshoujotaix_cl"
+  "patcherSha256": "2017a17339b7a92f6c3df8ca49c6eca2f8773f3b986f208d98e0e1e605d2d70f"
 }
