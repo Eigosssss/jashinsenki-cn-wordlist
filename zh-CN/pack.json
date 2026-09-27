@@ -1,18 +1,18 @@
 {
   "schemaVersion": 1,
   "language": "zh-CN",
-  "generatedAt": "2026-09-27T15:03:24+08:00",
+  "generatedAt": "2026-09-27T16:42:34+08:00",
   "names": {
     "schemaVersion": 1,
     "language": "zh-CN",
-    "generatedAt": "2026-09-27T15:03:24+08:00",
+    "generatedAt": "2026-09-27T16:42:34+08:00",
     "entries": [
       {
         "Ja": "主人公",
         "Zh": "主人公",
         "Alias": "",
-        "Status": "pack",
-        "Note": "出现 9268 次, 场景数 543"
+        "Status": "blocked",
+        "Note": "出现 9268 次, 场景数 543 / 原文不译：插件替换会破坏游戏对主角名的处理（名字栏会空白）"
       },
       {
         "Ja": "ネオン",
@@ -781,8 +781,8 @@
         "Ja": "主人公_立ち絵",
         "Zh": "主人公",
         "Alias": "",
-        "Status": "pack",
-        "Note": "出现 26 次, 场景数 9"
+        "Status": "blocked",
+        "Note": "出现 26 次, 场景数 9 / 原文不译：插件替换会破坏游戏对主角名的处理（名字栏会空白）"
       },
       {
         "Ja": "ノーティア・ゾーノ_大",
@@ -4058,7 +4058,7 @@
   "profiles": {
     "schemaVersion": 1,
     "language": "zh-CN",
-    "generatedAt": "2026-09-27T15:03:24+08:00",
+    "generatedAt": "2026-09-27T16:42:34+08:00",
     "entries": [
       {
         "groupId": 1,
