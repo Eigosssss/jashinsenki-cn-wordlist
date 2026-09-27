@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
   "language": "zh-CN",
-  "generatedAt": "2026-09-25T15:41:18+08:00",
+  "generatedAt": "2026-09-27T14:44:49+08:00",
   "names": {
     "schemaVersion": 1,
     "language": "zh-CN",
-    "generatedAt": "2026-09-25T15:41:18+08:00",
+    "generatedAt": "2026-09-27T14:44:49+08:00",
     "entries": [
       {
         "Ja": "主人公",
@@ -4058,7 +4058,7 @@
   "profiles": {
     "schemaVersion": 1,
     "language": "zh-CN",
-    "generatedAt": "2026-09-25T15:41:18+08:00",
+    "generatedAt": "2026-09-27T14:44:49+08:00",
     "entries": [
       {
         "groupId": 1,
@@ -7573,7 +7573,7 @@
       "uiV3Added": 631,
       "addedByHand": 20,
       "batchAdded": 178,
-      "enabled": 11514,
+      "enabled": 11548,
       "pending": 0
     },
     "entries": [
@@ -111202,6 +111202,312 @@
         "zh": "赛博触手",
         "status": "draft",
         "note": "upd-20260918"
+      },
+      {
+        "domain": "connection",
+        "kind": "type",
+        "key": "",
+        "ja": "宇宙",
+        "zh": "宇宙",
+        "status": "draft",
+        "note": "2026-09-25 更新新增"
+      },
+      {
+        "domain": "connection",
+        "kind": "type",
+        "key": "",
+        "ja": "追跡者",
+        "zh": "追踪者",
+        "status": "draft",
+        "note": "2026-09-25 更新新增"
+      },
+      {
+        "domain": "connection",
+        "kind": "type",
+        "key": "",
+        "ja": "友好",
+        "zh": "友好",
+        "status": "draft",
+        "note": "2026-09-25 更新新增"
+      },
+      {
+        "domain": "connection",
+        "kind": "type",
+        "key": "",
+        "ja": "信仰",
+        "zh": "信仰",
+        "status": "draft",
+        "note": "2026-09-25 更新新增"
+      },
+      {
+        "domain": "connection",
+        "kind": "type",
+        "key": "",
+        "ja": "罪人",
+        "zh": "罪人",
+        "status": "draft",
+        "note": "2026-09-25 更新新增"
+      },
+      {
+        "domain": "connection",
+        "kind": "type",
+        "key": "",
+        "ja": "助言",
+        "zh": "建言",
+        "status": "draft",
+        "note": "2026-09-25 更新新增"
+      },
+      {
+        "domain": "connection",
+        "kind": "type",
+        "key": "",
+        "ja": "敬遠",
+        "zh": "敬而远之",
+        "status": "draft",
+        "note": "2026-09-25 更新新增"
+      },
+      {
+        "domain": "connection",
+        "kind": "type",
+        "key": "",
+        "ja": "端末",
+        "zh": "终端",
+        "status": "draft",
+        "note": "2026-09-25 更新新增"
+      },
+      {
+        "domain": "connection",
+        "kind": "text",
+        "key": "",
+        "ja": "書類仕事を引き取ってくれることがあって……\r\n頼りにしていますが、申し訳ないですね。",
+        "zh": "有时候会替我接下文书工作……\n虽然很依赖你，但也实在过意不去呢。",
+        "status": "draft",
+        "note": "2026-09-25 更新新增"
+      },
+      {
+        "domain": "connection",
+        "kind": "text",
+        "key": "",
+        "ja": "信仰の形は多々あれど、\r\n純粋な祈りに勝るものはない。",
+        "zh": "信仰的形式多种多样，\n但没有胜过纯粹祈祷之物。",
+        "status": "draft",
+        "note": "2026-09-25 更新新增"
+      },
+      {
+        "domain": "connection",
+        "kind": "text",
+        "key": "",
+        "ja": "全にして一。\r\n一にして全。",
+        "zh": "全即是一。\n一即是全。",
+        "status": "draft",
+        "note": "2026-09-25 更新新增"
+      },
+      {
+        "domain": "connection",
+        "kind": "text",
+        "key": "",
+        "ja": "？？？",
+        "zh": "？？？",
+        "status": "draft",
+        "note": "2026-09-25 更新新增"
+      },
+      {
+        "domain": "connection",
+        "kind": "text",
+        "key": "",
+        "ja": "時空侵犯を罪として追いかけてくる猟犬。\r\nアフォーゴモンに咎を与えられた上に、\r\nさらに罪を問われて辟易している。",
+        "zh": "把时空侵犯视为罪孽、一路追来的猎犬。\n明明已被阿佛戈蒙问过罪，\n却还要再被追究罪责，实在令人厌烦。",
+        "status": "draft",
+        "note": "2026-09-25 更新新增"
+      },
+      {
+        "domain": "connection",
+        "kind": "text",
+        "key": "",
+        "ja": "あなたの首輪が羨ましいわ。",
+        "zh": "真羡慕你的项圈啊。",
+        "status": "draft",
+        "note": "2026-09-25 更新新增"
+      },
+      {
+        "domain": "connection",
+        "kind": "text",
+        "key": "",
+        "ja": "綺麗な虹色の少女。\r\nどこか懐かしい匂いがする。",
+        "zh": "美丽的虹色少女。\n总觉得有股令人怀念的气味。",
+        "status": "draft",
+        "note": "2026-09-25 更新新增"
+      },
+      {
+        "domain": "connection",
+        "kind": "text",
+        "key": "",
+        "ja": "宇宙より来たりし『旧支配者』。\r\n主観を排して観測する。理解する。\r\nそれが理の外にあるのだとしても。",
+        "zh": "自宇宙而来的『旧支配者』。\n排除主观去观测。去理解。\n即便那东西位于理之外。",
+        "status": "draft",
+        "note": "2026-09-25 更新新增"
+      },
+      {
+        "domain": "connection",
+        "kind": "text",
+        "key": "",
+        "ja": "わたしの生きる意味そのもの。\r\nクトゥルフ様へ尽くすことが、\r\n私にできるみんなとの繋がり。",
+        "zh": "那就是我活着的意义本身。\n侍奉克苏鲁大人，\n便是我能与大家相连的方式。",
+        "status": "draft",
+        "note": "2026-09-25 更新新增"
+      },
+      {
+        "domain": "connection",
+        "kind": "text",
+        "key": "",
+        "ja": "クトゥルフ様のお言葉を聞くことができる大いなるお方。\r\n神官として巫女に仕えることもまた幸福です。",
+        "zh": "能聆听克苏鲁大人话语的伟大存在。\n身为神官侍奉巫女，同样是一种幸福。",
+        "status": "draft",
+        "note": "2026-09-25 更新新增"
+      },
+      {
+        "domain": "connection",
+        "kind": "text",
+        "key": "",
+        "ja": "曲がった時間の宇宙の管理者。\r\n侵略にはどうしても干渉してくる面倒なヤツ。",
+        "zh": "曲角时间宇宙的管理者。\n侵略时无论如何都会来碍事，麻烦的家伙。",
+        "status": "draft",
+        "note": "2026-09-25 更新新增"
+      },
+      {
+        "domain": "connection",
+        "kind": "text",
+        "key": "",
+        "ja": "沁みついた匂いが多くて鼻が曲がる……！\r\nなんだ、コイツは？",
+        "zh": "满身都是挥不掉的气味，鼻子都要歪了……！\n这、这家伙是什么东西？",
+        "status": "draft",
+        "note": "2026-09-25 更新新增"
+      },
+      {
+        "domain": "connection",
+        "kind": "text",
+        "key": "",
+        "ja": "未来と呼べる時空からやってきた罪人。\r\n息をするように時間に干渉する術を使う、\r\n面倒なヤツ。狩り甲斐がある。",
+        "zh": "来自可称为未来的时空的罪人。\n像呼吸一样使用干涉时间的术法，\n麻烦的家伙。猎起来有价值。",
+        "status": "draft",
+        "note": "2026-09-25 更新新增"
+      },
+      {
+        "domain": "connection",
+        "kind": "text",
+        "key": "",
+        "ja": "あたしらと似た匂いがする……？\r\nこっちの宇宙のモンじゃねーのか？",
+        "zh": "闻起来跟我们很像……？\n这家伙不是这个宇宙的东西吧？",
+        "status": "draft",
+        "note": "2026-09-25 更新新增"
+      },
+      {
+        "domain": "connection",
+        "kind": "text",
+        "key": "",
+        "ja": "こちらの私がお世話になっているらしい。\r\nあまり迷惑をかけていないことを願う。",
+        "zh": "这边的我似乎承蒙她照顾。\n但愿我没给她添太多麻烦。",
+        "status": "draft",
+        "note": "2026-09-25 更新新增"
+      },
+      {
+        "domain": "connection",
+        "kind": "text",
+        "key": "",
+        "ja": "こちらの私と仲がいい様子。\r\n友達は大事ですよ。",
+        "zh": "跟这边的我关系似乎很好。\n朋友是很重要的哦。",
+        "status": "draft",
+        "note": "2026-09-25 更新新增"
+      },
+      {
+        "domain": "connection",
+        "kind": "text",
+        "key": "",
+        "ja": "何か訳ありなようですね。\r\nいつか変われると信じましょう。",
+        "zh": "看来是有什么隐情呢。\n就相信有朝一日能够改变吧。",
+        "status": "draft",
+        "note": "2026-09-25 更新新增"
+      },
+      {
+        "domain": "connection",
+        "kind": "text",
+        "key": "",
+        "ja": "信仰心の深さに感服いたします。\r\nハスター様へのお気持ちはきっと届いていますよ。",
+        "zh": "这份信仰之深令人敬佩。\n您对哈斯塔大人的心意，一定已经传达到了。",
+        "status": "draft",
+        "note": "2026-09-25 更新新增"
+      },
+      {
+        "domain": "connection",
+        "kind": "text",
+        "key": "",
+        "ja": "お家が燃えてしまわれたと聞きました。\r\nハスター様へ祈りを捧げれば、\r\nきっと再建も滞りなく進むでしょう。",
+        "zh": "听说您的家被烧毁了。\n只要向哈斯塔大人献上祈祷，\n重建也一定会顺利进行。",
+        "status": "draft",
+        "note": "2026-09-25 更新新增"
+      },
+      {
+        "domain": "connection",
+        "kind": "text",
+        "key": "",
+        "ja": "魔術師団の仲間。\r\nなんだかんだ優しいっスよね～♪",
+        "zh": "魔术师团的同伴。\n不管怎么说都挺温柔的嘛～♪",
+        "status": "draft",
+        "note": "2026-09-25 更新新增"
+      },
+      {
+        "domain": "connection",
+        "kind": "text",
+        "key": "",
+        "ja": "頼れるけど、頼れすぎっていうか……。 \r\nうちは今のトレイラの方が好きっスね～。 \r\nチョロ――面白いし！",
+        "zh": "虽然靠得住，但靠得住得有点过了……。\n我还是更喜欢现在的特蕾拉呢～。\n傻乎乎——反正挺有趣的！",
+        "status": "draft",
+        "note": "2026-09-25 更新新增"
+      },
+      {
+        "domain": "connection",
+        "kind": "text",
+        "key": "",
+        "ja": "魔術師団の一員。\r\n自由に空を飛べる、その強さが羨ましい。",
+        "zh": "魔术师团的一员。\n能自由自在地翱翔天际，那份强大真让人羡慕。",
+        "status": "draft",
+        "note": "2026-09-25 更新新增"
+      },
+      {
+        "domain": "connection",
+        "kind": "text",
+        "key": "",
+        "ja": "敬虔なシスター様。\r\n相対したとき、もっとも緊張する相手のひとり。",
+        "zh": "虔诚的修女大人。\n当面相对时，是最让人紧张的对象之一。",
+        "status": "draft",
+        "note": "2026-09-25 更新新增"
+      },
+      {
+        "domain": "connection",
+        "kind": "text",
+        "key": "",
+        "ja": "「カルコサの最高神。\r\nその御言葉、思し召しは絶対のもの。」",
+        "zh": "“卡尔克萨的最高神。\n其话语与心意皆为绝对。”",
+        "status": "draft",
+        "note": "2026-09-25 更新新增"
+      },
+      {
+        "domain": "connection",
+        "kind": "text",
+        "key": "",
+        "ja": "銀の鍵、そして鍵の門を預けている。\r\nそこにヨグ＝ソトースの意思が有るのか否かは、\r\n宇宙上の誰にも分らない。",
+        "zh": "银之钥匙，以及钥匙之门，皆寄放于此处。\n其中是否含有犹格＝索托斯的意志，\n宇宙之上无人知晓。",
+        "status": "draft",
+        "note": "2026-09-25 更新新增"
+      },
+      {
+        "domain": "connection",
+        "kind": "text",
+        "key": "",
+        "ja": "宇宙の容に干渉しようとするのであれば、\r\nかの者が宇宙から放り出されるその時まで、\r\n虹の邪神は決して容赦をしないであろう。",
+        "zh": "若有谁试图干涉宇宙之容，\n那么直到那存在被逐出宇宙之时，\n虹之邪神都绝不会手下留情。",
+        "status": "draft",
+        "note": "2026-09-25 更新新增"
       }
     ]
   }
