@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
   "language": "zh-CN",
-  "generatedAt": "2026-09-27T17:33:24+08:00",
+  "generatedAt": "2026-09-27T17:40:22+08:00",
   "packFile": "pack.json",
-  "packSha256": "3957ae2b177d9489ecee1e7cd16195a957315c54ecdbb110d5de45c7b530fbc2",
+  "packSha256": "e1f38fa0823dedfbffedbdc667411842fac6fdcadb7929dece88525b15ee315e",
   "counts": {
-    "namesEntries": 593,
+    "namesEntries": 680,
     "profilesEntries": 349,
     "extrasEntries": 11812
   },

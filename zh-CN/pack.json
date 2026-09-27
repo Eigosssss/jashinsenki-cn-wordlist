@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
   "language": "zh-CN",
-  "generatedAt": "2026-09-27T17:33:24+08:00",
+  "generatedAt": "2026-09-27T17:40:22+08:00",
   "names": {
     "schemaVersion": 1,
     "language": "zh-CN",
-    "generatedAt": "2026-09-27T17:33:24+08:00",
+    "generatedAt": "2026-09-27T17:40:22+08:00",
     "entries": [
       {
         "Ja": "主人公",
@@ -4157,13 +4157,622 @@
         "Alias": "",
         "Status": "pack",
         "Note": "邪神相关名字（图鉴/降临Boss），术语与档案译文一致"
+      },
+      {
+        "Ja": "黄衣の王 ハスター",
+        "Zh": "黄衣之王 哈斯塔",
+        "Alias": "",
+        "Status": "pack",
+        "Note": "Boss/敌人名（bom、enemy 表），术语与档案译文一致"
+      },
+      {
+        "Ja": "生ける炎 クトゥグア",
+        "Zh": "生炎 克图格亚",
+        "Alias": "",
+        "Status": "pack",
+        "Note": "Boss/敌人名（bom、enemy 表），术语与档案译文一致"
+      },
+      {
+        "Ja": "天球",
+        "Zh": "天球",
+        "Alias": "",
+        "Status": "pack",
+        "Note": "Boss/敌人名（bom、enemy 表），术语与档案译文一致"
+      },
+      {
+        "Ja": "尖兵",
+        "Zh": "尖兵",
+        "Alias": "",
+        "Status": "pack",
+        "Note": "Boss/敌人名（bom、enemy 表），术语与档案译文一致"
+      },
+      {
+        "Ja": "疾駆兵",
+        "Zh": "疾驱兵",
+        "Alias": "",
+        "Status": "pack",
+        "Note": "Boss/敌人名（bom、enemy 表），术语与档案译文一致"
+      },
+      {
+        "Ja": "防御兵",
+        "Zh": "防御兵",
+        "Alias": "",
+        "Status": "pack",
+        "Note": "Boss/敌人名（bom、enemy 表），术语与档案译文一致"
+      },
+      {
+        "Ja": "砲撃兵",
+        "Zh": "炮击兵",
+        "Alias": "",
+        "Status": "pack",
+        "Note": "Boss/敌人名（bom、enemy 表），术语与档案译文一致"
+      },
+      {
+        "Ja": "法術兵",
+        "Zh": "法术兵",
+        "Alias": "",
+        "Status": "pack",
+        "Note": "Boss/敌人名（bom、enemy 表），术语与档案译文一致"
+      },
+      {
+        "Ja": "霊操兵",
+        "Zh": "灵操兵",
+        "Alias": "",
+        "Status": "pack",
+        "Note": "Boss/敌人名（bom、enemy 表），术语与档案译文一致"
+      },
+      {
+        "Ja": "大斧兵",
+        "Zh": "大斧兵",
+        "Alias": "",
+        "Status": "pack",
+        "Note": "Boss/敌人名（bom、enemy 表），术语与档案译文一致"
+      },
+      {
+        "Ja": "狂乱兵",
+        "Zh": "狂乱兵",
+        "Alias": "",
+        "Status": "pack",
+        "Note": "Boss/敌人名（bom、enemy 表），术语与档案译文一致"
+      },
+      {
+        "Ja": "巨盾兵",
+        "Zh": "巨盾兵",
+        "Alias": "",
+        "Status": "pack",
+        "Note": "Boss/敌人名（bom、enemy 表），术语与档案译文一致"
+      },
+      {
+        "Ja": "魔昌兵",
+        "Zh": "魔昌兵",
+        "Alias": "",
+        "Status": "pack",
+        "Note": "Boss/敌人名（bom、enemy 表），术语与档案译文一致"
+      },
+      {
+        "Ja": "弓兵",
+        "Zh": "弓兵",
+        "Alias": "",
+        "Status": "pack",
+        "Note": "Boss/敌人名（bom、enemy 表），术语与档案译文一致"
+      },
+      {
+        "Ja": "剣兵",
+        "Zh": "剑兵",
+        "Alias": "",
+        "Status": "pack",
+        "Note": "Boss/敌人名（bom、enemy 表），术语与档案译文一致"
+      },
+      {
+        "Ja": "鈍器兵",
+        "Zh": "钝器兵",
+        "Alias": "",
+        "Status": "pack",
+        "Note": "Boss/敌人名（bom、enemy 表），术语与档案译文一致"
+      },
+      {
+        "Ja": "獣兵",
+        "Zh": "兽兵",
+        "Alias": "",
+        "Status": "pack",
+        "Note": "Boss/敌人名（bom、enemy 表），术语与档案译文一致"
+      },
+      {
+        "Ja": "輪兵",
+        "Zh": "轮兵",
+        "Alias": "",
+        "Status": "pack",
+        "Note": "Boss/敌人名（bom、enemy 表），术语与档案译文一致"
+      },
+      {
+        "Ja": "飛翔兵",
+        "Zh": "飞翔兵",
+        "Alias": "",
+        "Status": "pack",
+        "Note": "Boss/敌人名（bom、enemy 表），术语与档案译文一致"
+      },
+      {
+        "Ja": "祈祷兵",
+        "Zh": "祈祷兵",
+        "Alias": "",
+        "Status": "pack",
+        "Note": "Boss/敌人名（bom、enemy 表），术语与档案译文一致"
+      },
+      {
+        "Ja": "魔奏兵",
+        "Zh": "魔奏兵",
+        "Alias": "",
+        "Status": "pack",
+        "Note": "Boss/敌人名（bom、enemy 表），术语与档案译文一致"
+      },
+      {
+        "Ja": "魔盾兵",
+        "Zh": "魔盾兵",
+        "Alias": "",
+        "Status": "pack",
+        "Note": "Boss/敌人名（bom、enemy 表），术语与档案译文一致"
+      },
+      {
+        "Ja": "魔導兵",
+        "Zh": "魔导兵",
+        "Alias": "",
+        "Status": "pack",
+        "Note": "Boss/敌人名（bom、enemy 表），术语与档案译文一致"
+      },
+      {
+        "Ja": "斧兵",
+        "Zh": "斧兵",
+        "Alias": "",
+        "Status": "pack",
+        "Note": "Boss/敌人名（bom、enemy 表），术语与档案译文一致"
+      },
+      {
+        "Ja": "無のテンシ",
+        "Zh": "无之天使",
+        "Alias": "",
+        "Status": "pack",
+        "Note": "Boss/敌人名（bom、enemy 表），术语与档案译文一致"
+      },
+      {
+        "Ja": "[サマー]天球",
+        "Zh": "[夏日]天球",
+        "Alias": "",
+        "Status": "pack",
+        "Note": "Boss/敌人名（bom、enemy 表），术语与档案译文一致"
+      },
+      {
+        "Ja": "[サマー]尖兵",
+        "Zh": "[夏日]尖兵",
+        "Alias": "",
+        "Status": "pack",
+        "Note": "Boss/敌人名（bom、enemy 表），术语与档案译文一致"
+      },
+      {
+        "Ja": "[サマー]疾駆兵",
+        "Zh": "[夏日]疾驱兵",
+        "Alias": "",
+        "Status": "pack",
+        "Note": "Boss/敌人名（bom、enemy 表），术语与档案译文一致"
+      },
+      {
+        "Ja": "[サマー]防御兵",
+        "Zh": "[夏日]防御兵",
+        "Alias": "",
+        "Status": "pack",
+        "Note": "Boss/敌人名（bom、enemy 表），术语与档案译文一致"
+      },
+      {
+        "Ja": "[サマー]砲撃兵",
+        "Zh": "[夏日]炮击兵",
+        "Alias": "",
+        "Status": "pack",
+        "Note": "Boss/敌人名（bom、enemy 表），术语与档案译文一致"
+      },
+      {
+        "Ja": "[サマー]カマエル",
+        "Zh": "[夏日]卡麦尔",
+        "Alias": "",
+        "Status": "pack",
+        "Note": "Boss/敌人名（bom、enemy 表），术语与档案译文一致"
+      },
+      {
+        "Ja": "[触手]桃形兜",
+        "Zh": "[触手]桃形头盔",
+        "Alias": "",
+        "Status": "pack",
+        "Note": "Boss/敌人名（bom、enemy 表），术语与档案译文一致"
+      },
+      {
+        "Ja": "[触手]古桃形兜",
+        "Zh": "[触手]古桃形头盔",
+        "Alias": "",
+        "Status": "pack",
+        "Note": "Boss/敌人名（bom、enemy 表），术语与档案译文一致"
+      },
+      {
+        "Ja": "[触手]突撃式トッパイ形兜",
+        "Zh": "[触手]突击式突杯形头盔",
+        "Alias": "",
+        "Status": "pack",
+        "Note": "Boss/敌人名（bom、enemy 表），术语与档案译文一致"
+      },
+      {
+        "Ja": "[触手]騎馬桃形兜",
+        "Zh": "[触手]骑马桃形头盔",
+        "Alias": "",
+        "Status": "pack",
+        "Note": "Boss/敌人名（bom、enemy 表），术语与档案译文一致"
+      },
+      {
+        "Ja": "[触手]天衝前立形兜",
+        "Zh": "[触手]天冲前立形头盔",
+        "Alias": "",
+        "Status": "pack",
+        "Note": "Boss/敌人名（bom、enemy 表），术语与档案译文一致"
+      },
+      {
+        "Ja": "[触手]椎形革張形兜",
+        "Zh": "[触手]椎形皮张形头盔",
+        "Alias": "",
+        "Status": "pack",
+        "Note": "Boss/敌人名（bom、enemy 表），术语与档案译文一致"
+      },
+      {
+        "Ja": "[触手]徳川家康",
+        "Zh": "[触手]德川家康",
+        "Alias": "",
+        "Status": "pack",
+        "Note": "Boss/敌人名（bom、enemy 表），术语与档案译文一致"
+      },
+      {
+        "Ja": "[触手]織田信長",
+        "Zh": "[触手]织田信长",
+        "Alias": "",
+        "Status": "pack",
+        "Note": "Boss/敌人名（bom、enemy 表），术语与档案译文一致"
+      },
+      {
+        "Ja": "桃形兜",
+        "Zh": "桃形头盔",
+        "Alias": "",
+        "Status": "pack",
+        "Note": "Boss/敌人名（bom、enemy 表），术语与档案译文一致"
+      },
+      {
+        "Ja": "突撃式トッパイ形兜",
+        "Zh": "突击式突杯形头盔",
+        "Alias": "",
+        "Status": "pack",
+        "Note": "Boss/敌人名（bom、enemy 表），术语与档案译文一致"
+      },
+      {
+        "Ja": "ガーディアン",
+        "Zh": "守卫者",
+        "Alias": "",
+        "Status": "pack",
+        "Note": "Boss/敌人名（bom、enemy 表），术语与档案译文一致"
+      },
+      {
+        "Ja": "ライダー",
+        "Zh": "骑手",
+        "Alias": "",
+        "Status": "pack",
+        "Note": "Boss/敌人名（bom、enemy 表），术语与档案译文一致"
+      },
+      {
+        "Ja": "ダークメイジ",
+        "Zh": "黑暗法师",
+        "Alias": "",
+        "Status": "pack",
+        "Note": "Boss/敌人名（bom、enemy 表），术语与档案译文一致"
+      },
+      {
+        "Ja": "深きもの",
+        "Zh": "深潜者",
+        "Alias": "",
+        "Status": "pack",
+        "Note": "Boss/敌人名（bom、enemy 表），术语与档案译文一致"
+      },
+      {
+        "Ja": "黄衣のグール",
+        "Zh": "黄衣食尸鬼",
+        "Alias": "",
+        "Status": "pack",
+        "Note": "Boss/敌人名（bom、enemy 表），术语与档案译文一致"
+      },
+      {
+        "Ja": "イタカ",
+        "Zh": "伊塔卡",
+        "Alias": "",
+        "Status": "pack",
+        "Note": "Boss/敌人名（bom、enemy 表），术语与档案译文一致"
+      },
+      {
+        "Ja": "火の精",
+        "Zh": "火之精灵",
+        "Alias": "",
+        "Status": "pack",
+        "Note": "Boss/敌人名（bom、enemy 表），术语与档案译文一致"
+      },
+      {
+        "Ja": "フサッグァ",
+        "Zh": "弗萨瓜",
+        "Alias": "",
+        "Status": "pack",
+        "Note": "Boss/敌人名（bom、enemy 表），术语与档案译文一致"
+      },
+      {
+        "Ja": "シャンタク鳥",
+        "Zh": "夏塔克鸟",
+        "Alias": "",
+        "Status": "pack",
+        "Note": "Boss/敌人名（bom、enemy 表），术语与档案译文一致"
+      },
+      {
+        "Ja": "シュゴーラン",
+        "Zh": "修戈兰",
+        "Alias": "",
+        "Status": "pack",
+        "Note": "Boss/敌人名（bom、enemy 表），术语与档案译文一致"
+      },
+      {
+        "Ja": "ムーン＝ビースト",
+        "Zh": "月之兽",
+        "Alias": "",
+        "Status": "pack",
+        "Note": "Boss/敌人名（bom、enemy 表），术语与档案译文一致"
+      },
+      {
+        "Ja": "アルスカリ",
+        "Zh": "阿尔斯卡里",
+        "Alias": "",
+        "Status": "pack",
+        "Note": "Boss/敌人名（bom、enemy 表），术语与档案译文一致"
+      },
+      {
+        "Ja": "イブ＝ツトゥル",
+        "Zh": "伊布＝兹图尔",
+        "Alias": "",
+        "Status": "pack",
+        "Note": "Boss/敌人名（bom、enemy 表），术语与档案译文一致"
+      },
+      {
+        "Ja": "炎の吸血鬼",
+        "Zh": "炎之吸血鬼",
+        "Alias": "",
+        "Status": "pack",
+        "Note": "Boss/敌人名（bom、enemy 表），术语与档案译文一致"
+      },
+      {
+        "Ja": "バグ＝シャース",
+        "Zh": "巴格＝夏斯",
+        "Alias": "",
+        "Status": "pack",
+        "Note": "Boss/敌人名（bom、enemy 表），术语与档案译文一致"
+      },
+      {
+        "Ja": "朧気なるナグ",
+        "Zh": "朦胧的纳格",
+        "Alias": "",
+        "Status": "pack",
+        "Note": "Boss/敌人名（bom、enemy 表），术语与档案译文一致"
+      },
+      {
+        "Ja": "蠢く霧のイェブ",
+        "Zh": "蠕动的雾之耶布",
+        "Alias": "",
+        "Status": "pack",
+        "Note": "Boss/敌人名（bom、enemy 表），术语与档案译文一致"
+      },
+      {
+        "Ja": "ビアーキー",
+        "Zh": "比亚奇",
+        "Alias": "",
+        "Status": "pack",
+        "Note": "Boss/敌人名（bom、enemy 表），术语与档案译文一致"
+      },
+      {
+        "Ja": "ショゴス",
+        "Zh": "修格斯",
+        "Alias": "",
+        "Status": "pack",
+        "Note": "Boss/敌人名（bom、enemy 表），术语与档案译文一致"
+      },
+      {
+        "Ja": "クリスタライザーの守護者",
+        "Zh": "结晶者的守护者",
+        "Alias": "",
+        "Status": "pack",
+        "Note": "Boss/敌人名（bom、enemy 表），术语与档案译文一致"
+      },
+      {
+        "Ja": "プシュキア",
+        "Zh": "普修基亚",
+        "Alias": "",
+        "Status": "pack",
+        "Note": "Boss/敌人名（bom、enemy 表），术语与档案译文一致"
+      },
+      {
+        "Ja": "ザドキエル",
+        "Zh": "扎德基尔",
+        "Alias": "",
+        "Status": "pack",
+        "Note": "Boss/敌人名（bom、enemy 表），术语与档案译文一致"
+      },
+      {
+        "Ja": "スイエル",
+        "Zh": "斯伊尔",
+        "Alias": "",
+        "Status": "pack",
+        "Note": "Boss/敌人名（bom、enemy 表），术语与档案译文一致"
+      },
+      {
+        "Ja": "ジェレミエル",
+        "Zh": "杰雷米尔",
+        "Alias": "",
+        "Status": "pack",
+        "Note": "Boss/敌人名（bom、enemy 表），术语与档案译文一致"
+      },
+      {
+        "Ja": "アプディエル",
+        "Zh": "阿普迪尔",
+        "Alias": "",
+        "Status": "pack",
+        "Note": "Boss/敌人名（bom、enemy 表），术语与档案译文一致"
+      },
+      {
+        "Ja": "カシエル",
+        "Zh": "卡西尔",
+        "Alias": "",
+        "Status": "pack",
+        "Note": "Boss/敌人名（bom、enemy 表），术语与档案译文一致"
+      },
+      {
+        "Ja": "レリエル",
+        "Zh": "雷利尔",
+        "Alias": "",
+        "Status": "pack",
+        "Note": "Boss/敌人名（bom、enemy 表），术语与档案译文一致"
+      },
+      {
+        "Ja": "パラディオン",
+        "Zh": "帕拉迪翁",
+        "Alias": "",
+        "Status": "pack",
+        "Note": "Boss/敌人名（bom、enemy 表），术语与档案译文一致"
+      },
+      {
+        "Ja": "シャティエル",
+        "Zh": "夏蒂尔",
+        "Alias": "",
+        "Status": "pack",
+        "Note": "Boss/敌人名（bom、enemy 表），术语与档案译文一致"
+      },
+      {
+        "Ja": "ザフィエル",
+        "Zh": "扎菲尔",
+        "Alias": "",
+        "Status": "pack",
+        "Note": "Boss/敌人名（bom、enemy 表），术语与档案译文一致"
+      },
+      {
+        "Ja": "メティス",
+        "Zh": "梅蒂斯",
+        "Alias": "",
+        "Status": "pack",
+        "Note": "Boss/敌人名（bom、enemy 表），术语与档案译文一致"
+      },
+      {
+        "Ja": "テミス",
+        "Zh": "特弥斯",
+        "Alias": "",
+        "Status": "pack",
+        "Note": "Boss/敌人名（bom、enemy 表），术语与档案译文一致"
+      },
+      {
+        "Ja": "ヘラ",
+        "Zh": "赫拉",
+        "Alias": "",
+        "Status": "pack",
+        "Note": "Boss/敌人名（bom、enemy 表），术语与档案译文一致"
+      },
+      {
+        "Ja": "ラファエル",
+        "Zh": "拉斐尔",
+        "Alias": "",
+        "Status": "pack",
+        "Note": "Boss/敌人名（bom、enemy 表），术语与档案译文一致"
+      },
+      {
+        "Ja": "カマエル（幻夢）",
+        "Zh": "卡麦尔（幻梦）",
+        "Alias": "",
+        "Status": "pack",
+        "Note": "Boss/敌人名（bom、enemy 表），术语与档案译文一致"
+      },
+      {
+        "Ja": "ザドキエル（幻夢）",
+        "Zh": "扎德基尔（幻梦）",
+        "Alias": "",
+        "Status": "pack",
+        "Note": "Boss/敌人名（bom、enemy 表），术语与档案译文一致"
+      },
+      {
+        "Ja": "スイエル（幻夢）",
+        "Zh": "斯伊尔（幻梦）",
+        "Alias": "",
+        "Status": "pack",
+        "Note": "Boss/敌人名（bom、enemy 表），术语与档案译文一致"
+      },
+      {
+        "Ja": "レリエル（幻梦）",
+        "Zh": "雷利尔（幻梦）",
+        "Alias": "",
+        "Status": "pack",
+        "Note": "Boss/敌人名（bom、enemy 表），术语与档案译文一致"
+      },
+      {
+        "Ja": "ジェレミエル（幻夢）",
+        "Zh": "杰雷米尔（幻梦）",
+        "Alias": "",
+        "Status": "pack",
+        "Note": "Boss/敌人名（bom、enemy 表），术语与档案译文一致"
+      },
+      {
+        "Ja": "カシエル（幻夢）",
+        "Zh": "卡西尔（幻梦）",
+        "Alias": "",
+        "Status": "pack",
+        "Note": "Boss/敌人名（bom、enemy 表），术语与档案译文一致"
+      },
+      {
+        "Ja": "シャティエル（幻夢）",
+        "Zh": "夏蒂尔（幻梦）",
+        "Alias": "",
+        "Status": "pack",
+        "Note": "Boss/敌人名（bom、enemy 表），术语与档案译文一致"
+      },
+      {
+        "Ja": "ザフィエル（幻夢）",
+        "Zh": "扎菲尔（幻梦）",
+        "Alias": "",
+        "Status": "pack",
+        "Note": "Boss/敌人名（bom、enemy 表），术语与档案译文一致"
+      },
+      {
+        "Ja": "知略の女神 アテナ",
+        "Zh": "智略女神 雅典娜",
+        "Alias": "",
+        "Status": "pack",
+        "Note": "Boss/敌人名（bom、enemy 表），术语与档案译文一致"
+      },
+      {
+        "Ja": "光柱の神 ヒュプノス",
+        "Zh": "光柱之神 许普诺斯",
+        "Alias": "",
+        "Status": "pack",
+        "Note": "Boss/敌人名（bom、enemy 表），术语与档案译文一致"
+      },
+      {
+        "Ja": "深淵の海神 ノーデンス",
+        "Zh": "深渊海神 诺登斯",
+        "Alias": "",
+        "Status": "pack",
+        "Note": "Boss/敌人名（bom、enemy 表），术语与档案译文一致"
+      },
+      {
+        "Ja": "全能の神 ゼウス",
+        "Zh": "全能之神 宙斯",
+        "Alias": "",
+        "Status": "pack",
+        "Note": "Boss/敌人名（bom、enemy 表），术语与档案译文一致"
       }
     ]
   },
   "profiles": {
     "schemaVersion": 1,
     "language": "zh-CN",
-    "generatedAt": "2026-09-27T17:33:24+08:00",
+    "generatedAt": "2026-09-27T17:40:22+08:00",
     "entries": [
       {
         "groupId": 1,
