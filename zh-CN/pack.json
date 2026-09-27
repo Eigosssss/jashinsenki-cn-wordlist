@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
   "language": "zh-CN",
-  "generatedAt": "2026-09-27T14:58:03+08:00",
+  "generatedAt": "2026-09-27T15:03:24+08:00",
   "names": {
     "schemaVersion": 1,
     "language": "zh-CN",
-    "generatedAt": "2026-09-27T14:58:03+08:00",
+    "generatedAt": "2026-09-27T15:03:24+08:00",
     "entries": [
       {
         "Ja": "主人公",
@@ -4052,20 +4052,13 @@
         "Alias": "",
         "Status": "pack",
         "Note": "unit.charaName（不带括号的原名，独立于图鉴显示名）"
-      },
-      {
-        "Ja": "名前表示",
-        "Zh": "主人公",
-        "Alias": "",
-        "Status": "pack",
-        "Note": "游戏剧情说话人名栏的占位标签（主角）；映射为主人公"
       }
     ]
   },
   "profiles": {
     "schemaVersion": 1,
     "language": "zh-CN",
-    "generatedAt": "2026-09-27T14:58:03+08:00",
+    "generatedAt": "2026-09-27T15:03:24+08:00",
     "entries": [
       {
         "groupId": 1,
