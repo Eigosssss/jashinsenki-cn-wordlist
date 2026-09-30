@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "language": "zh-CN",
-  "generatedAt": "2026-09-30T10:11:50+08:00",
+  "generatedAt": "2026-09-30T10:18:01+08:00",
   "names": {
     "schemaVersion":  1,
     "language":  "zh-CN",
@@ -8275,7 +8275,7 @@
   "extras": {
     "schemaVersion":  1,
     "language":  "zh-CN",
-    "generatedAt":  "2026-09-30T10:11:36+08:00",
+    "generatedAt":  "2026-09-30T10:16:59+08:00",
     "audit":  {
                   "candidates":  1037,
                   "uniqueKeys":  970,
@@ -8286,8 +8286,8 @@
                   "uiV2Added":  783,
                   "uiV3Added":  631,
                   "addedByHand":  20,
-                  "batchAdded":  222,
-                  "enabled":  12115,
+                  "batchAdded":  12,
+                  "enabled":  12127,
                   "pending":  0
               },
     "entries":  [
@@ -117325,6 +117325,114 @@
                         "zh":  "特技是聊天和捉迷藏！\r\n魔术师皮奥妮酱就是我啦～♪",
                         "status":  "draft",
                         "note":  "emo-gap-20260927"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "speech_text",
+                        "key":  "UPD_LOGIN_BONUS_CELL_SPEECH_TEXT",
+                        "ja":  "おや、何か届いてるようですね。\n中身を検（あらた）めてみましょう。",
+                        "zh":  "哎呀，好像有东西送到了呢。\n就让我们确认一下内容吧。",
+                        "status":  "draft",
+                        "note":  "upd-20260930-quest"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "name",
+                        "key":  "UPD_QUEST_DATA_NAME",
+                        "ja":  "ふたつの月が重なる日 E-1",
+                        "zh":  "两个月亮重叠之日 E-1",
+                        "status":  "draft",
+                        "note":  "upd-20260930-quest"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "name",
+                        "key":  "UPD_QUEST_DATA_NAME",
+                        "ja":  "ふたつの月が重なる日 E-2",
+                        "zh":  "两个月亮重叠之日 E-2",
+                        "status":  "draft",
+                        "note":  "upd-20260930-quest"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "name",
+                        "key":  "UPD_QUEST_DATA_NAME",
+                        "ja":  "ふたつの月が重なる日 E-3",
+                        "zh":  "两个月亮重叠之日 E-3",
+                        "status":  "draft",
+                        "note":  "upd-20260930-quest"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "name",
+                        "key":  "UPD_QUEST_DATA_NAME",
+                        "ja":  "ふたつの月が重なる日 E-4",
+                        "zh":  "两个月亮重叠之日 E-4",
+                        "status":  "draft",
+                        "note":  "upd-20260930-quest"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "name",
+                        "key":  "UPD_QUEST_DATA_NAME",
+                        "ja":  "ふたつの月が重なる日 EX1",
+                        "zh":  "两个月亮重叠之日 EX1",
+                        "status":  "draft",
+                        "note":  "upd-20260930-quest"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "name",
+                        "key":  "UPD_QUEST_DATA_NAME",
+                        "ja":  "ふたつの月が重なる日 EX2",
+                        "zh":  "两个月亮重叠之日 EX2",
+                        "status":  "draft",
+                        "note":  "upd-20260930-quest"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "name",
+                        "key":  "UPD_QUEST_DATA_NAME",
+                        "ja":  "ふたつの月が重なる日 EX3",
+                        "zh":  "两个月亮重叠之日 EX3",
+                        "status":  "draft",
+                        "note":  "upd-20260930-quest"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "name",
+                        "key":  "UPD_QUEST_DATA_NAME",
+                        "ja":  "ふたつの月が重なる日 EX4",
+                        "zh":  "两个月亮重叠之日 EX4",
+                        "status":  "draft",
+                        "note":  "upd-20260930-quest"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "name",
+                        "key":  "UPD_QUEST_DATA_NAME",
+                        "ja":  "海冥の軍勢 EASY",
+                        "zh":  "海冥的军势 EASY",
+                        "status":  "draft",
+                        "note":  "upd-20260930-quest"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "name",
+                        "key":  "UPD_QUEST_DATA_NAME",
+                        "ja":  "海冥の軍勢 HARD",
+                        "zh":  "海冥的军势 HARD",
+                        "status":  "draft",
+                        "note":  "upd-20260930-quest"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "name",
+                        "key":  "UPD_QUEST_DATA_NAME",
+                        "ja":  "海冥の軍勢 NORMAL",
+                        "zh":  "海冥的军势 NORMAL",
+                        "status":  "draft",
+                        "note":  "upd-20260930-quest"
                     }
                 ]
 }
