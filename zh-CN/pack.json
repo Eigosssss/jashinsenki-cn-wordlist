@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "language": "zh-CN",
-  "generatedAt": "2026-09-30T10:18:01+08:00",
+  "generatedAt": "2026-09-30T10:31:21+08:00",
   "names": {
     "schemaVersion":  1,
     "language":  "zh-CN",
@@ -4705,7 +4705,7 @@
                         "Note":  "Boss/敌人名（bom、enemy 表），术语与档案译文一致"
                     },
                     {
-                        "Ja":  "レリエル（幻梦）",
+                        "Ja":  "レリエル（幻夢）",
                         "Zh":  "雷利尔（幻梦）",
                         "Alias":  "",
                         "Status":  "pack",
@@ -8275,7 +8275,7 @@
   "extras": {
     "schemaVersion":  1,
     "language":  "zh-CN",
-    "generatedAt":  "2026-09-30T10:16:59+08:00",
+    "generatedAt":  "2026-09-30T10:31:11+08:00",
     "audit":  {
                   "candidates":  1037,
                   "uniqueKeys":  970,
@@ -8286,8 +8286,8 @@
                   "uiV2Added":  783,
                   "uiV3Added":  631,
                   "addedByHand":  20,
-                  "batchAdded":  12,
-                  "enabled":  12127,
+                  "batchAdded":  9,
+                  "enabled":  12136,
                   "pending":  0
               },
     "entries":  [
@@ -20859,7 +20859,7 @@
                         "domain":  "ui",
                         "kind":  "message",
                         "key":  "EVENT_CHARA_UNWISH_REWARD_TEXT_MESSAGE",
-                        "ja":  "最高封印ランク{0}到達で\\n{1}\"",
+                        "ja":  "最高封印ランク{0}到達で\n{1}\"",
                         "zh":  "最高封印等级达到{0}时\n{1}\"",
                         "status":  "draft",
                         "note":  "ui-v2"
@@ -20895,7 +20895,7 @@
                         "domain":  "ui",
                         "kind":  "message",
                         "key":  "EVENT_CHARA_UNWISH_LOW_RANK_START_QUEST_MESSAGE",
-                        "ja":  "最高封印ランク合計が更新できませんが\\nクエストを開始しますか？",
+                        "ja":  "最高封印ランク合計が更新できませんが\nクエストを開始しますか？",
                         "zh":  "最高封印等级合计无法更新，\n仍要开始关卡吗？",
                         "status":  "draft",
                         "note":  "ui-v2"
@@ -117433,6 +117433,87 @@
                         "zh":  "海冥的军势 NORMAL",
                         "status":  "draft",
                         "note":  "upd-20260930-quest"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "charaName",
+                        "key":  "UPD_ENEMY_CHARANAME",
+                        "ja":  "ナイトゴーント・エリート",
+                        "zh":  "夜魇・精英",
+                        "status":  "draft",
+                        "note":  "upd-20260930-coverage"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "charaName",
+                        "key":  "UPD_ENEMY_CHARANAME",
+                        "ja":  "火の召喚獣",
+                        "zh":  "火之召唤兽",
+                        "status":  "draft",
+                        "note":  "upd-20260930-coverage"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "m_value",
+                        "key":  "UPD_MINIGAME_FUSION_PUZZLE_TITLE_M_VALUE",
+                        "ja":  "合体パズル",
+                        "zh":  "合体拼图",
+                        "status":  "draft",
+                        "note":  "upd-20260930-coverage"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "text",
+                        "key":  "UPD_PICTUREBOOK_DATA_TEXT",
+                        "ja":  "強大な力を秘めた邪神",
+                        "zh":  "潜藏强大力量的邪神",
+                        "status":  "draft",
+                        "note":  "upd-20260930-coverage"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "m_value",
+                        "key":  "UPD_PROPERTY_SHEET_M_VALUE",
+                        "ja":  "サーバー{0}",
+                        "zh":  "服务器{0}",
+                        "status":  "draft",
+                        "note":  "upd-20260930-coverage"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "m_value",
+                        "key":  "UPD_PROPERTY_SHEET_M_VALUE",
+                        "ja":  "サーバー{0}～{1}",
+                        "zh":  "服务器{0}～{1}",
+                        "status":  "draft",
+                        "note":  "upd-20260930-coverage"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "m_value",
+                        "key":  "UPD_PROPERTY_SHEET_M_VALUE",
+                        "ja":  "専用武器機能は\nメインストーリー6章\nクリアで開放されます",
+                        "zh":  "专用武器功能将在\n主线剧情第6章\n通关后解锁",
+                        "status":  "draft",
+                        "note":  "upd-20260930-coverage"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "m_value",
+                        "key":  "UPD_TRADE_SELECT_REWARD_POPUP_MESSAGE_M_VALUE",
+                        "ja":  "以下から（選択して）一つ獲得できます。",
+                        "zh":  "可从以下内容中（选择）获得一个。",
+                        "status":  "draft",
+                        "note":  "upd-20260930-coverage"
+                    },
+                    {
+                        "domain":  "ui",
+                        "kind":  "charaName",
+                        "key":  "UPD_UNIT_CHARANAME",
+                        "ja":  "クトゥグァ砲台",
+                        "zh":  "克图格亚炮台",
+                        "status":  "draft",
+                        "note":  "upd-20260930-coverage"
                     }
                 ]
 }
