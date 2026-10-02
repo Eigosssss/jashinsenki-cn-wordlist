@@ -2,9 +2,9 @@
   "schemaVersion": 1,
   "channel": "android",
   "platform": "android",
-  "pluginVersion": "1.10.0",
+  "pluginVersion": "3.0.0",
   "pluginFile": "JashinsenkiNameTranslation.dll",
   "pluginSha256": "4321592d15cd5485c381dfa5ba4e06dc1f8be57bb466033aa8ecb05250853e94",
   "pluginSize": 112128,
-  "generatedAt": "2026-10-02T22:12:06+08:00"
+  "generatedAt": "2026-10-02T22:19:49+08:00"
 }
