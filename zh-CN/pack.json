@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "language": "zh-CN",
-  "generatedAt": "2026-10-09T10:59:13+08:00",
+  "generatedAt": "2026-10-16T01:38:43+08:00",
   "names": {
     "schemaVersion":  1,
     "language":  "zh-CN",
@@ -94,7 +94,7 @@
                     {
                         "Ja":  "ユラナ・ゾッタ",
                         "Zh":  "尤拉娜·佐塔",
-                        "Alias":  "伞",
+                        "Alias":  "青蛙伞",
                         "Status":  "pack",
                         "Note":  "出现 283 次, 场景数 38 / roster:id=25"
                     },
@@ -4000,7 +4000,7 @@
                     {
                         "Ja":  "アーフナ",
                         "Zh":  "阿芙娜",
-                        "Alias":  "",
+                        "Alias":  "神官",
                         "Status":  "pack",
                         "Note":  "2026-09-18 游戏更新新增角色 / roster:id=82 / charaName=アーフナ / kana=あーふな"
                     },
@@ -4588,7 +4588,7 @@
                     {
                         "Ja":  "プシュキア",
                         "Zh":  "普修基亚",
-                        "Alias":  "",
+                        "Alias":  "蝴蝶",
                         "Status":  "pack",
                         "Note":  "unit 87 / resource 10093（2026-10-02 更新后成为可玩角色；档案 groupId 87）"
                     },
@@ -4770,14 +4770,14 @@
                     {
                         "Ja":  "[闇惑]モネモネ",
                         "Zh":  "[暗惑]莫妮莫妮",
-                        "Alias":  "",
+                        "Alias":  "万圣VTB",
                         "Status":  "pack",
                         "Note":  "unit 88 / resource 10089（2026-10-09 新卡面）"
                     },
                     {
                         "Ja":  "[饗騒]ユラナ・ゾッタ",
                         "Zh":  "[飨骚]尤拉娜·佐塔",
-                        "Alias":  "",
+                        "Alias":  "万圣青蛙",
                         "Status":  "pack",
                         "Note":  "unit 89 / resource 10090（2026-10-09 新卡面）"
                     },
