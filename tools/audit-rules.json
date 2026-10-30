@@ -1,0 +1,289 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-10-30",
+  "note": "词表覆盖率审计规则。任何设备 pull 后运行 tools/audit_coverage.py 即可用同一套类目与排除规则复查，避免换设备漏检。",
+  "categories": [
+    {
+      "label": "技能名",
+      "file": "ability_data.json",
+      "field": "name"
+    },
+    {
+      "label": "技能说明",
+      "file": "ability_data.json",
+      "field": "text",
+      "excluded": true
+    },
+    {
+      "label": "自动技能",
+      "file": "auto_skill_data.json",
+      "field": "name"
+    },
+    {
+      "label": "自动技能说明",
+      "file": "auto_skill_data.json",
+      "field": "text",
+      "excluded": true
+    },
+    {
+      "label": "超越技",
+      "file": "over_skill_data.json",
+      "field": "name"
+    },
+    {
+      "label": "超越技说明",
+      "file": "over_skill_data.json",
+      "field": "text",
+      "excluded": true
+    },
+    {
+      "label": "神器技能",
+      "file": "artifact_skill_data.json",
+      "field": "name"
+    },
+    {
+      "label": "神器技能说明",
+      "file": "artifact_skill_data.json",
+      "field": "text",
+      "excluded": true
+    },
+    {
+      "label": "神器风味文本",
+      "file": "artifact_skill_data.json",
+      "field": "flavorText",
+      "excluded": true
+    },
+    {
+      "label": "神器获取地点",
+      "file": "artifact_skill_data.json",
+      "field": "acquireLocationText",
+      "excluded": true
+    },
+    {
+      "label": "被动技能",
+      "file": "passive_skill_data.json",
+      "field": "name"
+    },
+    {
+      "label": "被动技能说明",
+      "file": "passive_skill_data.json",
+      "field": "text",
+      "excluded": true
+    },
+    {
+      "label": "潜能技能",
+      "file": "potential_skill_data.json",
+      "field": "name"
+    },
+    {
+      "label": "潜能技能说明",
+      "file": "potential_skill_data.json",
+      "field": "text",
+      "excluded": true
+    },
+    {
+      "label": "EX能力",
+      "file": "ex_ability_data.json",
+      "field": "name"
+    },
+    {
+      "label": "EX能力说明",
+      "file": "ex_ability_data.json",
+      "field": "text",
+      "excluded": true
+    },
+    {
+      "label": "皮肤技能名",
+      "file": "skin_skill_data.json",
+      "field": "name"
+    },
+    {
+      "label": "皮肤技能说明",
+      "file": "skin_skill_data.json",
+      "field": "text",
+      "excluded": true
+    },
+    {
+      "label": "刻印",
+      "file": "engraving_data.json",
+      "field": "name"
+    },
+    {
+      "label": "刻印突变",
+      "file": "engraving_mutate_data.json",
+      "field": "text",
+      "excluded": true
+    },
+    {
+      "label": "道具",
+      "file": "item_template.json",
+      "field": "text"
+    },
+    {
+      "label": "钱包",
+      "file": "wallet_template.json",
+      "field": "name",
+      "excluded": true
+    },
+    {
+      "label": "抽卡说明",
+      "file": "gacha_detail_data.json",
+      "field": "text"
+    },
+    {
+      "label": "图鉴条目文字",
+      "file": "picturebook_data.json",
+      "field": "text"
+    },
+    {
+      "label": "图鉴显示名",
+      "file": "picturebook_data.json",
+      "field": "icon_text"
+    },
+    {
+      "label": "任务名",
+      "file": "quest_data.json",
+      "field": "name",
+      "excluded": true
+    },
+    {
+      "label": "商店名",
+      "file": "shop_data.json",
+      "field": "name"
+    },
+    {
+      "label": "商店说明",
+      "file": "shop_data.json",
+      "field": "text"
+    },
+    {
+      "label": "商店销售条件",
+      "file": "shop_data.json",
+      "field": "sales_conditions"
+    },
+    {
+      "label": "故事标题·主线",
+      "file": "story_data_main.json",
+      "field": "title"
+    },
+    {
+      "label": "故事标题·活动",
+      "file": "story_data_event.json",
+      "field": "title"
+    },
+    {
+      "label": "故事标题·单位",
+      "file": "story_data_unit.json",
+      "field": "title"
+    },
+    {
+      "label": "邪神手记·标题",
+      "file": "story_data_text_novel.json",
+      "field": "title"
+    },
+    {
+      "label": "邪神手记·正文",
+      "file": "story_data_text_novel.json",
+      "field": "text"
+    },
+    {
+      "label": "邪神手记·元数据标题",
+      "file": "story_data_bom.json",
+      "field": "title"
+    },
+    {
+      "label": "职业说明",
+      "file": "job_data.json",
+      "field": "text"
+    },
+    {
+      "label": "详细文本",
+      "file": "detail_text_data.json",
+      "field": "text"
+    },
+    {
+      "label": "角色台词",
+      "file": "unit_catchphrase.json",
+      "field": "Message1"
+    },
+    {
+      "label": "Roguelike事件剧情",
+      "file": "rogue_event_story_data.json",
+      "field": "text"
+    },
+    {
+      "label": "Roguelike故事标题",
+      "file": "story_data_rogue.json",
+      "field": "title"
+    },
+    {
+      "label": "训练教程",
+      "file": "quest_training_data.json",
+      "field": "trainingText"
+    },
+    {
+      "label": "邮件标题",
+      "file": "mail_message_data.json",
+      "field": "title"
+    },
+    {
+      "label": "邮件正文",
+      "file": "mail_message_data.json",
+      "field": "message"
+    },
+    {
+      "label": "帮助说明",
+      "file": "help_window_data.json",
+      "field": "body"
+    },
+    {
+      "label": "UI消息",
+      "file": "message_data.json",
+      "field": "message"
+    },
+    {
+      "label": "弹窗消息",
+      "file": "message_window_data.json",
+      "field": "message"
+    },
+    {
+      "label": "强化参数名",
+      "file": "refinforce_parameter_data.json",
+      "field": "name"
+    },
+    {
+      "label": "特殊能力名",
+      "file": "special_ability.json",
+      "field": "name"
+    },
+    {
+      "label": "特殊能力说明",
+      "file": "special_ability.json",
+      "field": "text",
+      "excluded": true
+    },
+    {
+      "label": "怪物/单位名",
+      "file": "token_data.json",
+      "field": "name"
+    }
+  ],
+  "skipFieldNames": [
+    "kana",
+    "prefab_path",
+    "fileId",
+    "resource",
+    "likeLargeGiftName",
+    "is_text_auto_sizing",
+    "is_text_word_wrapping"
+  ],
+  "skipPrefix": [
+    "テンプレート",
+    "トークン",
+    "Copyright",
+    "【AndroidX",
+    "Licensed under"
+  ],
+  "placeholderPattern": "非表示|\\(test\\)|（test）|テスト用|ダミー",
+  "excludedNote": "excluded=true 为永久不译（用户 2026-10-30 确认）：技能效果说明、钱包技术键、任务纯编号、刻印突变、占位符。"
+}
