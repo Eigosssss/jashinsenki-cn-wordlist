@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
   "language": "zh-CN",
-  "generatedAt": "2026-10-30T10:56:32+08:00",
+  "generatedAt": "2026-10-30T11:01:18+08:00",
   "names": {
     "schemaVersion": 1,
     "language": "zh-CN",
-    "generatedAt": "2026-10-30T10:56:32+08:00",
+    "generatedAt": "2026-10-30T11:01:18+08:00",
     "entries": [
       {
         "Ja": "主人公",
@@ -4891,7 +4891,7 @@
   "profiles": {
     "schemaVersion": 1,
     "language": "zh-CN",
-    "generatedAt": "2026-10-30T10:56:32+08:00",
+    "generatedAt": "2026-10-30T11:01:18+08:00",
     "entries": [
       {
         "groupId": 1,
@@ -139418,6 +139418,51 @@
         "zh": "若设备可用空间或内存不足，\n可能会影响\n应用的安装或更新。\n请尝试增加可用空间，\n关闭其他正在运行的应用，\n或重启设备本身。\n\n此外，应用的安装与更新\n需要网络环境。\n请同时确认设备是否已连接网络，\n以及通信状况是否良好。\n请一并确认。\n\n※进行应用的安装或更新时，\n　建议在Wi-Fi等稳定的通信环境下\n　进行操作。",
         "status": "draft",
         "note": "2026-10-30 帮助说明"
+      },
+      {
+        "domain": "ui",
+        "kind": "name",
+        "key": "",
+        "ja": "エルダーハスター",
+        "zh": "长老哈斯塔",
+        "status": "draft",
+        "note": "2026-10-30 特殊能力名补全"
+      },
+      {
+        "domain": "ui",
+        "kind": "name",
+        "key": "",
+        "ja": "確定火傷",
+        "zh": "确定火伤",
+        "status": "draft",
+        "note": "2026-10-30 特殊能力名补全"
+      },
+      {
+        "domain": "ui",
+        "kind": "name",
+        "key": "",
+        "ja": "確定石化",
+        "zh": "确定石化",
+        "status": "draft",
+        "note": "2026-10-30 特殊能力名补全"
+      },
+      {
+        "domain": "ui",
+        "kind": "name",
+        "key": "",
+        "ja": "確定恐怖",
+        "zh": "确定恐怖",
+        "status": "draft",
+        "note": "2026-10-30 特殊能力名补全"
+      },
+      {
+        "domain": "ui",
+        "kind": "name",
+        "key": "",
+        "ja": "連続攻撃",
+        "zh": "连续攻击",
+        "status": "draft",
+        "note": "2026-10-30 特殊能力名补全"
       }
     ]
   }
