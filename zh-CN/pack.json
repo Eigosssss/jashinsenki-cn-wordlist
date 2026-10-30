@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
   "language": "zh-CN",
-  "generatedAt": "2026-10-30T10:48:54+08:00",
+  "generatedAt": "2026-10-30T10:52:44+08:00",
   "names": {
     "schemaVersion": 1,
     "language": "zh-CN",
-    "generatedAt": "2026-10-30T10:48:54+08:00",
+    "generatedAt": "2026-10-30T10:52:44+08:00",
     "entries": [
       {
         "Ja": "主人公",
@@ -4891,7 +4891,7 @@
   "profiles": {
     "schemaVersion": 1,
     "language": "zh-CN",
-    "generatedAt": "2026-10-30T10:48:54+08:00",
+    "generatedAt": "2026-10-30T10:52:44+08:00",
     "entries": [
       {
         "groupId": 1,
@@ -137798,6 +137798,1275 @@
         "zh": "抱着水瓶的少年露出天真的笑容，递来空杯。\n「漫长的游戏，您累了吧。请喝下这个，好好休息」\n从瓶中倒出的琥珀色酒液带着不属于此世的无上甘甜，治愈身心。",
         "status": "draft",
         "note": "2026-10-30 Roguelike 事件剧情"
+      },
+      {
+        "domain": "ui",
+        "kind": "text",
+        "key": "",
+        "ja": "「アルターエゴイストの戯事」で10種類以上の恩寵を所持してクリア",
+        "zh": "在「另一个自我的戏事」中持有10种以上恩宠通关",
+        "status": "draft",
+        "note": "2026-10-30 补全（mission_data.json :: text）"
+      },
+      {
+        "domain": "ui",
+        "kind": "text",
+        "key": "",
+        "ja": "「アルターエゴイストの戯事」で15種類以上の恩寵を所持してクリア",
+        "zh": "在「另一个自我的戏事」中持有15种以上恩宠通关",
+        "status": "draft",
+        "note": "2026-10-30 补全（mission_data.json :: text）"
+      },
+      {
+        "domain": "ui",
+        "kind": "text",
+        "key": "",
+        "ja": "「アルターエゴイストの戯事」で5種類以上の恩寵を所持してクリア",
+        "zh": "在「另一个自我的戏事」中持有5种以上恩宠通关",
+        "status": "draft",
+        "note": "2026-10-30 补全（mission_data.json :: text）"
+      },
+      {
+        "domain": "ui",
+        "kind": "text",
+        "key": "",
+        "ja": "「アルターエゴイストの戯事」で★★★ヴァイスのみを編成した状態でクリア",
+        "zh": "在「另一个自我的戏事」中仅编成★★★维斯通关",
+        "status": "draft",
+        "note": "2026-10-30 补全（mission_data.json :: text）"
+      },
+      {
+        "domain": "ui",
+        "kind": "text",
+        "key": "",
+        "ja": "「アルターエゴイストの戯事」で★★ヴァイスのみを編成した状態でクリア",
+        "zh": "在「另一个自我的戏事」中仅编成★★维斯通关",
+        "status": "draft",
+        "note": "2026-10-30 补全（mission_data.json :: text）"
+      },
+      {
+        "domain": "ui",
+        "kind": "text",
+        "key": "",
+        "ja": "「アルターエゴイストの戯事」で★ヴァイスのみを編成した状態でクリア",
+        "zh": "在「另一个自我的戏事」中仅编成★维斯通关",
+        "status": "draft",
+        "note": "2026-10-30 补全（mission_data.json :: text）"
+      },
+      {
+        "domain": "ui",
+        "kind": "text",
+        "key": "",
+        "ja": "「アルターエゴイストの戯事」でアークメイジを3体以上編成した状態でクリア",
+        "zh": "在「另一个自我的戏事」中编成3体以上大魔导师通关",
+        "status": "draft",
+        "note": "2026-10-30 补全（mission_data.json :: text）"
+      },
+      {
+        "domain": "ui",
+        "kind": "text",
+        "key": "",
+        "ja": "「アルターエゴイストの戯事」でアーチャーを3体以上編成した状態でクリア",
+        "zh": "在「另一个自我的戏事」中编成3体以上弓箭手通关",
+        "status": "draft",
+        "note": "2026-10-30 补全（mission_data.json :: text）"
+      },
+      {
+        "domain": "ui",
+        "kind": "text",
+        "key": "",
+        "ja": "「アルターエゴイストの戯事」でウィッチを3体以上編成した状態でクリア",
+        "zh": "在「另一个自我的戏事」中编成3体以上女巫通关",
+        "status": "draft",
+        "note": "2026-10-30 补全（mission_data.json :: text）"
+      },
+      {
+        "domain": "ui",
+        "kind": "text",
+        "key": "",
+        "ja": "「アルターエゴイストの戯事」でウェポンマスターを2体以上編成した状態でクリア",
+        "zh": "在「另一个自我的戏事」中编成2体以上武器大师通关",
+        "status": "draft",
+        "note": "2026-10-30 补全（mission_data.json :: text）"
+      },
+      {
+        "domain": "ui",
+        "kind": "text",
+        "key": "",
+        "ja": "「アルターエゴイストの戯事」でエクシード上昇数1以上でクリア",
+        "zh": "在「另一个自我的戏事」中超越值上升数1以上通关",
+        "status": "draft",
+        "note": "2026-10-30 补全（mission_data.json :: text）"
+      },
+      {
+        "domain": "ui",
+        "kind": "text",
+        "key": "",
+        "ja": "「アルターエゴイストの戯事」でエクシード上昇数3以上でクリア",
+        "zh": "在「另一个自我的戏事」中超越值上升数3以上通关",
+        "status": "draft",
+        "note": "2026-10-30 补全（mission_data.json :: text）"
+      },
+      {
+        "domain": "ui",
+        "kind": "text",
+        "key": "",
+        "ja": "「アルターエゴイストの戯事」でエクシード上昇数5以上でクリア",
+        "zh": "在「另一个自我的戏事」中超越值上升数5以上通关",
+        "status": "draft",
+        "note": "2026-10-30 补全（mission_data.json :: text）"
+      },
+      {
+        "domain": "ui",
+        "kind": "text",
+        "key": "",
+        "ja": "「アルターエゴイストの戯事」でオートマトンを2体以上編成した状態でクリア",
+        "zh": "在「另一个自我的戏事」中编成2体以上自动人偶通关",
+        "status": "draft",
+        "note": "2026-10-30 补全（mission_data.json :: text）"
+      },
+      {
+        "domain": "ui",
+        "kind": "text",
+        "key": "",
+        "ja": "「アルターエゴイストの戯事」でガンナーを3体以上編成した状態でクリア",
+        "zh": "在「另一个自我的戏事」中编成3体以上枪手通关",
+        "status": "draft",
+        "note": "2026-10-30 补全（mission_data.json :: text）"
+      },
+      {
+        "domain": "ui",
+        "kind": "text",
+        "key": "",
+        "ja": "「アルターエゴイストの戯事」でバーサーカーを2体以上編成した状態でクリア",
+        "zh": "在「另一个自我的戏事」中编成2体以上狂战士通关",
+        "status": "draft",
+        "note": "2026-10-30 补全（mission_data.json :: text）"
+      },
+      {
+        "domain": "ui",
+        "kind": "text",
+        "key": "",
+        "ja": "「アルターエゴイストの戯事」でファランクスを2体以上編成した状態でクリア",
+        "zh": "在「另一个自我的戏事」中编成2体以上方阵兵通关",
+        "status": "draft",
+        "note": "2026-10-30 补全（mission_data.json :: text）"
+      },
+      {
+        "domain": "ui",
+        "kind": "text",
+        "key": "",
+        "ja": "「アルターエゴイストの戯事」でヘビーシールダーを2体以上編成した状態でクリア",
+        "zh": "在「另一个自我的戏事」中编成2体以上重盾兵通关",
+        "status": "draft",
+        "note": "2026-10-30 补全（mission_data.json :: text）"
+      },
+      {
+        "domain": "ui",
+        "kind": "text",
+        "key": "",
+        "ja": "「アルターエゴイストの戯事」でレンジャーを2体以上編成した状態でクリア",
+        "zh": "在「另一个自我的戏事」中编成2体以上游侠通关",
+        "status": "draft",
+        "note": "2026-10-30 补全（mission_data.json :: text）"
+      },
+      {
+        "domain": "ui",
+        "kind": "text",
+        "key": "",
+        "ja": "「アルターエゴイストの戯事」で金の恩寵を3個以上所持してクリア",
+        "zh": "在「另一个自我的戏事」中持有3个以上金色恩宠通关",
+        "status": "draft",
+        "note": "2026-10-30 补全（mission_data.json :: text）"
+      },
+      {
+        "domain": "ui",
+        "kind": "text",
+        "key": "",
+        "ja": "「アルターエゴイストの戯事」で金の恩寵を5個以上所持してクリア",
+        "zh": "在「另一个自我的戏事」中持有5个以上金色恩宠通关",
+        "status": "draft",
+        "note": "2026-10-30 补全（mission_data.json :: text）"
+      },
+      {
+        "domain": "ui",
+        "kind": "text",
+        "key": "",
+        "ja": "「アルターエゴイストの戯事」で金の恩寵を所持してクリア",
+        "zh": "在「另一个自我的戏事」中持有金色恩宠通关",
+        "status": "draft",
+        "note": "2026-10-30 补全（mission_data.json :: text）"
+      },
+      {
+        "domain": "ui",
+        "kind": "text",
+        "key": "",
+        "ja": "「アルターエゴイストの戯事」のエルドリッチをクリア",
+        "zh": "通关「另一个自我的戏事」的异界",
+        "status": "draft",
+        "note": "2026-10-30 补全（mission_data.json :: text）"
+      },
+      {
+        "domain": "ui",
+        "kind": "text",
+        "key": "",
+        "ja": "「アルターエゴイストの戯事」のノーマルをクリア",
+        "zh": "通关「另一个自我的戏事」的普通",
+        "status": "draft",
+        "note": "2026-10-30 补全（mission_data.json :: text）"
+      },
+      {
+        "domain": "ui",
+        "kind": "text",
+        "key": "",
+        "ja": "「アルターエゴイストの戯事」のハードをクリア",
+        "zh": "通关「另一个自我的戏事」的困难",
+        "status": "draft",
+        "note": "2026-10-30 补全（mission_data.json :: text）"
+      },
+      {
+        "domain": "ui",
+        "kind": "text",
+        "key": "",
+        "ja": "「アルターエゴイストの戯事」を10回クリア",
+        "zh": "通关「另一个自我的戏事」10次",
+        "status": "draft",
+        "note": "2026-10-30 补全（mission_data.json :: text）"
+      },
+      {
+        "domain": "ui",
+        "kind": "text",
+        "key": "",
+        "ja": "「アルターエゴイストの戯事」を15回クリア",
+        "zh": "通关「另一个自我的戏事」15次",
+        "status": "draft",
+        "note": "2026-10-30 补全（mission_data.json :: text）"
+      },
+      {
+        "domain": "ui",
+        "kind": "text",
+        "key": "",
+        "ja": "「アルターエゴイストの戯事」を20回クリア",
+        "zh": "通关「另一个自我的戏事」20次",
+        "status": "draft",
+        "note": "2026-10-30 补全（mission_data.json :: text）"
+      },
+      {
+        "domain": "ui",
+        "kind": "text",
+        "key": "",
+        "ja": "「アルターエゴイストの戯事」を5回クリア",
+        "zh": "通关「另一个自我的戏事」5次",
+        "status": "draft",
+        "note": "2026-10-30 补全（mission_data.json :: text）"
+      },
+      {
+        "domain": "ui",
+        "kind": "name",
+        "key": "",
+        "ja": "プリズンタワー1001階",
+        "zh": "监狱塔1001层",
+        "status": "draft",
+        "note": "2026-10-30 补全（quest_data.json :: name）"
+      },
+      {
+        "domain": "ui",
+        "kind": "name",
+        "key": "",
+        "ja": "プリズンタワー1002階",
+        "zh": "监狱塔1002层",
+        "status": "draft",
+        "note": "2026-10-30 补全（quest_data.json :: name）"
+      },
+      {
+        "domain": "ui",
+        "kind": "name",
+        "key": "",
+        "ja": "プリズンタワー1003階",
+        "zh": "监狱塔1003层",
+        "status": "draft",
+        "note": "2026-10-30 补全（quest_data.json :: name）"
+      },
+      {
+        "domain": "ui",
+        "kind": "name",
+        "key": "",
+        "ja": "プリズンタワー1004階",
+        "zh": "监狱塔1004层",
+        "status": "draft",
+        "note": "2026-10-30 补全（quest_data.json :: name）"
+      },
+      {
+        "domain": "ui",
+        "kind": "name",
+        "key": "",
+        "ja": "プリズンタワー1005階",
+        "zh": "监狱塔1005层",
+        "status": "draft",
+        "note": "2026-10-30 补全（quest_data.json :: name）"
+      },
+      {
+        "domain": "ui",
+        "kind": "name",
+        "key": "",
+        "ja": "プリズンタワー1006階",
+        "zh": "监狱塔1006层",
+        "status": "draft",
+        "note": "2026-10-30 补全（quest_data.json :: name）"
+      },
+      {
+        "domain": "ui",
+        "kind": "name",
+        "key": "",
+        "ja": "プリズンタワー1007階",
+        "zh": "监狱塔1007层",
+        "status": "draft",
+        "note": "2026-10-30 补全（quest_data.json :: name）"
+      },
+      {
+        "domain": "ui",
+        "kind": "name",
+        "key": "",
+        "ja": "プリズンタワー1008階",
+        "zh": "监狱塔1008层",
+        "status": "draft",
+        "note": "2026-10-30 补全（quest_data.json :: name）"
+      },
+      {
+        "domain": "ui",
+        "kind": "name",
+        "key": "",
+        "ja": "プリズンタワー1009階",
+        "zh": "监狱塔1009层",
+        "status": "draft",
+        "note": "2026-10-30 补全（quest_data.json :: name）"
+      },
+      {
+        "domain": "ui",
+        "kind": "name",
+        "key": "",
+        "ja": "プリズンタワー1010階",
+        "zh": "监狱塔1010层",
+        "status": "draft",
+        "note": "2026-10-30 补全（quest_data.json :: name）"
+      },
+      {
+        "domain": "ui",
+        "kind": "name",
+        "key": "",
+        "ja": "プリズンタワー1011階",
+        "zh": "监狱塔1011层",
+        "status": "draft",
+        "note": "2026-10-30 补全（quest_data.json :: name）"
+      },
+      {
+        "domain": "ui",
+        "kind": "name",
+        "key": "",
+        "ja": "プリズンタワー1012階",
+        "zh": "监狱塔1012层",
+        "status": "draft",
+        "note": "2026-10-30 补全（quest_data.json :: name）"
+      },
+      {
+        "domain": "ui",
+        "kind": "name",
+        "key": "",
+        "ja": "プリズンタワー1013階",
+        "zh": "监狱塔1013层",
+        "status": "draft",
+        "note": "2026-10-30 补全（quest_data.json :: name）"
+      },
+      {
+        "domain": "ui",
+        "kind": "name",
+        "key": "",
+        "ja": "プリズンタワー1014階",
+        "zh": "监狱塔1014层",
+        "status": "draft",
+        "note": "2026-10-30 补全（quest_data.json :: name）"
+      },
+      {
+        "domain": "ui",
+        "kind": "name",
+        "key": "",
+        "ja": "プリズンタワー1015階",
+        "zh": "监狱塔1015层",
+        "status": "draft",
+        "note": "2026-10-30 补全（quest_data.json :: name）"
+      },
+      {
+        "domain": "ui",
+        "kind": "name",
+        "key": "",
+        "ja": "プリズンタワー1016階",
+        "zh": "监狱塔1016层",
+        "status": "draft",
+        "note": "2026-10-30 补全（quest_data.json :: name）"
+      },
+      {
+        "domain": "ui",
+        "kind": "name",
+        "key": "",
+        "ja": "プリズンタワー1017階",
+        "zh": "监狱塔1017层",
+        "status": "draft",
+        "note": "2026-10-30 补全（quest_data.json :: name）"
+      },
+      {
+        "domain": "ui",
+        "kind": "name",
+        "key": "",
+        "ja": "プリズンタワー1018階",
+        "zh": "监狱塔1018层",
+        "status": "draft",
+        "note": "2026-10-30 补全（quest_data.json :: name）"
+      },
+      {
+        "domain": "ui",
+        "kind": "name",
+        "key": "",
+        "ja": "プリズンタワー1019階",
+        "zh": "监狱塔1019层",
+        "status": "draft",
+        "note": "2026-10-30 补全（quest_data.json :: name）"
+      },
+      {
+        "domain": "ui",
+        "kind": "name",
+        "key": "",
+        "ja": "プリズンタワー1020階",
+        "zh": "监狱塔1020层",
+        "status": "draft",
+        "note": "2026-10-30 补全（quest_data.json :: name）"
+      },
+      {
+        "domain": "ui",
+        "kind": "name",
+        "key": "",
+        "ja": "プリズンタワー1021階",
+        "zh": "监狱塔1021层",
+        "status": "draft",
+        "note": "2026-10-30 补全（quest_data.json :: name）"
+      },
+      {
+        "domain": "ui",
+        "kind": "name",
+        "key": "",
+        "ja": "プリズンタワー1022階",
+        "zh": "监狱塔1022层",
+        "status": "draft",
+        "note": "2026-10-30 补全（quest_data.json :: name）"
+      },
+      {
+        "domain": "ui",
+        "kind": "name",
+        "key": "",
+        "ja": "プリズンタワー1023階",
+        "zh": "监狱塔1023层",
+        "status": "draft",
+        "note": "2026-10-30 补全（quest_data.json :: name）"
+      },
+      {
+        "domain": "ui",
+        "kind": "name",
+        "key": "",
+        "ja": "プリズンタワー1024階",
+        "zh": "监狱塔1024层",
+        "status": "draft",
+        "note": "2026-10-30 补全（quest_data.json :: name）"
+      },
+      {
+        "domain": "ui",
+        "kind": "name",
+        "key": "",
+        "ja": "プリズンタワー1025階",
+        "zh": "监狱塔1025层",
+        "status": "draft",
+        "note": "2026-10-30 补全（quest_data.json :: name）"
+      },
+      {
+        "domain": "ui",
+        "kind": "name",
+        "key": "",
+        "ja": "プリズンタワー1026階",
+        "zh": "监狱塔1026层",
+        "status": "draft",
+        "note": "2026-10-30 补全（quest_data.json :: name）"
+      },
+      {
+        "domain": "ui",
+        "kind": "name",
+        "key": "",
+        "ja": "プリズンタワー1027階",
+        "zh": "监狱塔1027层",
+        "status": "draft",
+        "note": "2026-10-30 补全（quest_data.json :: name）"
+      },
+      {
+        "domain": "ui",
+        "kind": "name",
+        "key": "",
+        "ja": "プリズンタワー1028階",
+        "zh": "监狱塔1028层",
+        "status": "draft",
+        "note": "2026-10-30 补全（quest_data.json :: name）"
+      },
+      {
+        "domain": "ui",
+        "kind": "name",
+        "key": "",
+        "ja": "プリズンタワー1029階",
+        "zh": "监狱塔1029层",
+        "status": "draft",
+        "note": "2026-10-30 补全（quest_data.json :: name）"
+      },
+      {
+        "domain": "ui",
+        "kind": "name",
+        "key": "",
+        "ja": "プリズンタワー1030階",
+        "zh": "监狱塔1030层",
+        "status": "draft",
+        "note": "2026-10-30 补全（quest_data.json :: name）"
+      },
+      {
+        "domain": "ui",
+        "kind": "name",
+        "key": "",
+        "ja": "プリズンタワー1031階",
+        "zh": "监狱塔1031层",
+        "status": "draft",
+        "note": "2026-10-30 补全（quest_data.json :: name）"
+      },
+      {
+        "domain": "ui",
+        "kind": "name",
+        "key": "",
+        "ja": "プリズンタワー1032階",
+        "zh": "监狱塔1032层",
+        "status": "draft",
+        "note": "2026-10-30 补全（quest_data.json :: name）"
+      },
+      {
+        "domain": "ui",
+        "kind": "name",
+        "key": "",
+        "ja": "プリズンタワー1033階",
+        "zh": "监狱塔1033层",
+        "status": "draft",
+        "note": "2026-10-30 补全（quest_data.json :: name）"
+      },
+      {
+        "domain": "ui",
+        "kind": "name",
+        "key": "",
+        "ja": "プリズンタワー1034階",
+        "zh": "监狱塔1034层",
+        "status": "draft",
+        "note": "2026-10-30 补全（quest_data.json :: name）"
+      },
+      {
+        "domain": "ui",
+        "kind": "name",
+        "key": "",
+        "ja": "プリズンタワー1035階",
+        "zh": "监狱塔1035层",
+        "status": "draft",
+        "note": "2026-10-30 补全（quest_data.json :: name）"
+      },
+      {
+        "domain": "ui",
+        "kind": "name",
+        "key": "",
+        "ja": "プリズンタワー1036階",
+        "zh": "监狱塔1036层",
+        "status": "draft",
+        "note": "2026-10-30 补全（quest_data.json :: name）"
+      },
+      {
+        "domain": "ui",
+        "kind": "name",
+        "key": "",
+        "ja": "プリズンタワー1037階",
+        "zh": "监狱塔1037层",
+        "status": "draft",
+        "note": "2026-10-30 补全（quest_data.json :: name）"
+      },
+      {
+        "domain": "ui",
+        "kind": "name",
+        "key": "",
+        "ja": "プリズンタワー1038階",
+        "zh": "监狱塔1038层",
+        "status": "draft",
+        "note": "2026-10-30 补全（quest_data.json :: name）"
+      },
+      {
+        "domain": "ui",
+        "kind": "name",
+        "key": "",
+        "ja": "プリズンタワー1039階",
+        "zh": "监狱塔1039层",
+        "status": "draft",
+        "note": "2026-10-30 补全（quest_data.json :: name）"
+      },
+      {
+        "domain": "ui",
+        "kind": "name",
+        "key": "",
+        "ja": "プリズンタワー1040階",
+        "zh": "监狱塔1040层",
+        "status": "draft",
+        "note": "2026-10-30 补全（quest_data.json :: name）"
+      },
+      {
+        "domain": "ui",
+        "kind": "name",
+        "key": "",
+        "ja": "プリズンタワー1041階",
+        "zh": "监狱塔1041层",
+        "status": "draft",
+        "note": "2026-10-30 补全（quest_data.json :: name）"
+      },
+      {
+        "domain": "ui",
+        "kind": "name",
+        "key": "",
+        "ja": "プリズンタワー1042階",
+        "zh": "监狱塔1042层",
+        "status": "draft",
+        "note": "2026-10-30 补全（quest_data.json :: name）"
+      },
+      {
+        "domain": "ui",
+        "kind": "name",
+        "key": "",
+        "ja": "プリズンタワー1043階",
+        "zh": "监狱塔1043层",
+        "status": "draft",
+        "note": "2026-10-30 补全（quest_data.json :: name）"
+      },
+      {
+        "domain": "ui",
+        "kind": "name",
+        "key": "",
+        "ja": "プリズンタワー1044階",
+        "zh": "监狱塔1044层",
+        "status": "draft",
+        "note": "2026-10-30 补全（quest_data.json :: name）"
+      },
+      {
+        "domain": "ui",
+        "kind": "name",
+        "key": "",
+        "ja": "プリズンタワー1045階",
+        "zh": "监狱塔1045层",
+        "status": "draft",
+        "note": "2026-10-30 补全（quest_data.json :: name）"
+      },
+      {
+        "domain": "ui",
+        "kind": "name",
+        "key": "",
+        "ja": "プリズンタワー1046階",
+        "zh": "监狱塔1046层",
+        "status": "draft",
+        "note": "2026-10-30 补全（quest_data.json :: name）"
+      },
+      {
+        "domain": "ui",
+        "kind": "name",
+        "key": "",
+        "ja": "プリズンタワー1047階",
+        "zh": "监狱塔1047层",
+        "status": "draft",
+        "note": "2026-10-30 补全（quest_data.json :: name）"
+      },
+      {
+        "domain": "ui",
+        "kind": "name",
+        "key": "",
+        "ja": "プリズンタワー1048階",
+        "zh": "监狱塔1048层",
+        "status": "draft",
+        "note": "2026-10-30 补全（quest_data.json :: name）"
+      },
+      {
+        "domain": "ui",
+        "kind": "name",
+        "key": "",
+        "ja": "プリズンタワー1049階",
+        "zh": "监狱塔1049层",
+        "status": "draft",
+        "note": "2026-10-30 补全（quest_data.json :: name）"
+      },
+      {
+        "domain": "ui",
+        "kind": "name",
+        "key": "",
+        "ja": "プリズンタワー1050階",
+        "zh": "监狱塔1050层",
+        "status": "draft",
+        "note": "2026-10-30 补全（quest_data.json :: name）"
+      },
+      {
+        "domain": "ui",
+        "kind": "text",
+        "key": "",
+        "ja": "味方が与えるメージ30%減少",
+        "zh": "我方造成的伤害减少30%",
+        "status": "draft",
+        "note": "2026-10-30 补全（quest_training_data.json :: trainingText）"
+      },
+      {
+        "domain": "ui",
+        "kind": "text",
+        "key": "",
+        "ja": "味方が与える物理ダメージ20%上昇",
+        "zh": "我方造成的物理伤害上升20%",
+        "status": "draft",
+        "note": "2026-10-30 补全（quest_training_data.json :: trainingText）"
+      },
+      {
+        "domain": "ui",
+        "kind": "text",
+        "key": "",
+        "ja": "味方が与える魔法ダメージ20%上昇",
+        "zh": "我方造成的魔法伤害上升20%",
+        "status": "draft",
+        "note": "2026-10-30 补全（quest_training_data.json :: trainingText）"
+      },
+      {
+        "domain": "ui",
+        "kind": "text",
+        "key": "",
+        "ja": "味方の攻撃力50%減少、敵の攻撃力100%上昇",
+        "zh": "我方攻击力减少50%、敌人攻击力上升100%",
+        "status": "draft",
+        "note": "2026-10-30 补全（quest_training_data.json :: trainingText）"
+      },
+      {
+        "domain": "ui",
+        "kind": "text",
+        "key": "",
+        "ja": "敵が与える魔法ダメージ20％上昇",
+        "zh": "敌人造成的魔法伤害上升20%",
+        "status": "draft",
+        "note": "2026-10-30 补全（quest_training_data.json :: trainingText）"
+      },
+      {
+        "domain": "ui",
+        "kind": "text",
+        "key": "",
+        "ja": "敵の物防魔防50％上昇",
+        "zh": "敌人物防魔防上升50%",
+        "status": "draft",
+        "note": "2026-10-30 补全（quest_training_data.json :: trainingText）"
+      },
+      {
+        "domain": "ui",
+        "kind": "text",
+        "key": "",
+        "ja": "敵の移動速度100％上昇",
+        "zh": "敌人移动速度上升100%",
+        "status": "draft",
+        "note": "2026-10-30 补全（quest_training_data.json :: trainingText）"
+      },
+      {
+        "domain": "ui",
+        "kind": "text",
+        "key": "",
+        "ja": "敵の耐久力100％上昇",
+        "zh": "敌人耐久上升100%",
+        "status": "draft",
+        "note": "2026-10-30 补全（quest_training_data.json :: trainingText）"
+      },
+      {
+        "domain": "ui",
+        "kind": "text",
+        "key": "",
+        "ja": "敵の耐久力300％上昇",
+        "zh": "敌人耐久上升300%",
+        "status": "draft",
+        "note": "2026-10-30 补全（quest_training_data.json :: trainingText）"
+      },
+      {
+        "domain": "ui",
+        "kind": "text",
+        "key": "",
+        "ja": "敵の魔法防御50％上昇",
+        "zh": "敌人魔法防御上升50%",
+        "status": "draft",
+        "note": "2026-10-30 补全（quest_training_data.json :: trainingText）"
+      },
+      {
+        "domain": "ui",
+        "kind": "text",
+        "key": "",
+        "ja": "火属性以外の味方の与ダメージ50%減少・被ダメージ50%増加",
+        "zh": "火属性以外我方造成伤害减少50%・受到伤害增加50%",
+        "status": "draft",
+        "note": "2026-10-30 补全（quest_training_data.json :: trainingText）"
+      },
+      {
+        "domain": "ui",
+        "kind": "name",
+        "key": "",
+        "ja": "ブロック数 +1",
+        "zh": "阻挡数 +1",
+        "status": "draft",
+        "note": "2026-10-30 补全（refinforce_parameter_data.json :: name）"
+      },
+      {
+        "domain": "ui",
+        "kind": "name",
+        "key": "",
+        "ja": "会心ダメージ抵抗率 +10",
+        "zh": "会心伤害抵抗率 +10",
+        "status": "draft",
+        "note": "2026-10-30 补全（refinforce_parameter_data.json :: name）"
+      },
+      {
+        "domain": "ui",
+        "kind": "name",
+        "key": "",
+        "ja": "会心ダメージ抵抗率 +20",
+        "zh": "会心伤害抵抗率 +20",
+        "status": "draft",
+        "note": "2026-10-30 补全（refinforce_parameter_data.json :: name）"
+      },
+      {
+        "domain": "ui",
+        "kind": "name",
+        "key": "",
+        "ja": "会心ダメージ率 +10",
+        "zh": "会心伤害率 +10",
+        "status": "draft",
+        "note": "2026-10-30 补全（refinforce_parameter_data.json :: name）"
+      },
+      {
+        "domain": "ui",
+        "kind": "name",
+        "key": "",
+        "ja": "会心ダメージ率 +5",
+        "zh": "会心伤害率 +5",
+        "status": "draft",
+        "note": "2026-10-30 补全（refinforce_parameter_data.json :: name）"
+      },
+      {
+        "domain": "ui",
+        "kind": "text",
+        "key": "",
+        "ja": "クエストクリア",
+        "zh": "任务通关",
+        "status": "draft",
+        "note": "2026-10-30 补全（shop_data.json :: sales_conditions）"
+      },
+      {
+        "domain": "ui",
+        "kind": "text",
+        "key": "",
+        "ja": "チュートリアル突破",
+        "zh": "教程突破",
+        "status": "draft",
+        "note": "2026-10-30 补全（shop_data.json :: sales_conditions）"
+      },
+      {
+        "domain": "ui",
+        "kind": "text",
+        "key": "",
+        "ja": "プレイヤーレベル",
+        "zh": "玩家等级",
+        "status": "draft",
+        "note": "2026-10-30 补全（shop_data.json :: sales_conditions）"
+      },
+      {
+        "domain": "ui",
+        "kind": "text",
+        "key": "",
+        "ja": "ユニット初入手",
+        "zh": "单位首次获得",
+        "status": "draft",
+        "note": "2026-10-30 补全（shop_data.json :: sales_conditions）"
+      },
+      {
+        "domain": "ui",
+        "kind": "name",
+        "key": "",
+        "ja": "ゼウス",
+        "zh": "宙斯",
+        "status": "draft",
+        "note": "2026-10-30 补全（special_ability.json :: name）"
+      },
+      {
+        "domain": "ui",
+        "kind": "name",
+        "key": "",
+        "ja": "ヨグソトース",
+        "zh": "犹格·索托斯",
+        "status": "draft",
+        "note": "2026-10-30 补全（special_ability.json :: name）"
+      },
+      {
+        "domain": "ui",
+        "kind": "name",
+        "key": "",
+        "ja": "確定スタン",
+        "zh": "确定眩晕",
+        "status": "draft",
+        "note": "2026-10-30 补全（special_ability.json :: name）"
+      },
+      {
+        "domain": "ui",
+        "kind": "text",
+        "key": "",
+        "ja": "確定スタン+攻撃力ダウン+物理魔法防御ダウン",
+        "zh": "确定眩晕+攻击力下降+物理魔法防御下降",
+        "status": "draft",
+        "note": "2026-10-30 补全（special_ability.json :: text）"
+      },
+      {
+        "domain": "ui",
+        "kind": "title",
+        "key": "",
+        "ja": "アルターエゴイストの戯事　エンディング1",
+        "zh": "另一个自我的戏事　结局1",
+        "status": "draft",
+        "note": "2026-10-30 补全（story_data_rogue.json :: title）"
+      },
+      {
+        "domain": "ui",
+        "kind": "title",
+        "key": "",
+        "ja": "アルターエゴイストの戯事　エンディング2",
+        "zh": "另一个自我的戏事　结局2",
+        "status": "draft",
+        "note": "2026-10-30 补全（story_data_rogue.json :: title）"
+      },
+      {
+        "domain": "ui",
+        "kind": "title",
+        "key": "",
+        "ja": "アルターエゴイストの戯事　エンディング3",
+        "zh": "另一个自我的戏事　结局3",
+        "status": "draft",
+        "note": "2026-10-30 补全（story_data_rogue.json :: title）"
+      },
+      {
+        "domain": "ui",
+        "kind": "title",
+        "key": "",
+        "ja": "アルターエゴイストの戯事　ステージ1",
+        "zh": "另一个自我的戏事　第1",
+        "status": "draft",
+        "note": "2026-10-30 补全（story_data_rogue.json :: title）"
+      },
+      {
+        "domain": "ui",
+        "kind": "title",
+        "key": "",
+        "ja": "アルターエゴイストの戯事　ステージ2",
+        "zh": "另一个自我的戏事　第2",
+        "status": "draft",
+        "note": "2026-10-30 补全（story_data_rogue.json :: title）"
+      },
+      {
+        "domain": "ui",
+        "kind": "title",
+        "key": "",
+        "ja": "アルターエゴイストの戯事　ステージ3",
+        "zh": "另一个自我的戏事　第3",
+        "status": "draft",
+        "note": "2026-10-30 补全（story_data_rogue.json :: title）"
+      },
+      {
+        "domain": "ui",
+        "kind": "title",
+        "key": "",
+        "ja": "アルターエゴイストの戯事　ステージ4",
+        "zh": "另一个自我的戏事　第4",
+        "status": "draft",
+        "note": "2026-10-30 补全（story_data_rogue.json :: title）"
+      },
+      {
+        "domain": "ui",
+        "kind": "title",
+        "key": "",
+        "ja": "アルターエゴイストの戯事　ステージ5",
+        "zh": "另一个自我的戏事　第5",
+        "status": "draft",
+        "note": "2026-10-30 补全（story_data_rogue.json :: title）"
+      },
+      {
+        "domain": "ui",
+        "kind": "text",
+        "key": "",
+        "ja": "スコア",
+        "zh": "分数",
+        "status": "draft",
+        "note": "2026-10-30 补全（detail_text_data.json :: id）"
+      },
+      {
+        "domain": "ui",
+        "kind": "text",
+        "key": "",
+        "ja": "水晶の蛸足トークン",
+        "zh": "水晶蛸足信物",
+        "status": "draft",
+        "note": "2026-10-30 补全（detail_text_data.json :: id）"
+      },
+      {
+        "domain": "ui",
+        "kind": "text",
+        "key": "",
+        "ja": "70万人突破記念記念ログインボーナス",
+        "zh": "70万人突破纪念登录奖励",
+        "status": "draft",
+        "note": "2026-10-30 补全（login_bonus.json :: box_message）"
+      },
+      {
+        "domain": "ui",
+        "kind": "name",
+        "key": "",
+        "ja": "70万人突破記念ログインボーナス",
+        "zh": "70万人突破纪念登录奖励",
+        "status": "draft",
+        "note": "2026-10-30 补全（login_bonus.json :: name）"
+      },
+      {
+        "domain": "ui",
+        "kind": "title",
+        "key": "",
+        "ja": "PvPシーズンランキング報酬",
+        "zh": "PvP赛季排名奖励",
+        "status": "draft",
+        "note": "2026-10-30 补全（mail_message_data.json :: title）"
+      },
+      {
+        "domain": "ui",
+        "kind": "title",
+        "key": "",
+        "ja": "PvPデイリーランキング報酬",
+        "zh": "PvP每日排名奖励",
+        "status": "draft",
+        "note": "2026-10-30 补全（mail_message_data.json :: title）"
+      },
+      {
+        "domain": "ui",
+        "kind": "title",
+        "key": "",
+        "ja": "ミニゲームランキング報酬",
+        "zh": "小游戏排名奖励",
+        "status": "draft",
+        "note": "2026-10-30 补全（mail_message_data.json :: title）"
+      },
+      {
+        "domain": "ui",
+        "kind": "title",
+        "key": "",
+        "ja": "超過したアイテムの送付",
+        "zh": "超出上限物品的发送",
+        "status": "draft",
+        "note": "2026-10-30 补全（mail_message_data.json :: title）"
+      },
+      {
+        "domain": "ui",
+        "kind": "text",
+        "key": "",
+        "ja": "おめでとうございます。<br>PvPにて、シーズンランキング{$weekly_rank}位の成績をおさめました。",
+        "zh": "恭喜您。<br>您在PvP中取得了赛季排名第{$weekly_rank}位的成绩。",
+        "status": "draft",
+        "note": "2026-10-30 补全（mail_message_data.json :: message）"
+      },
+      {
+        "domain": "ui",
+        "kind": "text",
+        "key": "",
+        "ja": "おめでとうございます。<br>PvPにて、デイリーランキング{$daily_rank}位の成績をおさめました。",
+        "zh": "恭喜您。<br>您在PvP中取得了每日排名第{$daily_rank}位的成绩。",
+        "status": "draft",
+        "note": "2026-10-30 补全（mail_message_data.json :: message）"
+      },
+      {
+        "domain": "ui",
+        "kind": "text",
+        "key": "",
+        "ja": "おめでとうございます。<br>ミニゲームにて、ランキング{$weekly_rank}位の成績をおさめました。",
+        "zh": "恭喜您。<br>您在小游戏中取得了排名第{$weekly_rank}位的成绩。",
+        "status": "draft",
+        "note": "2026-10-30 补全（mail_message_data.json :: message）"
+      },
+      {
+        "domain": "ui",
+        "kind": "text",
+        "key": "",
+        "ja": "アイテムの所持上限を超過するため\n以下のアイテムを受け取ることができませんでした。<br>\n所持数を減らした後、あらためて本メールからお受け取りください。\n※所持上限を超過する場合、アイテムを受け取ることはできません。",
+        "zh": "由于超过物品持有上限\r\n以下物品无法领取。<br>\r\n请减少持有数量后，重新从本邮件领取。\r\n※超过持有上限时，无法领取物品。",
+        "status": "draft",
+        "note": "2026-10-30 补全（mail_message_data.json :: message）"
+      },
+      {
+        "domain": "ui",
+        "kind": "message",
+        "key": "",
+        "ja": "最高封印ランク{0}到達で\\n{1}\"",
+        "zh": "达到最高封印等级{0}时\\n{1}\"",
+        "status": "draft",
+        "note": "2026-10-30 补全（message_data.json :: message）"
+      },
+      {
+        "domain": "ui",
+        "kind": "message",
+        "key": "",
+        "ja": "最高封印ランク合計が更新できませんが\\nクエストを開始しますか？",
+        "zh": "最高封印等级合计无法更新，\\n要开始任务吗？",
+        "status": "draft",
+        "note": "2026-10-30 补全（message_data.json :: message）"
+      },
+      {
+        "domain": "ui",
+        "kind": "message",
+        "key": "",
+        "ja": "リーダーが譲渡されました。",
+        "zh": "队长已转让。",
+        "status": "draft",
+        "note": "2026-10-30 补全（message_window_data.json :: message）"
+      },
+      {
+        "domain": "ui",
+        "kind": "text",
+        "key": "",
+        "ja": "「アルターエゴイストの戯事」の深淵の加護を強化することができる",
+        "zh": "可以强化「另一个自我的戏事」的深渊加护",
+        "status": "draft",
+        "note": "2026-10-30 补全（other_wallet.json :: Text）"
+      },
+      {
+        "domain": "ui",
+        "kind": "text",
+        "key": "",
+        "ja": "アルターエゴイストの戯事pt",
+        "zh": "另一个自我的戏事pt",
+        "status": "draft",
+        "note": "2026-10-30 补全（other_wallet.json :: Text）"
+      },
+      {
+        "domain": "ui",
+        "kind": "text",
+        "key": "",
+        "ja": "静寂を裂き、ゼウスが降臨する\n神をも墜とす者として名を刻め",
+        "zh": "撕裂寂静，宙斯降临\n以坠神者之名刻下名号",
+        "status": "draft",
+        "note": "2026-10-30 补全（rogue_quest_data.json :: text）"
+      },
+      {
+        "domain": "ui",
+        "kind": "name",
+        "key": "",
+        "ja": "ルルイエ強化β",
+        "zh": "拉莱耶强化β",
+        "status": "draft",
+        "note": "2026-10-30 补全（rogue_relic_data.json :: name）"
+      },
+      {
+        "domain": "ui",
+        "kind": "text",
+        "key": "",
+        "ja": "ルルイエ勢力の最大耐久+30%、被ダメージ-30%、魔法防御+200%、さらに+500",
+        "zh": "拉莱耶势力最大耐久+30%、受到伤害-30%、魔法防御+200%，再+500",
+        "status": "draft",
+        "note": "2026-10-30 补全（rogue_relic_data.json :: ability_text）"
+      },
+      {
+        "domain": "ui",
+        "kind": "name",
+        "key": "",
+        "ja": "アルターエゴイストの戯事",
+        "zh": "另一个自我的戏事",
+        "status": "draft",
+        "note": "2026-10-30 补全（rogue_theme_data.json :: name）"
+      },
+      {
+        "domain": "ui",
+        "kind": "text",
+        "key": "",
+        "ja": "継承者らは、ルルイエ郊外の戦場に似た偽空間で目を覚ます。\nそこはカミ・ゼウスが造り出した、戯れの遊戯盤の上だった。\nルールすらわからない盤面に立たされた面々は、\nかの者の愉悦と消閑を満たすための矮小なる駒となる。\n命がけで帰還を目指す一行の頭上では、雷鳴を抱く鷲が啼く――。",
+        "zh": "继承者一行在酷似拉莱耶郊外战场的虚假空间中醒来。\n那里是神·宙斯造出的、用于玩乐的棋盘之上。\n被置于连规则都不明白的棋盘上的众人，\n成为满足那位存在愉悦与消遣的渺小棋子。\n在拼死以归还为目标的队伍头顶，怀抱雷鸣的鹫鸟啼鸣——。",
+        "status": "draft",
+        "note": "2026-10-30 补全（rogue_theme_data.json :: text）"
+      },
+      {
+        "domain": "ui",
+        "kind": "name",
+        "key": "",
+        "ja": "キャンディアタック！",
+        "zh": "糖果攻击！",
+        "status": "draft",
+        "note": "2026-10-30 补全（skin_skill_data.json :: name）"
+      },
+      {
+        "domain": "ui",
+        "kind": "name",
+        "key": "",
+        "ja": "ネオンバトン",
+        "zh": "霓虹棒",
+        "status": "draft",
+        "note": "2026-10-30 补全（skin_skill_data.json :: name）"
+      },
+      {
+        "domain": "ui",
+        "kind": "name",
+        "key": "",
+        "ja": "大きな橙色の果物",
+        "zh": "巨大的橙色果实",
+        "status": "draft",
+        "note": "2026-10-30 补全（skin_skill_data.json :: name）"
+      },
+      {
+        "domain": "ui",
+        "kind": "name",
+        "key": "",
+        "ja": "水晶のアクセサリー",
+        "zh": "水晶饰品",
+        "status": "draft",
+        "note": "2026-10-30 补全（skin_skill_data.json :: name）"
+      },
+      {
+        "domain": "ui",
+        "kind": "name",
+        "key": "",
+        "ja": "渦巻く濁海の荒波",
+        "zh": "翻涌的浊海怒涛",
+        "status": "draft",
+        "note": "2026-10-30 补全（skin_skill_data.json :: name）"
+      },
+      {
+        "domain": "ui",
+        "kind": "name",
+        "key": "",
+        "ja": "赤色グラフティ",
+        "zh": "红色涂鸦",
+        "status": "draft",
+        "note": "2026-10-30 补全（skin_skill_data.json :: name）"
+      },
+      {
+        "domain": "ui",
+        "kind": "name",
+        "key": "",
+        "ja": "魅惑のケーキ",
+        "zh": "魅惑蛋糕",
+        "status": "draft",
+        "note": "2026-10-30 补全（skin_skill_data.json :: name）"
+      },
+      {
+        "domain": "ui",
+        "kind": "name",
+        "key": "",
+        "ja": "黒き天からの召雷",
+        "zh": "来自黑天的召雷",
+        "status": "draft",
+        "note": "2026-10-30 补全（skin_skill_data.json :: name）"
       }
     ]
   }
