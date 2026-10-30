@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
   "language": "zh-CN",
-  "generatedAt": "2026-10-30T10:19:42+08:00",
+  "generatedAt": "2026-10-30T10:24:04+08:00",
   "names": {
     "schemaVersion": 1,
     "language": "zh-CN",
-    "generatedAt": "2026-10-30T10:19:42+08:00",
+    "generatedAt": "2026-10-30T10:24:04+08:00",
     "entries": [
       {
         "Ja": "主人公",
@@ -4891,7 +4891,7 @@
   "profiles": {
     "schemaVersion": 1,
     "language": "zh-CN",
-    "generatedAt": "2026-10-30T10:19:42+08:00",
+    "generatedAt": "2026-10-30T10:24:04+08:00",
     "entries": [
       {
         "groupId": 1,
@@ -137582,6 +137582,42 @@
         "zh": "将加塔拉莎的当前耐久/物理/魔法防御力的100%分别加算到对应属性\r\n不受后退效果影响，攻击时蓄积60点眩晕值",
         "status": "draft",
         "note": "2026-10-30 更新"
+      },
+      {
+        "domain": "ui",
+        "kind": "Message1",
+        "key": "",
+        "ja": "ゲームは人生！\n全力でガチって楽しもうぜ！",
+        "zh": "游戏即人生！\n全力认真地享受吧！",
+        "status": "draft",
+        "note": "2026-10-30 角色台词（unit_catchphrase）"
+      },
+      {
+        "domain": "ui",
+        "kind": "Message1",
+        "key": "",
+        "ja": "水晶に尋ねましょう。\nルルイエが辿る未来の色を――。",
+        "zh": "去问问水晶吧。\n拉莱耶将走向的未来之色——。",
+        "status": "draft",
+        "note": "2026-10-30 角色台词（unit_catchphrase）"
+      },
+      {
+        "domain": "ui",
+        "kind": "Message1",
+        "key": "",
+        "ja": "くひひひっ。 \n楽しい狩りの時間、ダ！",
+        "zh": "库嘻嘻嘻。 \n愉快的狩猎时间，到！",
+        "status": "draft",
+        "note": "2026-10-30 角色台词（unit_catchphrase）"
+      },
+      {
+        "domain": "ui",
+        "kind": "Message1",
+        "key": "",
+        "ja": "じゅるり……みんな美味しそう。 \nそんなわけで……いただきまぁす♪",
+        "zh": "吸溜……大家看起来都很好吃。 \n所以说……我开动了♪",
+        "status": "draft",
+        "note": "2026-10-30 角色台词（unit_catchphrase）"
       }
     ]
   }
