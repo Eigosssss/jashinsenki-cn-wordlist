@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
   "language": "zh-CN",
-  "generatedAt": "2026-10-23T11:38:34+08:00",
+  "generatedAt": "2026-10-30T10:19:42+08:00",
   "packFile": "pack.json",
-  "packSha256": "c3bacb5ab7de9824343328a761aa9da405e51abf04b8626af440f08b34879085",
+  "packSha256": "d72d0ad432f9669d87862e2673442bf1b9b39cf84f1c5a81a2c0d321c645e659",
   "counts": {
-    "namesEntries": 694,
-    "profilesEntries": 377,
-    "extrasEntries": 14280
+    "namesEntries": 697,
+    "profilesEntries": 381,
+    "extrasEntries": 14317
   },
   "game": "rlyehshoujotaix_cl",
   "pluginVersion": "1.10.3",
