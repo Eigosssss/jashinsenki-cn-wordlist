@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
   "language": "zh-CN",
-  "generatedAt": "2026-11-16T19:26:35+08:00",
+  "generatedAt": "2026-11-16T19:28:49+08:00",
   "names": {
     "schemaVersion": 1,
     "language": "zh-CN",
-    "generatedAt": "2026-11-16T19:26:35+08:00",
+    "generatedAt": "2026-11-16T19:28:49+08:00",
     "entries": [
       {
         "Ja": "主人公",
@@ -4912,7 +4912,7 @@
   "profiles": {
     "schemaVersion": 1,
     "language": "zh-CN",
-    "generatedAt": "2026-11-16T19:26:35+08:00",
+    "generatedAt": "2026-11-16T19:28:49+08:00",
     "entries": [
       {
         "groupId": 1,
@@ -140379,6 +140379,42 @@
         "zh": "上线200天突破纪念登录奖励",
         "status": "draft",
         "note": "2026-11-13 登录奖励名称"
+      },
+      {
+        "domain": "ui",
+        "kind": "speech_text",
+        "key": "",
+        "ja": "アイテムは大事にな。無駄打ちすんなよ～？",
+        "zh": "道具要好好珍惜啊。别乱用哦～？",
+        "status": "draft",
+        "note": "2026-11-13 登录奖励角色台词"
+      },
+      {
+        "domain": "ui",
+        "kind": "speech_text",
+        "key": "",
+        "ja": "これは、ジャンク……じゃないわね。",
+        "zh": "这个，不是垃圾……呢。",
+        "status": "draft",
+        "note": "2026-11-13 登录奖励角色台词"
+      },
+      {
+        "domain": "ui",
+        "kind": "speech_text",
+        "key": "",
+        "ja": "なんかとどいてるぞ。\nおまえ、これがなんなのか、知ってるカ？",
+        "zh": "有东西送到了哦。\n你、知道这是什么吗？",
+        "status": "draft",
+        "note": "2026-11-13 登录奖励角色台词"
+      },
+      {
+        "domain": "ui",
+        "kind": "speech_text",
+        "key": "",
+        "ja": "これも食べられますかねぇ……じゅるり。",
+        "zh": "这个也能吃吗……吸溜。",
+        "status": "draft",
+        "note": "2026-11-13 登录奖励角色台词"
       }
     ]
   }
