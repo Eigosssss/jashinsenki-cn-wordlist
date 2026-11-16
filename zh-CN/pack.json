@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
   "language": "zh-CN",
-  "generatedAt": "2026-11-13T11:57:44+08:00",
+  "generatedAt": "2026-11-16T10:55:12+08:00",
   "names": {
     "schemaVersion": 1,
     "language": "zh-CN",
-    "generatedAt": "2026-11-13T11:57:44+08:00",
+    "generatedAt": "2026-11-16T10:55:12+08:00",
     "entries": [
       {
         "Ja": "主人公",
@@ -38,7 +38,7 @@
       {
         "Ja": "ノーティア・ゾーノ",
         "Zh": "诺蒂娅·佐诺",
-        "Alias": "",
+        "Alias": "大姐",
         "Status": "pack",
         "Note": "出现 467 次, 场景数 45 / roster:id=39 / roster:id=280001"
       },
@@ -73,7 +73,7 @@
       {
         "Ja": "ムルミィ・ゾォム",
         "Zh": "穆尔米·佐姆",
-        "Alias": "",
+        "Alias": "水锤",
         "Status": "pack",
         "Note": "出现 300 次, 场景数 34 / roster:id=40 / roster:id=280017"
       },
@@ -94,14 +94,14 @@
       {
         "Ja": "ユラナ・ゾッタ",
         "Zh": "尤拉娜·佐塔",
-        "Alias": "",
+        "Alias": "伞",
         "Status": "pack",
         "Note": "出现 283 次, 场景数 38 / roster:id=25"
       },
       {
         "Ja": "エカ・インティ",
         "Zh": "艾卡·因蒂",
-        "Alias": "",
+        "Alias": "火02",
         "Status": "pack",
         "Note": "出现 278 次, 场景数 18 / roster:id=33"
       },
@@ -206,7 +206,7 @@
       {
         "Ja": "グラン・ヴェルノ",
         "Zh": "格兰·维尔诺",
-        "Alias": "",
+        "Alias": "火龙",
         "Status": "pack",
         "Note": "出现 205 次, 场景数 11 / roster:id=31"
       },
@@ -451,7 +451,7 @@
       {
         "Ja": "エヴァラス・フラウ",
         "Zh": "艾瓦拉斯·芙劳",
-        "Alias": "",
+        "Alias": "魔菲",
         "Status": "pack",
         "Note": "出现 137 次, 场景数 10 / roster:id=79"
       },
@@ -465,7 +465,7 @@
       {
         "Ja": "ネア・ウルム",
         "Zh": "妮娅·乌尔姆",
-        "Alias": "",
+        "Alias": "泡泡",
         "Status": "pack",
         "Note": "出现 134 次, 场景数 7 / roster:id=52"
       },
@@ -584,7 +584,7 @@
       {
         "Ja": "マリア・シュピール",
         "Zh": "玛丽亚·施皮尔",
-        "Alias": "",
+        "Alias": "人偶",
         "Status": "pack",
         "Note": "出现 88 次, 场景数 4 / roster:id=75"
       },
@@ -4912,7 +4912,7 @@
   "profiles": {
     "schemaVersion": 1,
     "language": "zh-CN",
-    "generatedAt": "2026-11-13T11:57:44+08:00",
+    "generatedAt": "2026-11-16T10:55:12+08:00",
     "entries": [
       {
         "groupId": 1,
