@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-30",
+  "updatedAt": "2026-11-13",
   "note": "词表覆盖率审计规则。任何设备 pull 后运行 tools/audit_coverage.py 即可用同一套类目与排除规则复查，避免换设备漏检。",
   "categories": [
     {
@@ -266,6 +266,16 @@
       "label": "怪物/单位名",
       "file": "token_data.json",
       "field": "name"
+    },
+    {
+      "label": "登录奖励名",
+      "file": "login_bonus.json",
+      "field": "name"
+    },
+    {
+      "label": "登录奖励说明",
+      "file": "login_bonus.json",
+      "field": "box_message"
     }
   ],
   "skipFieldNames": [
