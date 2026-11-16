@@ -276,6 +276,12 @@
       "label": "登录奖励说明",
       "file": "login_bonus.json",
       "field": "box_message"
+    },
+    {
+      "label": "登录奖励台词",
+      "file": "login_bonus_cell.json",
+      "field": "speech_text",
+      "nested": "dayData"
     }
   ],
   "skipFieldNames": [

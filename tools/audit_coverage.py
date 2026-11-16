@@ -88,22 +88,29 @@ def main():
         except Exception:
             continue
         field = c["field"]
+        nested = c.get("nested")          # 可选：记录里再嵌一层数组（如 login_bonus_cell.dayData[]）
         vals, seen = [], set()
         for r in recs:
             if not isinstance(r, dict):
                 continue
-            v = r.get(field)
-            if not isinstance(v, str) or field in skip_fields:
+            containers = r.get(nested) if nested else [r]
+            if not isinstance(containers, list):
                 continue
-            v = v.strip()
-            if not v or v.startswith(skip_prefix) or ph.search(v):
-                continue
-            if not re.search(r"[ぁ-んァ-ヶ]", v):
-                continue
-            if v in seen:
-                continue
-            seen.add(v)
-            vals.append(v)
+            for item in containers:
+                if not isinstance(item, dict):
+                    continue
+                v = item.get(field)
+                if not isinstance(v, str) or field in skip_fields:
+                    continue
+                v = v.strip()
+                if not v or v.startswith(skip_prefix) or ph.search(v):
+                    continue
+                if not re.search(r"[ぁ-んァ-ヶ]", v):
+                    continue
+                if v in seen:
+                    continue
+                seen.add(v)
+                vals.append(v)
         miss = [v for v in vals if norm(v) not in have]
         results.append({
             "category": c["label"], "file": c["file"], "field": field,
