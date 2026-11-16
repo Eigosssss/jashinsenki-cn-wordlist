@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
   "language": "zh-CN",
-  "generatedAt": "2026-11-16T11:02:41+08:00",
+  "generatedAt": "2026-11-16T11:13:21+08:00",
   "names": {
     "schemaVersion": 1,
     "language": "zh-CN",
-    "generatedAt": "2026-11-16T11:02:41+08:00",
+    "generatedAt": "2026-11-16T11:13:21+08:00",
     "entries": [
       {
         "Ja": "主人公",
@@ -129,7 +129,7 @@
       {
         "Ja": "イヴ・メサイア",
         "Zh": "伊芙·弥赛亚",
-        "Alias": "暂无",
+        "Alias": "契约",
         "Status": "pack",
         "Note": "出现 240 次, 场景数 12 / roster:id=48"
       },
@@ -437,7 +437,7 @@
       {
         "Ja": "ウェンディ",
         "Zh": "温蒂",
-        "Alias": "暂无",
+        "Alias": "病娇",
         "Status": "pack",
         "Note": "出现 139 次, 场景数 5 / roster:id=6"
       },
@@ -4014,7 +4014,7 @@
       {
         "Ja": "T.O.W.E.R.typeR",
         "Zh": "T.O.W.E.R.typeR",
-        "Alias": "",
+        "Alias": "塔娃",
         "Status": "blocked",
         "Note": "按此前约定：本角色名保留原文 / 译文与原文相同（中日同形）→ 无需替换；替换动作本身会触发游戏侧异常（主角名空白同因）"
       },
@@ -4042,14 +4042,14 @@
       {
         "Ja": "ピオニー",
         "Zh": "皮奥妮",
-        "Alias": "",
+        "Alias": "间谍",
         "Status": "pack",
         "Note": "unit 86 / charaName=ピオニー（2026-09-25 新角色）"
       },
       {
         "Ja": "シリウス３",
         "Zh": "天狼星３",
-        "Alias": "",
+        "Alias": "天狼星",
         "Status": "pack",
         "Note": "unit.charaName（不带括号的原名，独立于图鉴显示名）"
       },
@@ -4784,14 +4784,14 @@
       {
         "Ja": "[蠢契]イヴ・メサイア",
         "Zh": "[蠢契]伊芙·弥赛亚",
-        "Alias": "",
+        "Alias": "万圣契约",
         "Status": "pack",
         "Note": "unit 90 / resource 10091（2026-10-09 新卡面）"
       },
       {
         "Ja": "[幽酊]メルファ",
         "Zh": "[幽酊]梅尔法",
-        "Alias": "",
+        "Alias": "万圣酒鬼",
         "Status": "pack",
         "Note": "unit 91 / resource 10088（2026-10-09 新卡面）"
       },
@@ -4868,42 +4868,42 @@
       {
         "Ja": "ミーティリー",
         "Zh": "米蒂莉",
-        "Alias": "",
+        "Alias": "阿尼亚",
         "Status": "pack",
         "Note": ""
       },
       {
         "Ja": "ルオシェン",
         "Zh": "罗申",
-        "Alias": "",
+        "Alias": "螺旋枪",
         "Status": "pack",
         "Note": ""
       },
       {
         "Ja": "ガタラーシャ",
         "Zh": "加塔拉莎",
-        "Alias": "",
+        "Alias": "占卜师",
         "Status": "pack",
         "Note": ""
       },
       {
         "Ja": "スコービー・ヴァオ",
         "Zh": "斯科比·瓦奥",
-        "Alias": "",
+        "Alias": "毒蝎",
         "Status": "pack",
         "Note": ""
       },
       {
         "Ja": "グリモイータ",
         "Zh": "格里莫伊塔",
-        "Alias": "",
+        "Alias": "吃货",
         "Status": "pack",
         "Note": ""
       },
       {
         "Ja": "ブラヴァ",
         "Zh": "布拉瓦",
-        "Alias": "",
+        "Alias": "猫枪",
         "Status": "pack",
         "Note": "2026-11-13 新实装角色"
       }
@@ -4912,7 +4912,7 @@
   "profiles": {
     "schemaVersion": 1,
     "language": "zh-CN",
-    "generatedAt": "2026-11-16T11:02:41+08:00",
+    "generatedAt": "2026-11-16T11:13:21+08:00",
     "entries": [
       {
         "groupId": 1,
